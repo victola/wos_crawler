@@ -81,5 +81,6 @@ def draw_net(G: nx.Graph, title='co-occurrence', output_path=None):
                         xaxis=dict(showgrid=False, zeroline=False, showticklabels=False),
                         yaxis=dict(showgrid=False, zeroline=False, showticklabels=False)))
 
+
     plotly.offline.plot(fig, filename='{}.html'.format(output_path), auto_open=False, image_width=1600,
                         image_height=900, image='png')

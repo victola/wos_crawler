@@ -1,7 +1,7 @@
 # from gui.main_gui import *
 import settings
 from scrapy import cmdline
-
+from analysis.cooccurrence.co_keyword import draw_cooccurrence_network
 
 def crawl_by_journal(journal_list_path, output_path='../output', document_type='Article', output_format='bibtex'):
     cmdline.execute(
@@ -30,9 +30,9 @@ def crawl_by_gui():
 
 if __name__ == '__main__':
 
-    journal_list_path=r'I:\Baidu Yun\Github\clone\wos_crawler\input\journal_list.txt'
+    journal_list_path=r'..\input\journal_list.txt'
     query = 'TS=(warmth AND competence)'
-    query = 'TS=(recommendation agent)'
+    # query = 'TS=(recommendation agent)'
 
     # 按期刊下载
     # crawl_by_journal(journal_list_path=r'C:\Users\Tom\PycharmProjects\wos_crawler\input\journal_list_test.txt',
@@ -41,8 +41,8 @@ if __name__ == '__main__':
     # 按检索式下载
     # crawl_by_query(query='TS=information science AND PY=(2018)',
     #                output_path='../output', output_format='bibtex', document_type='proceedings paper')
-    crawl_by_query(query=query,
-                   output_path='../output', output_format='fieldtagged', document_type='')
+    # crawl_by_query(query=query,
+    #                output_path='../output', output_format='fieldtagged', document_type='')
     
     # 按检索和指定期刊下载
     # crawl_by_mixed_query(query=query, journal_list_path=journal_list_path,
@@ -50,4 +50,9 @@ if __name__ == '__main__':
 
     # 使用GUI下载
     # crawl_by_gui()
+
+    draw_cooccurrence_network(net_type='author',
+                              db_path=r'../output/advanced_query/2019-03-21-22.29.05/result.db',
+                              output_path=r'../output/analysis',
+                              top_n=50)
     pass

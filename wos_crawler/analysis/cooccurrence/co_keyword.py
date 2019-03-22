@@ -49,28 +49,32 @@ def draw_cooccurrence_network(net_type=None, db_path=None, output_path=None, top
         if len(row_split) > 1:
             graph_data += list(combinations(row_split, 2))
 
+
     # network是包含了全部关键词的共现网络
     print('正在生成共现网络')
     network = get_network(graph_data, directed=False)
 
     session.close()
 
-    nx.write_graphml(network, 'test.gml')
+    # os.makedirs(os.path.dirname(output_path), exist_ok=True)
+    output_path = os.path.join(output_path, net_type)
+
+    nx.write_graphml(network, '{}.gml'.format(output_path))
+    nx.write_pajek(network, '{}.net'.format(output_path))
 
     filter_nodes = [i[0] for i in filter_data[top_n:]]
     sub = nx.restricted_view(network, filter_nodes, [])
 
 
-
     # 最大联通子图
     # sub = sorted(nx.connected_component_subgraphs(sub), key = len, reverse=True)[0]
 
-    # print('正在绘图')
-    draw_net(sub, title=title, output_path=os.path.join(output_path, net_type))
+    print('正在绘图')
+    draw_net(sub, title=title, output_path=output_path)
 
 if __name__ == '__main__':
     draw_cooccurrence_network(net_type='author',
-                              db_path=r'C:\Users\Tom\PycharmProjects\wos_crawler\output\advanced_query\2019-01-31-10.21.19\result.db',
-                              output_path=r'C:\Users\Tom\Desktop',
+                              db_path=r'I:\Baidu Yun\Github\my-coding-project\wos_crawler\output\advanced_query\2019-03-21-22.29.05\result.db',
+                              output_path=r'I:\Baidu Yun\Github\my-coding-project\wos_crawler\output\analysis',
                               top_n=50)
 

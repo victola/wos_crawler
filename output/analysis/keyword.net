@@ -1,0 +1,8321 @@
+*vertices 1876
+1 coas 0.0 0.0 ellipse
+2 "theory of warmth and competence" 0.0 0.0 ellipse
+3 "social desirability vs. social utility" 0.0 0.0 ellipse
+4 "early childhood" 0.0 0.0 ellipse
+5 "casual dining restaurants" 0.0 0.0 ellipse
+6 "purchase incentive" 0.0 0.0 ellipse
+7 compensation 0.0 0.0 ellipse
+8 responsibility 0.0 0.0 ellipse
+9 "ingroup bias" 0.0 0.0 ellipse
+10 "identity construction" 0.0 0.0 ellipse
+11 competence 0.0 0.0 ellipse
+12 "symbolic capital" 0.0 0.0 ellipse
+13 "health communication" 0.0 0.0 ellipse
+14 "intragroup processes" 0.0 0.0 ellipse
+15 "elementary students" 0.0 0.0 ellipse
+16 "vocal femininity" 0.0 0.0 ellipse
+17 "comparative thinking" 0.0 0.0 ellipse
+18 "impression formation" 0.0 0.0 ellipse
+19 china 0.0 0.0 ellipse
+20 "nonverbal behavior" 0.0 0.0 ellipse
+21 "brand competence" 0.0 0.0 ellipse
+22 "hubris hypothesis" 0.0 0.0 ellipse
+23 "intergroup bias" 0.0 0.0 ellipse
+24 adolescence 0.0 0.0 ellipse
+25 "harsh parenting" 0.0 0.0 ellipse
+26 "self-expressiveness benefit" 0.0 0.0 ellipse
+27 understanding 0.0 0.0 ellipse
+28 "personalize spaces" 0.0 0.0 ellipse
+29 "psychosocial risk factors" 0.0 0.0 ellipse
+30 "ethical standards" 0.0 0.0 ellipse
+31 "externalizing behaviour" 0.0 0.0 ellipse
+32 "beliefs about future society" 0.0 0.0 ellipse
+33 knowledge 0.0 0.0 ellipse
+34 positivity 0.0 0.0 ellipse
+35 stuttering 0.0 0.0 ellipse
+36 syllabus 0.0 0.0 ellipse
+37 "diabetic ketoacidosis" 0.0 0.0 ellipse
+38 "agrifood industry" 0.0 0.0 ellipse
+39 adea 0.0 0.0 ellipse
+40 colorblindness 0.0 0.0 ellipse
+41 "african american" 0.0 0.0 ellipse
+42 "mixed methods research" 0.0 0.0 ellipse
+43 "advice giving" 0.0 0.0 ellipse
+44 "perceived control" 0.0 0.0 ellipse
+45 health 0.0 0.0 ellipse
+46 "welfare attitudes" 0.0 0.0 ellipse
+47 regulation 0.0 0.0 ellipse
+48 "romantic relationships" 0.0 0.0 ellipse
+49 assessment 0.0 0.0 ellipse
+50 engagement 0.0 0.0 ellipse
+51 approach/avoidance 0.0 0.0 ellipse
+52 "preschool children" 0.0 0.0 ellipse
+53 "national stereotypes" 0.0 0.0 ellipse
+54 work 0.0 0.0 ellipse
+55 "stereotypes content model" 0.0 0.0 ellipse
+56 "intergroup attitudes" 0.0 0.0 ellipse
+57 "spontaneous trait inferences" 0.0 0.0 ellipse
+58 "rural china" 0.0 0.0 ellipse
+59 branding 0.0 0.0 ellipse
+60 "corporate associations" 0.0 0.0 ellipse
+61 "ageist stereotypes" 0.0 0.0 ellipse
+62 "traditional and sexist beliefs" 0.0 0.0 ellipse
+63 "maternal depressive symptoms" 0.0 0.0 ellipse
+64 "african american parenting" 0.0 0.0 ellipse
+65 "facet model" 0.0 0.0 ellipse
+66 "immigrant target" 0.0 0.0 ellipse
+67 "impression management" 0.0 0.0 ellipse
+68 "performance expectation" 0.0 0.0 ellipse
+69 comprehensibility 0.0 0.0 ellipse
+70 context 0.0 0.0 ellipse
+71 employed 0.0 0.0 ellipse
+72 deontology 0.0 0.0 ellipse
+73 dealignment 0.0 0.0 ellipse
+74 "open data" 0.0 0.0 ellipse
+75 "social media" 0.0 0.0 ellipse
+76 kuwait 0.0 0.0 ellipse
+77 "socialization of emotions" 0.0 0.0 ellipse
+78 "relational perspective" 0.0 0.0 ellipse
+79 "social attitudes" 0.0 0.0 ellipse
+80 "social resistance" 0.0 0.0 ellipse
+81 media 0.0 0.0 ellipse
+82 "medical history taking" 0.0 0.0 ellipse
+83 "functional approach" 0.0 0.0 ellipse
+84 maltreatment 0.0 0.0 ellipse
+85 "norm violation" 0.0 0.0 ellipse
+86 "(isi) change phenomenon" 0.0 0.0 ellipse
+87 "facial motion" 0.0 0.0 ellipse
+88 "rules and standards" 0.0 0.0 ellipse
+89 siblings 0.0 0.0 ellipse
+90 quality 0.0 0.0 ellipse
+91 "social expectancy violation" 0.0 0.0 ellipse
+92 "scanning habit" 0.0 0.0 ellipse
+93 effort 0.0 0.0 ellipse
+94 "negative inferences" 0.0 0.0 ellipse
+95 entrepreneurship 0.0 0.0 ellipse
+96 "autonomic system" 0.0 0.0 ellipse
+97 "scottish english" 0.0 0.0 ellipse
+98 "person-organization fit" 0.0 0.0 ellipse
+99 controversy 0.0 0.0 ellipse
+100 "emotional expressiveness" 0.0 0.0 ellipse
+101 "venture framing" 0.0 0.0 ellipse
+102 "parental hostility" 0.0 0.0 ellipse
+103 entitativity 0.0 0.0 ellipse
+104 "social judgement" 0.0 0.0 ellipse
+105 "school performance" 0.0 0.0 ellipse
+106 "lost-letter technique" 0.0 0.0 ellipse
+107 "brand attachment" 0.0 0.0 ellipse
+108 "maternal depression" 0.0 0.0 ellipse
+109 "achievement motives" 0.0 0.0 ellipse
+110 "employer branding" 0.0 0.0 ellipse
+111 sociophonetics 0.0 0.0 ellipse
+112 crowdsourcing 0.0 0.0 ellipse
+113 "pluralistic ignorance" 0.0 0.0 ellipse
+114 "negative campaigns" 0.0 0.0 ellipse
+115 overwork 0.0 0.0 ellipse
+116 "service failure" 0.0 0.0 ellipse
+117 "propensity to trust" 0.0 0.0 ellipse
+118 "cross-cultural research" 0.0 0.0 ellipse
+119 "positive youth development" 0.0 0.0 ellipse
+120 infra-humanization 0.0 0.0 ellipse
+121 "interpersonal warmth" 0.0 0.0 ellipse
+122 "imagined contact" 0.0 0.0 ellipse
+123 "caregiver distress" 0.0 0.0 ellipse
+124 styling 0.0 0.0 ellipse
+125 "posture suggestiveness" 0.0 0.0 ellipse
+126 "purchase intension" 0.0 0.0 ellipse
+127 "intergroup stereotypes" 0.0 0.0 ellipse
+128 "warmth and competence" 0.0 0.0 ellipse
+129 "pro-social behavior" 0.0 0.0 ellipse
+130 "the human brand" 0.0 0.0 ellipse
+131 ambivalence 0.0 0.0 ellipse
+132 users 0.0 0.0 ellipse
+133 switzerland 0.0 0.0 ellipse
+134 ostracism 0.0 0.0 ellipse
+135 scorn 0.0 0.0 ellipse
+136 "doctor-patient simulations" 0.0 0.0 ellipse
+137 colorism 0.0 0.0 ellipse
+138 "gender schema" 0.0 0.0 ellipse
+139 stress 0.0 0.0 ellipse
+140 "organizational justice" 0.0 0.0 ellipse
+141 self-conceptm 0.0 0.0 ellipse
+142 "behavioral desire" 0.0 0.0 ellipse
+143 "parental involvement" 0.0 0.0 ellipse
+144 "psychological essentialism" 0.0 0.0 ellipse
+145 "turnover rate" 0.0 0.0 ellipse
+146 "empirical study" 0.0 0.0 ellipse
+147 circumplex 0.0 0.0 ellipse
+148 "marketplace discrimination" 0.0 0.0 ellipse
+149 "leader warmth" 0.0 0.0 ellipse
+150 "joint outcome" 0.0 0.0 ellipse
+151 "big five-factor model of personality" 0.0 0.0 ellipse
+152 "supercongruent exemplars" 0.0 0.0 ellipse
+153 "perceived effort" 0.0 0.0 ellipse
+154 "asian american" 0.0 0.0 ellipse
+155 "environmental beliefs" 0.0 0.0 ellipse
+156 "therapeutic alliance" 0.0 0.0 ellipse
+157 "lab study" 0.0 0.0 ellipse
+158 "multivoxel pattern analysis" 0.0 0.0 ellipse
+159 experiment 0.0 0.0 ellipse
+160 "facial trustworthiness" 0.0 0.0 ellipse
+161 "social safeness" 0.0 0.0 ellipse
+162 enforcement 0.0 0.0 ellipse
+163 "wealth stereotype" 0.0 0.0 ellipse
+164 intersectionality 0.0 0.0 ellipse
+165 "parent-child interactions" 0.0 0.0 ellipse
+166 teaching 0.0 0.0 ellipse
+167 "bias map" 0.0 0.0 ellipse
+168 perceptions 0.0 0.0 ellipse
+169 "food crisis" 0.0 0.0 ellipse
+170 "motivational resilience" 0.0 0.0 ellipse
+171 "parent-child interactional style" 0.0 0.0 ellipse
+172 "hostile work environments" 0.0 0.0 ellipse
+173 "organizational behavior" 0.0 0.0 ellipse
+174 uncertainty 0.0 0.0 ellipse
+175 "parents attitudes" 0.0 0.0 ellipse
+176 "power distance orientation" 0.0 0.0 ellipse
+177 othering 0.0 0.0 ellipse
+178 "intellectual humility" 0.0 0.0 ellipse
+179 "instructor gender" 0.0 0.0 ellipse
+180 wrongdoing 0.0 0.0 ellipse
+181 fatigue 0.0 0.0 ellipse
+182 diversity 0.0 0.0 ellipse
+183 "parenting style" 0.0 0.0 ellipse
+184 "bisexual women" 0.0 0.0 ellipse
+185 "occupational personality" 0.0 0.0 ellipse
+186 psychotherapists 0.0 0.0 ellipse
+187 "visual bias" 0.0 0.0 ellipse
+188 "externalizing problems" 0.0 0.0 ellipse
+189 sexism 0.0 0.0 ellipse
+190 minority 0.0 0.0 ellipse
+191 "motivated reasoning" 0.0 0.0 ellipse
+192 "regulatory focus" 0.0 0.0 ellipse
+193 development 0.0 0.0 ellipse
+194 "parental acceptance-rejection" 0.0 0.0 ellipse
+195 "parenting efficacy" 0.0 0.0 ellipse
+196 "spatial bias" 0.0 0.0 ellipse
+197 "general prejudice" 0.0 0.0 ellipse
+198 "processing fluency" 0.0 0.0 ellipse
+199 recruitment 0.0 0.0 ellipse
+200 "ambivalent sexism" 0.0 0.0 ellipse
+201 "youth mental health" 0.0 0.0 ellipse
+202 children 0.0 0.0 ellipse
+203 "bereavement support" 0.0 0.0 ellipse
+204 cuteness 0.0 0.0 ellipse
+205 pakistan 0.0 0.0 ellipse
+206 "judgment and decision making" 0.0 0.0 ellipse
+207 "job search" 0.0 0.0 ellipse
+208 "human-robot handovers" 0.0 0.0 ellipse
+209 "child adjustment" 0.0 0.0 ellipse
+210 acculturation 0.0 0.0 ellipse
+211 "executive function" 0.0 0.0 ellipse
+212 "health personnel" 0.0 0.0 ellipse
+213 "restaurant sales" 0.0 0.0 ellipse
+214 "parent-child relations" 0.0 0.0 ellipse
+215 "parent-adolescent relations" 0.0 0.0 ellipse
+216 "behavioral tendencies" 0.0 0.0 ellipse
+217 personification 0.0 0.0 ellipse
+218 "physical disability" 0.0 0.0 ellipse
+219 parenthood 0.0 0.0 ellipse
+220 facets 0.0 0.0 ellipse
+221 "competence/agency and warmth/communion" 0.0 0.0 ellipse
+222 "intergroup perception" 0.0 0.0 ellipse
+223 self-esteem 0.0 0.0 ellipse
+224 objectification 0.0 0.0 ellipse
+225 "aesthetic benefit" 0.0 0.0 ellipse
+226 agency 0.0 0.0 ellipse
+227 incivility 0.0 0.0 ellipse
+228 "legal education" 0.0 0.0 ellipse
+229 "medical professionals" 0.0 0.0 ellipse
+230 "national identity" 0.0 0.0 ellipse
+231 grief 0.0 0.0 ellipse
+232 "communication accommodation theory" 0.0 0.0 ellipse
+233 self 0.0 0.0 ellipse
+234 overaccommodation 0.0 0.0 ellipse
+235 "fundamental dimension" 0.0 0.0 ellipse
+236 "intergroup emotion" 0.0 0.0 ellipse
+237 "older and younger adults" 0.0 0.0 ellipse
+238 "legal judgment and decision-making" 0.0 0.0 ellipse
+239 "chinese adolescents" 0.0 0.0 ellipse
+240 fiske 0.0 0.0 ellipse
+241 epidemiology 0.0 0.0 ellipse
+242 ethnocentrism 0.0 0.0 ellipse
+243 "institutional theories" 0.0 0.0 ellipse
+244 "country stereotypes" 0.0 0.0 ellipse
+245 "revealing clothing" 0.0 0.0 ellipse
+246 "peer relations" 0.0 0.0 ellipse
+247 "reward interdependence" 0.0 0.0 ellipse
+248 "culturally responsive education" 0.0 0.0 ellipse
+249 "warmth, morality, and competence" 0.0 0.0 ellipse
+250 "eating disorders" 0.0 0.0 ellipse
+251 "medical students" 0.0 0.0 ellipse
+252 evolution 0.0 0.0 ellipse
+253 "inductive discipline" 0.0 0.0 ellipse
+254 perfectionism 0.0 0.0 ellipse
+255 admiration 0.0 0.0 ellipse
+256 cross-national 0.0 0.0 ellipse
+257 "health facilities" 0.0 0.0 ellipse
+258 agreeableness 0.0 0.0 ellipse
+259 longitudinal 0.0 0.0 ellipse
+260 self-identity 0.0 0.0 ellipse
+261 "cognitive inconsistency" 0.0 0.0 ellipse
+262 "dual-processes theories of mind" 0.0 0.0 ellipse
+263 "south korea" 0.0 0.0 ellipse
+264 "caregiver functioning" 0.0 0.0 ellipse
+265 "fragile families and child wellbeing (ffcw)" 0.0 0.0 ellipse
+266 smiling 0.0 0.0 ellipse
+267 "harmful discriminatory behaviors" 0.0 0.0 ellipse
+268 "preschool period" 0.0 0.0 ellipse
+269 experience 0.0 0.0 ellipse
+270 "vagal tone" 0.0 0.0 ellipse
+271 "stay-at-home mothers" 0.0 0.0 ellipse
+272 "differential susceptibility" 0.0 0.0 ellipse
+273 "role congruity theory" 0.0 0.0 ellipse
+274 "community sample" 0.0 0.0 ellipse
+275 "perceived motive" 0.0 0.0 ellipse
+276 "family systems" 0.0 0.0 ellipse
+277 "interactive narratives" 0.0 0.0 ellipse
+278 "product evaluation" 0.0 0.0 ellipse
+279 "parental death" 0.0 0.0 ellipse
+280 "relationship type" 0.0 0.0 ellipse
+281 "media portrayal of the poor" 0.0 0.0 ellipse
+282 "scholastic judgment" 0.0 0.0 ellipse
+283 allergies 0.0 0.0 ellipse
+284 "recruiter characteristics" 0.0 0.0 ellipse
+285 "theory of mind" 0.0 0.0 ellipse
+286 "identity threat" 0.0 0.0 ellipse
+287 "perceptions of parents" 0.0 0.0 ellipse
+288 "evolutionary cognition" 0.0 0.0 ellipse
+289 "emerging adulthood" 0.0 0.0 ellipse
+290 "destination marketing" 0.0 0.0 ellipse
+291 "visual spatial attention" 0.0 0.0 ellipse
+292 "family socialisation" 0.0 0.0 ellipse
+293 halo 0.0 0.0 ellipse
+294 "psychosis risk" 0.0 0.0 ellipse
+295 "questionnaire testing" 0.0 0.0 ellipse
+296 "mental health service" 0.0 0.0 ellipse
+297 ideology 0.0 0.0 ellipse
+298 "gender ideology" 0.0 0.0 ellipse
+299 "teaching evaluations" 0.0 0.0 ellipse
+300 pornography 0.0 0.0 ellipse
+301 "reciprocal effects" 0.0 0.0 ellipse
+302 warmth 0.0 0.0 ellipse
+303 humanization 0.0 0.0 ellipse
+304 "physical examination" 0.0 0.0 ellipse
+305 "age-based stereotypes" 0.0 0.0 ellipse
+306 character 0.0 0.0 ellipse
+307 "leadership preferences" 0.0 0.0 ellipse
+308 "time perception" 0.0 0.0 ellipse
+309 "social behavior" 0.0 0.0 ellipse
+310 "proper names" 0.0 0.0 ellipse
+311 inequality 0.0 0.0 ellipse
+312 "need for closure" 0.0 0.0 ellipse
+313 "negativistic social beliefs" 0.0 0.0 ellipse
+314 intent 0.0 0.0 ellipse
+315 "perceived product quality" 0.0 0.0 ellipse
+316 contempt 0.0 0.0 ellipse
+317 "pro-social behaviors" 0.0 0.0 ellipse
+318 "brand attitude" 0.0 0.0 ellipse
+319 "perceived ethicality" 0.0 0.0 ellipse
+320 "ethnic minorities" 0.0 0.0 ellipse
+321 "women's self-descriptions" 0.0 0.0 ellipse
+322 measure 0.0 0.0 ellipse
+323 "national identification" 0.0 0.0 ellipse
+324 "consumer racism" 0.0 0.0 ellipse
+325 "leader competence" 0.0 0.0 ellipse
+326 "changing emotional expressions" 0.0 0.0 ellipse
+327 "employees' well-being" 0.0 0.0 ellipse
+328 faces 0.0 0.0 ellipse
+329 "group perceptions" 0.0 0.0 ellipse
+330 acceptance 0.0 0.0 ellipse
+331 "multiple categories" 0.0 0.0 ellipse
+332 "anticipated emotions" 0.0 0.0 ellipse
+333 color 0.0 0.0 ellipse
+334 "group identitym" 0.0 0.0 ellipse
+335 "paternal drinking" 0.0 0.0 ellipse
+336 psychometrics 0.0 0.0 ellipse
+337 stereotypes 0.0 0.0 ellipse
+338 managers 0.0 0.0 ellipse
+339 "gender-fair language" 0.0 0.0 ellipse
+340 "personalisation of politics" 0.0 0.0 ellipse
+341 "peer relationships" 0.0 0.0 ellipse
+342 "intellectual disability" 0.0 0.0 ellipse
+343 "betrayal aversion" 0.0 0.0 ellipse
+344 mcas 0.0 0.0 ellipse
+345 "hostile ageism" 0.0 0.0 ellipse
+346 performance 0.0 0.0 ellipse
+347 "linguistic diversity" 0.0 0.0 ellipse
+348 "group processes" 0.0 0.0 ellipse
+349 "asylum seekers" 0.0 0.0 ellipse
+350 ageism 0.0 0.0 ellipse
+351 "representative negotiations" 0.0 0.0 ellipse
+352 "parental self-efficacy" 0.0 0.0 ellipse
+353 "teacher preparation" 0.0 0.0 ellipse
+354 "judgment norms" 0.0 0.0 ellipse
+355 phenomenology 0.0 0.0 ellipse
+356 "comparative optimism" 0.0 0.0 ellipse
+357 coping 0.0 0.0 ellipse
+358 "gifted stereotypes" 0.0 0.0 ellipse
+359 "causal explanations" 0.0 0.0 ellipse
+360 "social neuroscience" 0.0 0.0 ellipse
+361 interior 0.0 0.0 ellipse
+362 "spinal cord injury" 0.0 0.0 ellipse
+363 cuba 0.0 0.0 ellipse
+364 "negativity bias" 0.0 0.0 ellipse
+365 video-vignette 0.0 0.0 ellipse
+366 "intraminority intergroup relations" 0.0 0.0 ellipse
+367 religiousness 0.0 0.0 ellipse
+368 "parental control" 0.0 0.0 ellipse
+369 "right-wing authoritarianism" 0.0 0.0 ellipse
+370 "active harm" 0.0 0.0 ellipse
+371 "controlling behavior" 0.0 0.0 ellipse
+372 "brand positioning" 0.0 0.0 ellipse
+373 "behaviour problems" 0.0 0.0 ellipse
+374 "gender and leadership" 0.0 0.0 ellipse
+375 fathering 0.0 0.0 ellipse
+376 "stereotype-incongruent information" 0.0 0.0 ellipse
+377 "parenting behaviors" 0.0 0.0 ellipse
+378 "personality perception" 0.0 0.0 ellipse
+379 "gendered race" 0.0 0.0 ellipse
+380 "paediatrics, education" 0.0 0.0 ellipse
+381 "belief in a just world" 0.0 0.0 ellipse
+382 naturalization 0.0 0.0 ellipse
+383 "social cognition" 0.0 0.0 ellipse
+384 preadolescence 0.0 0.0 ellipse
+385 "election outcomes" 0.0 0.0 ellipse
+386 "needs-based model of reconciliation" 0.0 0.0 ellipse
+387 "knowledge of the outgroup" 0.0 0.0 ellipse
+388 "social categorization" 0.0 0.0 ellipse
+389 sexualization 0.0 0.0 ellipse
+390 "interpersonal projection" 0.0 0.0 ellipse
+391 aggression 0.0 0.0 ellipse
+392 "knowledge worker performance" 0.0 0.0 ellipse
+393 "inflated self-views" 0.0 0.0 ellipse
+394 "educational styles" 0.0 0.0 ellipse
+395 "impression evaluation" 0.0 0.0 ellipse
+396 child 0.0 0.0 ellipse
+397 social 0.0 0.0 ellipse
+398 cocaine 0.0 0.0 ellipse
+399 "psychological closeness" 0.0 0.0 ellipse
+400 "big five" 0.0 0.0 ellipse
+401 "mother-adolescent relationship" 0.0 0.0 ellipse
+402 "destination image" 0.0 0.0 ellipse
+403 "trait attribution" 0.0 0.0 ellipse
+404 "gender-typed activities" 0.0 0.0 ellipse
+405 "national character stereotypes" 0.0 0.0 ellipse
+406 "grade point average" 0.0 0.0 ellipse
+407 "non-parental adults" 0.0 0.0 ellipse
+408 "conspicuous consumption" 0.0 0.0 ellipse
+409 "perception of politicians" 0.0 0.0 ellipse
+410 voice 0.0 0.0 ellipse
+411 "right wing authoritarianism" 0.0 0.0 ellipse
+412 "fuzzy-set analysis" 0.0 0.0 ellipse
+413 neuropeptide 0.0 0.0 ellipse
+414 belonging 0.0 0.0 ellipse
+415 "visual representations" 0.0 0.0 ellipse
+416 "medical tourism" 0.0 0.0 ellipse
+417 "non-verbal communication" 0.0 0.0 ellipse
+418 "confidence heuristic" 0.0 0.0 ellipse
+419 "innuendo effect" 0.0 0.0 ellipse
+420 "working mothers" 0.0 0.0 ellipse
+421 cognition 0.0 0.0 ellipse
+422 "teachers' attitudes" 0.0 0.0 ellipse
+423 "black families" 0.0 0.0 ellipse
+424 "multidimensional scaling" 0.0 0.0 ellipse
+425 "social desirability/social utility" 0.0 0.0 ellipse
+426 "corporate social responsible activity" 0.0 0.0 ellipse
+427 youths 0.0 0.0 ellipse
+428 "facial appearance" 0.0 0.0 ellipse
+429 "exposure to violence" 0.0 0.0 ellipse
+430 selection 0.0 0.0 ellipse
+431 "spontaneous trait binding" 0.0 0.0 ellipse
+432 "discriminatory judgments" 0.0 0.0 ellipse
+433 "priming effect" 0.0 0.0 ellipse
+434 "social comparison" 0.0 0.0 ellipse
+435 "person of the therapist" 0.0 0.0 ellipse
+436 "personality attribution" 0.0 0.0 ellipse
+437 portugal 0.0 0.0 ellipse
+438 "externalizing behavior problems" 0.0 0.0 ellipse
+439 communion/warmth 0.0 0.0 ellipse
+440 helplessness 0.0 0.0 ellipse
+441 "entrepreneurial evaluation" 0.0 0.0 ellipse
+442 "economic function" 0.0 0.0 ellipse
+443 "perception of school climate" 0.0 0.0 ellipse
+444 "gender attitudes" 0.0 0.0 ellipse
+445 "social stress" 0.0 0.0 ellipse
+446 "standard versus non-standard speakers" 0.0 0.0 ellipse
+447 "first impressions" 0.0 0.0 ellipse
+448 sustainability 0.0 0.0 ellipse
+449 "process assessment" 0.0 0.0 ellipse
+450 "committed compliance" 0.0 0.0 ellipse
+451 "social enterprise" 0.0 0.0 ellipse
+452 "social responsibility" 0.0 0.0 ellipse
+453 "duchenne smile" 0.0 0.0 ellipse
+454 "social modeling" 0.0 0.0 ellipse
+455 "employment decisions" 0.0 0.0 ellipse
+456 self-regulation 0.0 0.0 ellipse
+457 incompetence 0.0 0.0 ellipse
+458 competence/agency 0.0 0.0 ellipse
+459 "competence and friendliness" 0.0 0.0 ellipse
+460 "parental sense of competence" 0.0 0.0 ellipse
+461 eyeglasses 0.0 0.0 ellipse
+462 valence 0.0 0.0 ellipse
+463 "teacher support" 0.0 0.0 ellipse
+464 "negativity omission" 0.0 0.0 ellipse
+465 "dysfunctional customer behavior" 0.0 0.0 ellipse
+466 "adolescent problem behaviors" 0.0 0.0 ellipse
+467 striatum 0.0 0.0 ellipse
+468 imprisonment 0.0 0.0 ellipse
+469 "alcohol intoxication" 0.0 0.0 ellipse
+470 "compliance gaining" 0.0 0.0 ellipse
+471 "female candidates" 0.0 0.0 ellipse
+472 communality 0.0 0.0 ellipse
+473 "social acceptance" 0.0 0.0 ellipse
+474 "identity management" 0.0 0.0 ellipse
+475 "in-group overexclusion effect (ioe)" 0.0 0.0 ellipse
+476 "depressive symptoms" 0.0 0.0 ellipse
+477 "social structure" 0.0 0.0 ellipse
+478 "duality of mind" 0.0 0.0 ellipse
+479 "thermal perception" 0.0 0.0 ellipse
+480 "ambient temperature" 0.0 0.0 ellipse
+481 status 0.0 0.0 ellipse
+482 "agency and communion" 0.0 0.0 ellipse
+483 "proactive discipline" 0.0 0.0 ellipse
+484 apology 0.0 0.0 ellipse
+485 polarization 0.0 0.0 ellipse
+486 likability 0.0 0.0 ellipse
+487 "young children" 0.0 0.0 ellipse
+488 stigma 0.0 0.0 ellipse
+489 temperature 0.0 0.0 ellipse
+490 "selection decisions" 0.0 0.0 ellipse
+491 "institutional prejudice" 0.0 0.0 ellipse
+492 "individual psychology" 0.0 0.0 ellipse
+493 "collective efficacy" 0.0 0.0 ellipse
+494 "post-graduate education" 0.0 0.0 ellipse
+495 "body language" 0.0 0.0 ellipse
+496 "ethnolinguistic identity theory" 0.0 0.0 ellipse
+497 assertiveness 0.0 0.0 ellipse
+498 "social value" 0.0 0.0 ellipse
+499 helping 0.0 0.0 ellipse
+500 "need for affect" 0.0 0.0 ellipse
+501 "antisocial behavior" 0.0 0.0 ellipse
+502 "double standard" 0.0 0.0 ellipse
+503 "agile computing" 0.0 0.0 ellipse
+504 "african americans" 0.0 0.0 ellipse
+505 "perceived learning competence" 0.0 0.0 ellipse
+506 "hospital evaluation" 0.0 0.0 ellipse
+507 poor 0.0 0.0 ellipse
+508 equality 0.0 0.0 ellipse
+509 guidance 0.0 0.0 ellipse
+510 norway 0.0 0.0 ellipse
+511 "sex role attitudes" 0.0 0.0 ellipse
+512 "challenging behavior" 0.0 0.0 ellipse
+513 "social stratification" 0.0 0.0 ellipse
+514 dualism 0.0 0.0 ellipse
+515 "sex-role attitudes" 0.0 0.0 ellipse
+516 "social identity theory" 0.0 0.0 ellipse
+517 "parental warmth" 0.0 0.0 ellipse
+518 multiculturalism 0.0 0.0 ellipse
+519 "childhood adversity" 0.0 0.0 ellipse
+520 "racial discrimination" 0.0 0.0 ellipse
+521 "modelo de contenido de los estereotipos" 0.0 0.0 ellipse
+522 "social observation" 0.0 0.0 ellipse
+523 "political sophistication" 0.0 0.0 ellipse
+524 "clinic sample" 0.0 0.0 ellipse
+525 "non-native speakers" 0.0 0.0 ellipse
+526 "human-robot interaction" 0.0 0.0 ellipse
+527 "physical objects" 0.0 0.0 ellipse
+528 bionics 0.0 0.0 ellipse
+529 mexico 0.0 0.0 ellipse
+530 malaysia 0.0 0.0 ellipse
+531 "parental conflict" 0.0 0.0 ellipse
+532 avatars 0.0 0.0 ellipse
+533 "social decision-making" 0.0 0.0 ellipse
+534 ex-offenders 0.0 0.0 ellipse
+535 "communication processes" 0.0 0.0 ellipse
+536 "adolescents' alcohol and other illicit drug abuse" 0.0 0.0 ellipse
+537 "externalizing problem behaviour" 0.0 0.0 ellipse
+538 moral 0.0 0.0 ellipse
+539 "liability of foreignness" 0.0 0.0 ellipse
+540 "social class" 0.0 0.0 ellipse
+541 "stereotyped attitudesm" 0.0 0.0 ellipse
+542 aging 0.0 0.0 ellipse
+543 "intergroup communication" 0.0 0.0 ellipse
+544 "embodied cognition" 0.0 0.0 ellipse
+545 alcoholism 0.0 0.0 ellipse
+546 "psychometric scale" 0.0 0.0 ellipse
+547 extracurricular 0.0 0.0 ellipse
+548 rape 0.0 0.0 ellipse
+549 "mothers' parenting" 0.0 0.0 ellipse
+550 personality 0.0 0.0 ellipse
+551 "children's social competence" 0.0 0.0 ellipse
+552 "product image" 0.0 0.0 ellipse
+553 "single mothers" 0.0 0.0 ellipse
+554 "authoritative parenting" 0.0 0.0 ellipse
+555 "sarah palin" 0.0 0.0 ellipse
+556 "service satisfaction" 0.0 0.0 ellipse
+557 temperament 0.0 0.0 ellipse
+558 "mexican immigrant" 0.0 0.0 ellipse
+559 scm 0.0 0.0 ellipse
+560 backlash 0.0 0.0 ellipse
+561 identification 0.0 0.0 ellipse
+562 "crime victims" 0.0 0.0 ellipse
+563 rapport 0.0 0.0 ellipse
+564 "behavioral control" 0.0 0.0 ellipse
+565 employability 0.0 0.0 ellipse
+566 bias 0.0 0.0 ellipse
+567 urgency 0.0 0.0 ellipse
+568 discussion 0.0 0.0 ellipse
+569 "socio-emotional development" 0.0 0.0 ellipse
+570 "dimensional models" 0.0 0.0 ellipse
+571 fantasy 0.0 0.0 ellipse
+572 "stereotype change" 0.0 0.0 ellipse
+573 schizotypy 0.0 0.0 ellipse
+574 "implicit warmth and competence" 0.0 0.0 ellipse
+575 priming 0.0 0.0 ellipse
+576 environment 0.0 0.0 ellipse
+577 "physical disabilities" 0.0 0.0 ellipse
+578 "discrimination and health" 0.0 0.0 ellipse
+579 "time preferences" 0.0 0.0 ellipse
+580 "school connectedness" 0.0 0.0 ellipse
+581 "majority attitudes" 0.0 0.0 ellipse
+582 testosterone 0.0 0.0 ellipse
+583 "task-related and relational self-descriptions" 0.0 0.0 ellipse
+584 "feeling moved" 0.0 0.0 ellipse
+585 "social networking" 0.0 0.0 ellipse
+586 "physical height" 0.0 0.0 ellipse
+587 "ethnic minority" 0.0 0.0 ellipse
+588 embodiment 0.0 0.0 ellipse
+589 prisionalization 0.0 0.0 ellipse
+590 "organization attraction" 0.0 0.0 ellipse
+591 animals 0.0 0.0 ellipse
+592 peace 0.0 0.0 ellipse
+593 "ambiguous stimuli interpretation" 0.0 0.0 ellipse
+594 traits 0.0 0.0 ellipse
+595 feminismm 0.0 0.0 ellipse
+596 "group typology" 0.0 0.0 ellipse
+597 tone 0.0 0.0 ellipse
+598 "social issues" 0.0 0.0 ellipse
+599 "chinese parenting" 0.0 0.0 ellipse
+600 femininity 0.0 0.0 ellipse
+601 replication 0.0 0.0 ellipse
+602 "smile intensity" 0.0 0.0 ellipse
+603 autonomous-self 0.0 0.0 ellipse
+604 "observers' social judgments" 0.0 0.0 ellipse
+605 "neo pi-r" 0.0 0.0 ellipse
+606 "candidate preferences" 0.0 0.0 ellipse
+607 "discrimination buffer" 0.0 0.0 ellipse
+608 "cumulative risk" 0.0 0.0 ellipse
+609 "within-culture variation" 0.0 0.0 ellipse
+610 "the us congress" 0.0 0.0 ellipse
+611 "parenting self-efficacy" 0.0 0.0 ellipse
+612 "virtual teams" 0.0 0.0 ellipse
+613 beliefs 0.0 0.0 ellipse
+614 warm 0.0 0.0 ellipse
+615 mirroring 0.0 0.0 ellipse
+616 "mental representation" 0.0 0.0 ellipse
+617 "functional relation" 0.0 0.0 ellipse
+618 anthropomorphism 0.0 0.0 ellipse
+619 parentchild 0.0 0.0 ellipse
+620 "sexual assault" 0.0 0.0 ellipse
+621 "mother-child relations" 0.0 0.0 ellipse
+622 "environmental laws" 0.0 0.0 ellipse
+623 "stereotype threat" 0.0 0.0 ellipse
+624 "robot body shape" 0.0 0.0 ellipse
+625 love 0.0 0.0 ellipse
+626 "performance appraisal" 0.0 0.0 ellipse
+627 "cognitive and affective trust in hri" 0.0 0.0 ellipse
+628 "severity of orthopaedic disability" 0.0 0.0 ellipse
+629 "social function" 0.0 0.0 ellipse
+630 "donation type" 0.0 0.0 ellipse
+631 "candidate traits" 0.0 0.0 ellipse
+632 emoticon 0.0 0.0 ellipse
+633 meta-analysis 0.0 0.0 ellipse
+634 "anterior insula" 0.0 0.0 ellipse
+635 scrutiny 0.0 0.0 ellipse
+636 verbs 0.0 0.0 ellipse
+637 "task interdependence" 0.0 0.0 ellipse
+638 "social decision making" 0.0 0.0 ellipse
+639 impressions 0.0 0.0 ellipse
+640 "bounded rationality" 0.0 0.0 ellipse
+641 "eating disorder" 0.0 0.0 ellipse
+642 "school health promotion" 0.0 0.0 ellipse
+643 "contact hypothesis" 0.0 0.0 ellipse
+644 "ingroup evaluation" 0.0 0.0 ellipse
+645 "school dropout" 0.0 0.0 ellipse
+646 conscientiousness 0.0 0.0 ellipse
+647 trauma 0.0 0.0 ellipse
+648 "biopsychosocial model" 0.0 0.0 ellipse
+649 evaluation 0.0 0.0 ellipse
+650 "dynamic effects" 0.0 0.0 ellipse
+651 contagion 0.0 0.0 ellipse
+652 "behavioral competence" 0.0 0.0 ellipse
+653 trust 0.0 0.0 ellipse
+654 "comment sections" 0.0 0.0 ellipse
+655 "competence warmth" 0.0 0.0 ellipse
+656 "interpersonal activism" 0.0 0.0 ellipse
+657 "international advertising" 0.0 0.0 ellipse
+658 "problem behaviors" 0.0 0.0 ellipse
+659 "predictor variables" 0.0 0.0 ellipse
+660 "parenting styles" 0.0 0.0 ellipse
+661 "sibling relationship qualities" 0.0 0.0 ellipse
+662 "female politicians" 0.0 0.0 ellipse
+663 preschool 0.0 0.0 ellipse
+664 "social perception" 0.0 0.0 ellipse
+665 "social competence" 0.0 0.0 ellipse
+666 "eating disorder not otherwise specified" 0.0 0.0 ellipse
+667 "hydraulic fracturing" 0.0 0.0 ellipse
+668 "linguistic cues" 0.0 0.0 ellipse
+669 "attachment style" 0.0 0.0 ellipse
+670 neuroscience 0.0 0.0 ellipse
+671 "nation stereotype" 0.0 0.0 ellipse
+672 "global brands" 0.0 0.0 ellipse
+673 "implicit attitudes" 0.0 0.0 ellipse
+674 "computer-mediated interpersonal communication" 0.0 0.0 ellipse
+675 "hurricane katrina" 0.0 0.0 ellipse
+676 "men's advantage" 0.0 0.0 ellipse
+677 "academic adjustment" 0.0 0.0 ellipse
+678 language 0.0 0.0 ellipse
+679 "health care needs" 0.0 0.0 ellipse
+680 "warmth-competence perception" 0.0 0.0 ellipse
+681 trustworthiness 0.0 0.0 ellipse
+682 cordialidad 0.0 0.0 ellipse
+683 refugees 0.0 0.0 ellipse
+684 "online brand endorsements" 0.0 0.0 ellipse
+685 "group status" 0.0 0.0 ellipse
+686 "believable virtual characters" 0.0 0.0 ellipse
+687 masculinity 0.0 0.0 ellipse
+688 "lifespan development" 0.0 0.0 ellipse
+689 acknowledgment 0.0 0.0 ellipse
+690 "social distance" 0.0 0.0 ellipse
+691 expectation 0.0 0.0 ellipse
+692 "subjective taste" 0.0 0.0 ellipse
+693 "global evaluation" 0.0 0.0 ellipse
+694 "regional stereotypes" 0.0 0.0 ellipse
+695 "risk indicators" 0.0 0.0 ellipse
+696 "religious hospital" 0.0 0.0 ellipse
+697 "social judgment" 0.0 0.0 ellipse
+698 "babyface effects" 0.0 0.0 ellipse
+699 "young women" 0.0 0.0 ellipse
+700 "trait disconfirmability" 0.0 0.0 ellipse
+701 "chronic orthopaedic disability" 0.0 0.0 ellipse
+702 "customer satisfaction" 0.0 0.0 ellipse
+703 "majority's perceptions of adaptation" 0.0 0.0 ellipse
+704 "parenting practices" 0.0 0.0 ellipse
+705 "gender identity" 0.0 0.0 ellipse
+706 "investigative interviews" 0.0 0.0 ellipse
+707 "user representation" 0.0 0.0 ellipse
+708 co-production 0.0 0.0 ellipse
+709 "stereotype contents" 0.0 0.0 ellipse
+710 "visual perception" 0.0 0.0 ellipse
+711 "need satisfaction" 0.0 0.0 ellipse
+712 "contents of stereotypes" 0.0 0.0 ellipse
+713 "psychological health" 0.0 0.0 ellipse
+714 "family relationships" 0.0 0.0 ellipse
+715 "social categorization task" 0.0 0.0 ellipse
+716 "older workers" 0.0 0.0 ellipse
+717 "preference for consistency" 0.0 0.0 ellipse
+718 "middle childhood" 0.0 0.0 ellipse
+719 "ingroup perception" 0.0 0.0 ellipse
+720 criticism 0.0 0.0 ellipse
+721 "social rejection" 0.0 0.0 ellipse
+722 reappropriation 0.0 0.0 ellipse
+723 "content of stereotypes" 0.0 0.0 ellipse
+724 "prescriptive stereotypes" 0.0 0.0 ellipse
+725 "stereotype of the rich" 0.0 0.0 ellipse
+726 "health care disparities" 0.0 0.0 ellipse
+727 "mind perception" 0.0 0.0 ellipse
+728 "individualism and collectivism" 0.0 0.0 ellipse
+729 weight 0.0 0.0 ellipse
+730 "human nature" 0.0 0.0 ellipse
+731 primacy-of-warmth 0.0 0.0 ellipse
+732 "traits impression" 0.0 0.0 ellipse
+733 believability 0.0 0.0 ellipse
+734 dehumanization 0.0 0.0 ellipse
+735 charisma 0.0 0.0 ellipse
+736 "social justice" 0.0 0.0 ellipse
+737 "personal relationships" 0.0 0.0 ellipse
+738 "human brand model" 0.0 0.0 ellipse
+739 "collective action" 0.0 0.0 ellipse
+740 "customer query handling" 0.0 0.0 ellipse
+741 prejudice/stereotyping 0.0 0.0 ellipse
+742 "social functioning" 0.0 0.0 ellipse
+743 "adapted physical activity" 0.0 0.0 ellipse
+744 "national standards" 0.0 0.0 ellipse
+745 attitude 0.0 0.0 ellipse
+746 disabilities 0.0 0.0 ellipse
+747 voting 0.0 0.0 ellipse
+748 "typicality secondary transfer effect" 0.0 0.0 ellipse
+749 persistence 0.0 0.0 ellipse
+750 "moral dilemmas" 0.0 0.0 ellipse
+751 "sexual stereotypes" 0.0 0.0 ellipse
+752 amygdala 0.0 0.0 ellipse
+753 "buffering-boosting hypothesis" 0.0 0.0 ellipse
+754 envy 0.0 0.0 ellipse
+755 "social-emotional adjustment" 0.0 0.0 ellipse
+756 "percepcion social" 0.0 0.0 ellipse
+757 moroccan 0.0 0.0 ellipse
+758 "cognitive interview" 0.0 0.0 ellipse
+759 "discrete emotions" 0.0 0.0 ellipse
+760 "decision making" 0.0 0.0 ellipse
+761 self-labeling 0.0 0.0 ellipse
+762 "maternal socialization" 0.0 0.0 ellipse
+763 politics 0.0 0.0 ellipse
+764 "social value of persons" 0.0 0.0 ellipse
+765 "implicit measurement" 0.0 0.0 ellipse
+766 "emotional expressions" 0.0 0.0 ellipse
+767 "gender roles" 0.0 0.0 ellipse
+768 "brands as intentional agents framework" 0.0 0.0 ellipse
+769 "scale development" 0.0 0.0 ellipse
+770 donations 0.0 0.0 ellipse
+771 "korean american" 0.0 0.0 ellipse
+772 "charismatic leadership" 0.0 0.0 ellipse
+773 "moral foundations" 0.0 0.0 ellipse
+774 "spontaneous trait transference" 0.0 0.0 ellipse
+775 "interpersonal perception" 0.0 0.0 ellipse
+776 "system justification" 0.0 0.0 ellipse
+777 "social dimensions" 0.0 0.0 ellipse
+778 "intergroup perceptions" 0.0 0.0 ellipse
+779 "political elections" 0.0 0.0 ellipse
+780 "political psychology" 0.0 0.0 ellipse
+781 "brands and branding" 0.0 0.0 ellipse
+782 "interpersonal liking" 0.0 0.0 ellipse
+783 "absolute optimism" 0.0 0.0 ellipse
+784 "faith in a dangerous world" 0.0 0.0 ellipse
+785 perception 0.0 0.0 ellipse
+786 "facial expression" 0.0 0.0 ellipse
+787 "patient perceptions" 0.0 0.0 ellipse
+788 "culture dimension" 0.0 0.0 ellipse
+789 "implicit bias" 0.0 0.0 ellipse
+790 future 0.0 0.0 ellipse
+791 sadness 0.0 0.0 ellipse
+792 "middle school teacher" 0.0 0.0 ellipse
+793 causality 0.0 0.0 ellipse
+794 "parental intrusiveness" 0.0 0.0 ellipse
+795 mind 0.0 0.0 ellipse
+796 "social skills" 0.0 0.0 ellipse
+797 self-validation 0.0 0.0 ellipse
+798 child-perceived 0.0 0.0 ellipse
+799 implicit 0.0 0.0 ellipse
+800 provocation 0.0 0.0 ellipse
+801 "psychosomatic medicine" 0.0 0.0 ellipse
+802 burnout 0.0 0.0 ellipse
+803 "early head start" 0.0 0.0 ellipse
+804 "roma people" 0.0 0.0 ellipse
+805 "sex differences" 0.0 0.0 ellipse
+806 "early temperament" 0.0 0.0 ellipse
+807 socialization 0.0 0.0 ellipse
+808 "add health" 0.0 0.0 ellipse
+809 income 0.0 0.0 ellipse
+810 "educational expectations" 0.0 0.0 ellipse
+811 suspects 0.0 0.0 ellipse
+812 smoking 0.0 0.0 ellipse
+813 "service delivery" 0.0 0.0 ellipse
+814 "agentic and communal traits" 0.0 0.0 ellipse
+815 "pain estimates" 0.0 0.0 ellipse
+816 "warm parenting" 0.0 0.0 ellipse
+817 "ultimate attribution error" 0.0 0.0 ellipse
+818 "asian americans" 0.0 0.0 ellipse
+819 "national self-stereotypes" 0.0 0.0 ellipse
+820 handwriting 0.0 0.0 ellipse
+821 family 0.0 0.0 ellipse
+822 sport 0.0 0.0 ellipse
+823 "communal and exchange" 0.0 0.0 ellipse
+824 "corporate stereotype" 0.0 0.0 ellipse
+825 "qualitative research" 0.0 0.0 ellipse
+826 "evolutionary psychology" 0.0 0.0 ellipse
+827 authoritarian 0.0 0.0 ellipse
+828 "vocal babyishness" 0.0 0.0 ellipse
+829 "stereotype measurement" 0.0 0.0 ellipse
+830 "social support" 0.0 0.0 ellipse
+831 infrahumanization 0.0 0.0 ellipse
+832 resilient 0.0 0.0 ellipse
+833 adaptation 0.0 0.0 ellipse
+834 "interpersonal interactions" 0.0 0.0 ellipse
+835 "indirect stereotype-incongruence induced" 0.0 0.0 ellipse
+836 "turnover intentions" 0.0 0.0 ellipse
+837 "country image" 0.0 0.0 ellipse
+838 powerposing 0.0 0.0 ellipse
+839 "non-verbal behavior" 0.0 0.0 ellipse
+840 "persuasion/social influence" 0.0 0.0 ellipse
+841 "hostile sexism" 0.0 0.0 ellipse
+842 "heterosexual dating" 0.0 0.0 ellipse
+843 "teacher expectations" 0.0 0.0 ellipse
+844 "child physical punishment" 0.0 0.0 ellipse
+845 "dimensions of stereotypes" 0.0 0.0 ellipse
+846 "us presidents" 0.0 0.0 ellipse
+847 "group size" 0.0 0.0 ellipse
+848 well-being 0.0 0.0 ellipse
+849 "status conferral" 0.0 0.0 ellipse
+850 "big two" 0.0 0.0 ellipse
+851 attitudes 0.0 0.0 ellipse
+852 psychotherapy 0.0 0.0 ellipse
+853 "reinforcement learning" 0.0 0.0 ellipse
+854 mood 0.0 0.0 ellipse
+855 "age stereotyping" 0.0 0.0 ellipse
+856 communication 0.0 0.0 ellipse
+857 "five-factor model" 0.0 0.0 ellipse
+858 "brand perception" 0.0 0.0 ellipse
+859 "density hypothesis" 0.0 0.0 ellipse
+860 "trait inferences" 0.0 0.0 ellipse
+861 "socioeconomic status" 0.0 0.0 ellipse
+862 adjustment 0.0 0.0 ellipse
+863 homeostasis 0.0 0.0 ellipse
+864 measurement 0.0 0.0 ellipse
+865 decision-making 0.0 0.0 ellipse
+866 motherhood 0.0 0.0 ellipse
+867 "interethnic ideologies" 0.0 0.0 ellipse
+868 "brand symbolism" 0.0 0.0 ellipse
+869 "warmth & competence" 0.0 0.0 ellipse
+870 "panel study on korean children" 0.0 0.0 ellipse
+871 "social robots" 0.0 0.0 ellipse
+872 "individual differences" 0.0 0.0 ellipse
+873 "child outcomes" 0.0 0.0 ellipse
+874 eye-tracking 0.0 0.0 ellipse
+875 "product type" 0.0 0.0 ellipse
+876 "item response theory" 0.0 0.0 ellipse
+877 "older adult functioning" 0.0 0.0 ellipse
+878 bragging 0.0 0.0 ellipse
+879 "job pursuit intentions" 0.0 0.0 ellipse
+880 "corporate social irresponsibility (csir)" 0.0 0.0 ellipse
+881 "media bias" 0.0 0.0 ellipse
+882 "place-brand stereotypes" 0.0 0.0 ellipse
+883 "parental monitoring" 0.0 0.0 ellipse
+884 "risk behaviors" 0.0 0.0 ellipse
+885 "latent profile analysis" 0.0 0.0 ellipse
+886 "intergroup competition" 0.0 0.0 ellipse
+887 modesty 0.0 0.0 ellipse
+888 affiliation 0.0 0.0 ellipse
+889 "family intervention" 0.0 0.0 ellipse
+890 "facilitative parenting" 0.0 0.0 ellipse
+891 "salesperson behaviors" 0.0 0.0 ellipse
+892 targets 0.0 0.0 ellipse
+893 "occupational stereotype" 0.0 0.0 ellipse
+894 "food safety scandal" 0.0 0.0 ellipse
+895 "transactional model" 0.0 0.0 ellipse
+896 "clinical competence" 0.0 0.0 ellipse
+897 normativity 0.0 0.0 ellipse
+898 cohabitation 0.0 0.0 ellipse
+899 "interpersonal competition" 0.0 0.0 ellipse
+900 "computational models" 0.0 0.0 ellipse
+901 "ambiguous task processing" 0.0 0.0 ellipse
+902 predictors 0.0 0.0 ellipse
+903 "employer attractiveness" 0.0 0.0 ellipse
+904 "racial prejudice" 0.0 0.0 ellipse
+905 handovers 0.0 0.0 ellipse
+906 "corporate and news media" 0.0 0.0 ellipse
+907 "patient simulation" 0.0 0.0 ellipse
+908 "local brands" 0.0 0.0 ellipse
+909 asia 0.0 0.0 ellipse
+910 "origins of emotions" 0.0 0.0 ellipse
+911 schadenfreude 0.0 0.0 ellipse
+912 adolescents 0.0 0.0 ellipse
+913 iat 0.0 0.0 ellipse
+914 "age-based prejudice" 0.0 0.0 ellipse
+915 "spontaneous stereotypes" 0.0 0.0 ellipse
+916 romania 0.0 0.0 ellipse
+917 status-competition 0.0 0.0 ellipse
+918 "behavioral intention to work with robot" 0.0 0.0 ellipse
+919 "leaders' personality traits" 0.0 0.0 ellipse
+920 "agency/competence vs. communion/warmth" 0.0 0.0 ellipse
+921 "patient demands" 0.0 0.0 ellipse
+922 fathers 0.0 0.0 ellipse
+923 emotion 0.0 0.0 ellipse
+924 "economic behavior" 0.0 0.0 ellipse
+925 "evaluative approach" 0.0 0.0 ellipse
+926 "strategic self-presentation" 0.0 0.0 ellipse
+927 "repurchase intentions" 0.0 0.0 ellipse
+928 fairness 0.0 0.0 ellipse
+929 altruism 0.0 0.0 ellipse
+930 "political candidate" 0.0 0.0 ellipse
+931 "psychological distance" 0.0 0.0 ellipse
+932 "native and non-native youth" 0.0 0.0 ellipse
+933 "emotional self-regulation" 0.0 0.0 ellipse
+934 typology 0.0 0.0 ellipse
+935 "customer participation" 0.0 0.0 ellipse
+936 "italian-origin migrants" 0.0 0.0 ellipse
+937 segmentation 0.0 0.0 ellipse
+938 "older employees" 0.0 0.0 ellipse
+939 bereavement 0.0 0.0 ellipse
+940 "public diplomacy" 0.0 0.0 ellipse
+941 "social perception and social judgment" 0.0 0.0 ellipse
+942 "dual-perspective model" 0.0 0.0 ellipse
+943 "semantic differential" 0.0 0.0 ellipse
+944 ethnicity 0.0 0.0 ellipse
+945 "depressive symptomatology" 0.0 0.0 ellipse
+946 "social stimuli" 0.0 0.0 ellipse
+947 "politician perception" 0.0 0.0 ellipse
+948 dyads 0.0 0.0 ellipse
+949 "facial features" 0.0 0.0 ellipse
+950 "customer employee interaction" 0.0 0.0 ellipse
+951 "eye size" 0.0 0.0 ellipse
+952 stigmatization 0.0 0.0 ellipse
+953 "intercultural service encounters" 0.0 0.0 ellipse
+954 "firm stereotypes" 0.0 0.0 ellipse
+955 parents 0.0 0.0 ellipse
+956 "perceived cultural distance" 0.0 0.0 ellipse
+957 dating 0.0 0.0 ellipse
+958 judgment 0.0 0.0 ellipse
+959 "intergroup attributions" 0.0 0.0 ellipse
+960 "self-fulfilling prophecy" 0.0 0.0 ellipse
+961 intention 0.0 0.0 ellipse
+962 "racial labels" 0.0 0.0 ellipse
+963 "counterfactual communication" 0.0 0.0 ellipse
+964 "attitude measurement" 0.0 0.0 ellipse
+965 word-of-mouth 0.0 0.0 ellipse
+966 "nonprofit status" 0.0 0.0 ellipse
+967 "customer management" 0.0 0.0 ellipse
+968 "occupational health" 0.0 0.0 ellipse
+969 "presentation modality" 0.0 0.0 ellipse
+970 "blind people" 0.0 0.0 ellipse
+971 "positive distinctiveness" 0.0 0.0 ellipse
+972 attachment 0.0 0.0 ellipse
+973 "functional significance" 0.0 0.0 ellipse
+974 forgiveness 0.0 0.0 ellipse
+975 "race perception" 0.0 0.0 ellipse
+976 "parent-child relationships" 0.0 0.0 ellipse
+977 "structural equation modeling" 0.0 0.0 ellipse
+978 "reverse correlation" 0.0 0.0 ellipse
+979 "personnel selection" 0.0 0.0 ellipse
+980 "parental punishment" 0.0 0.0 ellipse
+981 "stereotype activation and application" 0.0 0.0 ellipse
+982 "consumption resources" 0.0 0.0 ellipse
+983 "harmony hypothesis" 0.0 0.0 ellipse
+984 prosperity 0.0 0.0 ellipse
+985 "patient-provider relationship" 0.0 0.0 ellipse
+986 estrangement 0.0 0.0 ellipse
+987 "leader perceived competence" 0.0 0.0 ellipse
+988 motivation 0.0 0.0 ellipse
+989 homosexuality 0.0 0.0 ellipse
+990 "gender cue" 0.0 0.0 ellipse
+991 "narrative ethics" 0.0 0.0 ellipse
+992 shapes 0.0 0.0 ellipse
+993 prosocial 0.0 0.0 ellipse
+994 "toddlers' effortful control" 0.0 0.0 ellipse
+995 "scientist stereotypes" 0.0 0.0 ellipse
+996 "fathers and mothers" 0.0 0.0 ellipse
+997 differentiation 0.0 0.0 ellipse
+998 "voice pitch characteristics" 0.0 0.0 ellipse
+999 "kama muta" 0.0 0.0 ellipse
+1000 "brand warmth" 0.0 0.0 ellipse
+1001 loneliness 0.0 0.0 ellipse
+1002 "physician warmth" 0.0 0.0 ellipse
+1003 agents 0.0 0.0 ellipse
+1004 "legal decision-making" 0.0 0.0 ellipse
+1005 clothing 0.0 0.0 ellipse
+1006 "economic stress" 0.0 0.0 ellipse
+1007 "behavioral economics" 0.0 0.0 ellipse
+1008 superiority 0.0 0.0 ellipse
+1009 "cultural-frame shifting" 0.0 0.0 ellipse
+1010 deception 0.0 0.0 ellipse
+1011 "integrated threat theory" 0.0 0.0 ellipse
+1012 "sector image" 0.0 0.0 ellipse
+1013 "parenting dimensions" 0.0 0.0 ellipse
+1014 "early experiences" 0.0 0.0 ellipse
+1015 prototypicality 0.0 0.0 ellipse
+1016 "vote choice" 0.0 0.0 ellipse
+1017 "maternal socialization practices" 0.0 0.0 ellipse
+1018 streotypes 0.0 0.0 ellipse
+1019 teachers 0.0 0.0 ellipse
+1020 tattoos 0.0 0.0 ellipse
+1021 "developmental systems" 0.0 0.0 ellipse
+1022 "research methods" 0.0 0.0 ellipse
+1023 satisfaction 0.0 0.0 ellipse
+1024 "supervisor-student relationship" 0.0 0.0 ellipse
+1025 "child abuse" 0.0 0.0 ellipse
+1026 "repertory grid" 0.0 0.0 ellipse
+1027 "fundamental dimensions" 0.0 0.0 ellipse
+1028 "consumer response" 0.0 0.0 ellipse
+1029 "face-based inferences" 0.0 0.0 ellipse
+1030 "competence stereotype" 0.0 0.0 ellipse
+1031 "learning strategies" 0.0 0.0 ellipse
+1032 "regional differences" 0.0 0.0 ellipse
+1033 "strengths and difficulties questionnaire" 0.0 0.0 ellipse
+1034 "compensation effect" 0.0 0.0 ellipse
+1035 clv 0.0 0.0 ellipse
+1036 "emotional distress" 0.0 0.0 ellipse
+1037 childlessness 0.0 0.0 ellipse
+1038 class 0.0 0.0 ellipse
+1039 "national cultures" 0.0 0.0 ellipse
+1040 collaboration 0.0 0.0 ellipse
+1041 "nuclear plants" 0.0 0.0 ellipse
+1042 "fathers' parenting" 0.0 0.0 ellipse
+1043 slurs 0.0 0.0 ellipse
+1044 psychopathology 0.0 0.0 ellipse
+1045 "abc model" 0.0 0.0 ellipse
+1046 "latino families" 0.0 0.0 ellipse
+1047 service 0.0 0.0 ellipse
+1048 "self-reliant behavior" 0.0 0.0 ellipse
+1049 race 0.0 0.0 ellipse
+1050 "emotional security theory" 0.0 0.0 ellipse
+1051 self-esteem/self-worth 0.0 0.0 ellipse
+1052 "indirect stereotype change" 0.0 0.0 ellipse
+1053 "moral outrage" 0.0 0.0 ellipse
+1054 "education, medical, undergraduate" 0.0 0.0 ellipse
+1055 "social relationships" 0.0 0.0 ellipse
+1056 "voting decision" 0.0 0.0 ellipse
+1057 "strategic publics" 0.0 0.0 ellipse
+1058 "social communication" 0.0 0.0 ellipse
+1059 labels 0.0 0.0 ellipse
+1060 fracking 0.0 0.0 ellipse
+1061 "social value orientation" 0.0 0.0 ellipse
+1062 "women of color" 0.0 0.0 ellipse
+1063 "stereotyped attitudes" 0.0 0.0 ellipse
+1064 "psychological connectedness" 0.0 0.0 ellipse
+1065 subgrouping 0.0 0.0 ellipse
+1066 usa 0.0 0.0 ellipse
+1067 "five-factor model of personality" 0.0 0.0 ellipse
+1068 ambivalent 0.0 0.0 ellipse
+1069 "victims and perpetrators" 0.0 0.0 ellipse
+1070 feminism 0.0 0.0 ellipse
+1071 "intergenerational transmission" 0.0 0.0 ellipse
+1072 "national character" 0.0 0.0 ellipse
+1073 "maternal communication" 0.0 0.0 ellipse
+1074 politeness 0.0 0.0 ellipse
+1075 "doctors' medical expertise" 0.0 0.0 ellipse
+1076 attributions 0.0 0.0 ellipse
+1077 "intergroup helping" 0.0 0.0 ellipse
+1078 "ethnic diversity" 0.0 0.0 ellipse
+1079 blind 0.0 0.0 ellipse
+1080 consensus 0.0 0.0 ellipse
+1081 "ownership status" 0.0 0.0 ellipse
+1082 "family medicine" 0.0 0.0 ellipse
+1083 threats 0.0 0.0 ellipse
+1084 "gender differentiation" 0.0 0.0 ellipse
+1085 "intentions and ability" 0.0 0.0 ellipse
+1086 "passive harm" 0.0 0.0 ellipse
+1087 rankings 0.0 0.0 ellipse
+1088 valuation 0.0 0.0 ellipse
+1089 "evolutionary contingency hypothesis" 0.0 0.0 ellipse
+1090 "social dominance orientation" 0.0 0.0 ellipse
+1091 "bulimia nervosa" 0.0 0.0 ellipse
+1092 "interpersonal relationships" 0.0 0.0 ellipse
+1093 "nonstandard accent" 0.0 0.0 ellipse
+1094 control 0.0 0.0 ellipse
+1095 roma 0.0 0.0 ellipse
+1096 "social robot" 0.0 0.0 ellipse
+1097 latino 0.0 0.0 ellipse
+1098 "perinatal mental health" 0.0 0.0 ellipse
+1099 "health literacy" 0.0 0.0 ellipse
+1100 "personality traits" 0.0 0.0 ellipse
+1101 "green hotel" 0.0 0.0 ellipse
+1102 "well being" 0.0 0.0 ellipse
+1103 "body movement" 0.0 0.0 ellipse
+1104 "response amplification" 0.0 0.0 ellipse
+1105 oxytocin 0.0 0.0 ellipse
+1106 guilt 0.0 0.0 ellipse
+1107 "theory of embodied cognition" 0.0 0.0 ellipse
+1108 "consumer behaviour" 0.0 0.0 ellipse
+1109 "ambivalent stereotypes" 0.0 0.0 ellipse
+1110 responsiveness 0.0 0.0 ellipse
+1111 "early intervention" 0.0 0.0 ellipse
+1112 "choice architecture" 0.0 0.0 ellipse
+1113 ecuadorians 0.0 0.0 ellipse
+1114 liwc 0.0 0.0 ellipse
+1115 "intent attributions" 0.0 0.0 ellipse
+1116 "treatment integrity" 0.0 0.0 ellipse
+1117 "investment model" 0.0 0.0 ellipse
+1118 shyness 0.0 0.0 ellipse
+1119 "video recording" 0.0 0.0 ellipse
+1120 "functional outcomes" 0.0 0.0 ellipse
+1121 "eye fixation" 0.0 0.0 ellipse
+1122 "semantic representation" 0.0 0.0 ellipse
+1123 mpfc 0.0 0.0 ellipse
+1124 "social judgements" 0.0 0.0 ellipse
+1125 "parental strictness" 0.0 0.0 ellipse
+1126 "voting behavior" 0.0 0.0 ellipse
+1127 "corporate social responsibility (csr)" 0.0 0.0 ellipse
+1128 interest 0.0 0.0 ellipse
+1129 "parenting daily hassles" 0.0 0.0 ellipse
+1130 "powerful speech" 0.0 0.0 ellipse
+1131 intermin 0.0 0.0 ellipse
+1132 marriage 0.0 0.0 ellipse
+1133 job 0.0 0.0 ellipse
+1134 nursing 0.0 0.0 ellipse
+1135 "dimensions of social judgment" 0.0 0.0 ellipse
+1136 depression 0.0 0.0 ellipse
+1137 residency 0.0 0.0 ellipse
+1138 "direct stereotype change" 0.0 0.0 ellipse
+1139 "professional dissatisfaction" 0.0 0.0 ellipse
+1140 men 0.0 0.0 ellipse
+1141 "natural hazard communication" 0.0 0.0 ellipse
+1142 cannabis 0.0 0.0 ellipse
+1143 cooperation 0.0 0.0 ellipse
+1144 "social comparison dimensions" 0.0 0.0 ellipse
+1145 women 0.0 0.0 ellipse
+1146 "experimental research" 0.0 0.0 ellipse
+1147 smiley 0.0 0.0 ellipse
+1148 teens 0.0 0.0 ellipse
+1149 "shifting standards" 0.0 0.0 ellipse
+1150 "moral treatment" 0.0 0.0 ellipse
+1151 "academic underperformance" 0.0 0.0 ellipse
+1152 "psychological description" 0.0 0.0 ellipse
+1153 "facial expressions" 0.0 0.0 ellipse
+1154 "gender norms" 0.0 0.0 ellipse
+1155 normativeness 0.0 0.0 ellipse
+1156 "female and male preschool teachers" 0.0 0.0 ellipse
+1157 "psychological control" 0.0 0.0 ellipse
+1158 "parental sensitivity" 0.0 0.0 ellipse
+1159 "learning difficulties" 0.0 0.0 ellipse
+1160 pls-sem 0.0 0.0 ellipse
+1161 "connectionist models" 0.0 0.0 ellipse
+1162 "consumer decisions" 0.0 0.0 ellipse
+1163 "socioeconomic background" 0.0 0.0 ellipse
+1164 "recruitment process outsourcing" 0.0 0.0 ellipse
+1165 "generic beliefs" 0.0 0.0 ellipse
+1166 "character traits" 0.0 0.0 ellipse
+1167 "self-compassionate abilities" 0.0 0.0 ellipse
+1168 lie 0.0 0.0 ellipse
+1169 "coldness perception" 0.0 0.0 ellipse
+1170 "reputation concern" 0.0 0.0 ellipse
+1171 animation 0.0 0.0 ellipse
+1172 "moral character" 0.0 0.0 ellipse
+1173 "education-based group identity" 0.0 0.0 ellipse
+1174 "focused attention" 0.0 0.0 ellipse
+1175 mdma 0.0 0.0 ellipse
+1176 "group decision making" 0.0 0.0 ellipse
+1177 "cultural adaptation" 0.0 0.0 ellipse
+1178 wealth 0.0 0.0 ellipse
+1179 "stereotype learning paradigm" 0.0 0.0 ellipse
+1180 "subjective well-being" 0.0 0.0 ellipse
+1181 nickname 0.0 0.0 ellipse
+1182 "adverse life events" 0.0 0.0 ellipse
+1183 "social expectations" 0.0 0.0 ellipse
+1184 "patient involvement" 0.0 0.0 ellipse
+1185 "behavior problems" 0.0 0.0 ellipse
+1186 "brand anthropomorphism" 0.0 0.0 ellipse
+1187 cortisol 0.0 0.0 ellipse
+1188 culture 0.0 0.0 ellipse
+1189 "parental responsiveness/control" 0.0 0.0 ellipse
+1190 "teacher-student relationships" 0.0 0.0 ellipse
+1191 "good old days effect" 0.0 0.0 ellipse
+1192 "resource dependence" 0.0 0.0 ellipse
+1193 "dissonance reduction" 0.0 0.0 ellipse
+1194 "luxury consumption" 0.0 0.0 ellipse
+1195 "professional sport" 0.0 0.0 ellipse
+1196 fmri 0.0 0.0 ellipse
+1197 "experience-based myelination" 0.0 0.0 ellipse
+1198 goodness-of-fit 0.0 0.0 ellipse
+1199 "preferences, warmth" 0.0 0.0 ellipse
+1200 "benevolent sexism" 0.0 0.0 ellipse
+1201 "country of origin" 0.0 0.0 ellipse
+1202 "jury instructions" 0.0 0.0 ellipse
+1203 "experiential avoidance" 0.0 0.0 ellipse
+1204 "global impressions" 0.0 0.0 ellipse
+1205 mediation 0.0 0.0 ellipse
+1206 "virtual agent" 0.0 0.0 ellipse
+1207 cross-categorization 0.0 0.0 ellipse
+1208 gendermag 0.0 0.0 ellipse
+1209 "occupational stereotypes" 0.0 0.0 ellipse
+1210 "implicit measures" 0.0 0.0 ellipse
+1211 "low-income children" 0.0 0.0 ellipse
+1212 sleep 0.0 0.0 ellipse
+1213 self-enhancement 0.0 0.0 ellipse
+1214 "job satisfaction" 0.0 0.0 ellipse
+1215 pro-environmental 0.0 0.0 ellipse
+1216 conflict 0.0 0.0 ellipse
+1217 "age stereotype" 0.0 0.0 ellipse
+1218 adhd 0.0 0.0 ellipse
+1219 "recalled parental rearing behavior (fee)" 0.0 0.0 ellipse
+1220 arab 0.0 0.0 ellipse
+1221 prevention 0.0 0.0 ellipse
+1222 "quality of hospital care" 0.0 0.0 ellipse
+1223 "distribution of ethnic groups" 0.0 0.0 ellipse
+1224 "stereotype accuracy" 0.0 0.0 ellipse
+1225 "children's cognitive outcomes" 0.0 0.0 ellipse
+1226 "gender role congruence" 0.0 0.0 ellipse
+1227 "below-average effect" 0.0 0.0 ellipse
+1228 "emotion resemblance" 0.0 0.0 ellipse
+1229 "social influence" 0.0 0.0 ellipse
+1230 sightedness 0.0 0.0 ellipse
+1231 "native speakers" 0.0 0.0 ellipse
+1232 "racial identity" 0.0 0.0 ellipse
+1233 "parental support" 0.0 0.0 ellipse
+1234 disaster 0.0 0.0 ellipse
+1235 "mental health" 0.0 0.0 ellipse
+1236 "perceived mood" 0.0 0.0 ellipse
+1237 "social classification" 0.0 0.0 ellipse
+1238 death 0.0 0.0 ellipse
+1239 stereotyping 0.0 0.0 ellipse
+1240 "ethnic minority students" 0.0 0.0 ellipse
+1241 reputation 0.0 0.0 ellipse
+1242 "health disparities" 0.0 0.0 ellipse
+1243 "social inference process" 0.0 0.0 ellipse
+1244 "human females" 0.0 0.0 ellipse
+1245 "close relationships" 0.0 0.0 ellipse
+1246 "cohort study" 0.0 0.0 ellipse
+1247 "veteran teachers" 0.0 0.0 ellipse
+1248 "placebo/nocebo effects" 0.0 0.0 ellipse
+1249 tattoo 0.0 0.0 ellipse
+1250 lesbians 0.0 0.0 ellipse
+1251 "intergenerational studies" 0.0 0.0 ellipse
+1252 retired 0.0 0.0 ellipse
+1253 persuasion 0.0 0.0 ellipse
+1254 "sibling relationship" 0.0 0.0 ellipse
+1255 advertising 0.0 0.0 ellipse
+1256 "job role" 0.0 0.0 ellipse
+1257 caregivers 0.0 0.0 ellipse
+1258 gratitude 0.0 0.0 ellipse
+1259 forecasts 0.0 0.0 ellipse
+1260 "computational social science" 0.0 0.0 ellipse
+1261 television 0.0 0.0 ellipse
+1262 accentuation 0.0 0.0 ellipse
+1263 "educational motivation" 0.0 0.0 ellipse
+1264 unconscious 0.0 0.0 ellipse
+1265 "negative attributes" 0.0 0.0 ellipse
+1266 internalizing 0.0 0.0 ellipse
+1267 "gay men" 0.0 0.0 ellipse
+1268 "interdependence goals" 0.0 0.0 ellipse
+1269 "political stereotypes" 0.0 0.0 ellipse
+1270 "patient-physician interactions" 0.0 0.0 ellipse
+1271 "child health" 0.0 0.0 ellipse
+1272 self-presentation 0.0 0.0 ellipse
+1273 "social status" 0.0 0.0 ellipse
+1274 "maternal responsiveness" 0.0 0.0 ellipse
+1275 "immigrant helping" 0.0 0.0 ellipse
+1276 "psychological adjustment" 0.0 0.0 ellipse
+1277 "principal component analyses" 0.0 0.0 ellipse
+1278 "ethnic cues" 0.0 0.0 ellipse
+1279 "gender stereotypes" 0.0 0.0 ellipse
+1280 dying 0.0 0.0 ellipse
+1281 "moral judgment" 0.0 0.0 ellipse
+1282 interaction 0.0 0.0 ellipse
+1283 "early development" 0.0 0.0 ellipse
+1284 "academic competence" 0.0 0.0 ellipse
+1285 "migrant children" 0.0 0.0 ellipse
+1286 competencia 0.0 0.0 ellipse
+1287 "trait perception" 0.0 0.0 ellipse
+1288 "caregiver warmth" 0.0 0.0 ellipse
+1289 "collectivist cultures" 0.0 0.0 ellipse
+1290 "sensory marketing" 0.0 0.0 ellipse
+1291 accuracy 0.0 0.0 ellipse
+1292 meetings 0.0 0.0 ellipse
+1293 "social learning" 0.0 0.0 ellipse
+1294 validity 0.0 0.0 ellipse
+1295 sociolinguistics 0.0 0.0 ellipse
+1296 "prosocial behavior" 0.0 0.0 ellipse
+1297 kindergarten 0.0 0.0 ellipse
+1298 affection 0.0 0.0 ellipse
+1299 desirability 0.0 0.0 ellipse
+1300 "cultural adoption" 0.0 0.0 ellipse
+1301 "attentional focusing" 0.0 0.0 ellipse
+1302 "social psychology" 0.0 0.0 ellipse
+1303 hungary 0.0 0.0 ellipse
+1304 "customer interest" 0.0 0.0 ellipse
+1305 "gender bias" 0.0 0.0 ellipse
+1306 "intergroup emotions" 0.0 0.0 ellipse
+1307 cross-cultural 0.0 0.0 ellipse
+1308 "brand relationships" 0.0 0.0 ellipse
+1309 "qualitative study" 0.0 0.0 ellipse
+1310 "social worth" 0.0 0.0 ellipse
+1311 self-disclosure 0.0 0.0 ellipse
+1312 dominance 0.0 0.0 ellipse
+1313 singapore 0.0 0.0 ellipse
+1314 "psychological testing" 0.0 0.0 ellipse
+1315 stereotype 0.0 0.0 ellipse
+1316 immigration 0.0 0.0 ellipse
+1317 "receptive vocabulary" 0.0 0.0 ellipse
+1318 "compensation hypothesis" 0.0 0.0 ellipse
+1319 "child personality" 0.0 0.0 ellipse
+1320 "stereotype content model (scm)" 0.0 0.0 ellipse
+1321 "brand management" 0.0 0.0 ellipse
+1322 "perceived competence" 0.0 0.0 ellipse
+1323 ecstasy 0.0 0.0 ellipse
+1324 intergroup 0.0 0.0 ellipse
+1325 "achievement motivation in mathematics" 0.0 0.0 ellipse
+1326 "implicit attitude" 0.0 0.0 ellipse
+1327 "student satisfaction" 0.0 0.0 ellipse
+1328 "bi-factor model" 0.0 0.0 ellipse
+1329 "multilevel modeling" 0.0 0.0 ellipse
+1330 "professional services" 0.0 0.0 ellipse
+1331 "real estate agents" 0.0 0.0 ellipse
+1332 "stigmatisation of the poor" 0.0 0.0 ellipse
+1333 structure 0.0 0.0 ellipse
+1334 support 0.0 0.0 ellipse
+1335 "social capital, whole school development" 0.0 0.0 ellipse
+1336 "gender differences" 0.0 0.0 ellipse
+1337 immigrants 0.0 0.0 ellipse
+1338 caregiving 0.0 0.0 ellipse
+1339 "working class" 0.0 0.0 ellipse
+1340 integration 0.0 0.0 ellipse
+1341 "hospital reputation" 0.0 0.0 ellipse
+1342 "person-centered care vs standard care" 0.0 0.0 ellipse
+1343 "public policy" 0.0 0.0 ellipse
+1344 "self-determination theory" 0.0 0.0 ellipse
+1345 "organizations' ownership status" 0.0 0.0 ellipse
+1346 "content analysis" 0.0 0.0 ellipse
+1347 "physical attractiveness" 0.0 0.0 ellipse
+1348 "need for cognition" 0.0 0.0 ellipse
+1349 "advice taking" 0.0 0.0 ellipse
+1350 "intergroup evaluations" 0.0 0.0 ellipse
+1351 feedback 0.0 0.0 ellipse
+1352 brands 0.0 0.0 ellipse
+1353 "psychological realism" 0.0 0.0 ellipse
+1354 "user-centered design" 0.0 0.0 ellipse
+1355 muslim 0.0 0.0 ellipse
+1356 communion 0.0 0.0 ellipse
+1357 "victim blame" 0.0 0.0 ellipse
+1358 competition 0.0 0.0 ellipse
+1359 externalizing 0.0 0.0 ellipse
+1360 print 0.0 0.0 ellipse
+1361 "social identification" 0.0 0.0 ellipse
+1362 "measurement invariance" 0.0 0.0 ellipse
+1363 "infant temperament" 0.0 0.0 ellipse
+1364 "children of alcoholics" 0.0 0.0 ellipse
+1365 "brand anthropomorphization" 0.0 0.0 ellipse
+1366 "mixed stereotypes" 0.0 0.0 ellipse
+1367 "collective future" 0.0 0.0 ellipse
+1368 "longitudinal research" 0.0 0.0 ellipse
+1369 "diagnostic decision-making" 0.0 0.0 ellipse
+1370 "intergroup relationship" 0.0 0.0 ellipse
+1371 "irt models" 0.0 0.0 ellipse
+1372 "children of immigrants" 0.0 0.0 ellipse
+1373 "autism spectrum disorder" 0.0 0.0 ellipse
+1374 servicescape 0.0 0.0 ellipse
+1375 "marital discord" 0.0 0.0 ellipse
+1376 "organizational commitment" 0.0 0.0 ellipse
+1377 "united arab emirates" 0.0 0.0 ellipse
+1378 "collective memory" 0.0 0.0 ellipse
+1379 "cognitive interview technique" 0.0 0.0 ellipse
+1380 "academic performance" 0.0 0.0 ellipse
+1381 romaphobia 0.0 0.0 ellipse
+1382 adolescent 0.0 0.0 ellipse
+1383 "information systems development (isd)" 0.0 0.0 ellipse
+1384 "brand image" 0.0 0.0 ellipse
+1385 "emotion regulation" 0.0 0.0 ellipse
+1386 "better tomorrow effect" 0.0 0.0 ellipse
+1387 humor 0.0 0.0 ellipse
+1388 "five factor model" 0.0 0.0 ellipse
+1389 "generational tensions" 0.0 0.0 ellipse
+1390 "sequential analysis" 0.0 0.0 ellipse
+1391 "gender portrayal" 0.0 0.0 ellipse
+1392 "phonological variation" 0.0 0.0 ellipse
+1393 adherence 0.0 0.0 ellipse
+1394 sociability 0.0 0.0 ellipse
+1395 "appearance focus" 0.0 0.0 ellipse
+1396 "sex roles" 0.0 0.0 ellipse
+1397 "assessment of out-group" 0.0 0.0 ellipse
+1398 "multi-level analysis" 0.0 0.0 ellipse
+1399 "generational resources" 0.0 0.0 ellipse
+1400 "parental smoking" 0.0 0.0 ellipse
+1401 "body posture" 0.0 0.0 ellipse
+1402 "compensatory perception" 0.0 0.0 ellipse
+1403 metaphor 0.0 0.0 ellipse
+1404 materialism 0.0 0.0 ellipse
+1405 meta-perceptions 0.0 0.0 ellipse
+1406 "political candidates" 0.0 0.0 ellipse
+1407 "emotional climate" 0.0 0.0 ellipse
+1408 "consumer behavior" 0.0 0.0 ellipse
+1409 "statistical beliefs" 0.0 0.0 ellipse
+1410 "physical activity" 0.0 0.0 ellipse
+1411 "competence perceptions" 0.0 0.0 ellipse
+1412 "cancer survivorship" 0.0 0.0 ellipse
+1413 extraversion 0.0 0.0 ellipse
+1414 narcissism 0.0 0.0 ellipse
+1415 obesity 0.0 0.0 ellipse
+1416 "posttraumatic stress" 0.0 0.0 ellipse
+1417 "us states" 0.0 0.0 ellipse
+1418 mothering 0.0 0.0 ellipse
+1419 subgroups 0.0 0.0 ellipse
+1420 "parenting confidence" 0.0 0.0 ellipse
+1421 impulsivity 0.0 0.0 ellipse
+1422 tobacco 0.0 0.0 ellipse
+1423 "social network" 0.0 0.0 ellipse
+1424 utility 0.0 0.0 ellipse
+1425 individualism 0.0 0.0 ellipse
+1426 "public images" 0.0 0.0 ellipse
+1427 "rendering style" 0.0 0.0 ellipse
+1428 deviance 0.0 0.0 ellipse
+1429 ses 0.0 0.0 ellipse
+1430 "sibling relationships" 0.0 0.0 ellipse
+1431 "food choice" 0.0 0.0 ellipse
+1432 "preservice teachers" 0.0 0.0 ellipse
+1433 "trait warmth/competence" 0.0 0.0 ellipse
+1434 "cultural stereotypes" 0.0 0.0 ellipse
+1435 "scale construction" 0.0 0.0 ellipse
+1436 supervision 0.0 0.0 ellipse
+1437 "lay epistemology" 0.0 0.0 ellipse
+1438 sensitivity 0.0 0.0 ellipse
+1439 "interpersonal affect" 0.0 0.0 ellipse
+1440 "worldview confirmation" 0.0 0.0 ellipse
+1441 "social norms" 0.0 0.0 ellipse
+1442 "newborn care" 0.0 0.0 ellipse
+1443 "smart interaction" 0.0 0.0 ellipse
+1444 military 0.0 0.0 ellipse
+1445 "brand logo" 0.0 0.0 ellipse
+1446 "competence and warmth" 0.0 0.0 ellipse
+1447 "negative wom" 0.0 0.0 ellipse
+1448 "stereotype confirmation" 0.0 0.0 ellipse
+1449 age 0.0 0.0 ellipse
+1450 "teacher-child relationships" 0.0 0.0 ellipse
+1451 "impression confirmation" 0.0 0.0 ellipse
+1452 "learning needs" 0.0 0.0 ellipse
+1453 emotions 0.0 0.0 ellipse
+1454 "single-category implicit association test" 0.0 0.0 ellipse
+1455 "maternal warmth" 0.0 0.0 ellipse
+1456 "objective response" 0.0 0.0 ellipse
+1457 romanians 0.0 0.0 ellipse
+1458 "effortful control" 0.0 0.0 ellipse
+1459 malleability 0.0 0.0 ellipse
+1460 "moral and social rules" 0.0 0.0 ellipse
+1461 "trait relevance" 0.0 0.0 ellipse
+1462 "orthopaedic disability" 0.0 0.0 ellipse
+1463 "emotional sharing" 0.0 0.0 ellipse
+1464 punishment 0.0 0.0 ellipse
+1465 "mental disorders" 0.0 0.0 ellipse
+1466 "coworkers and managers" 0.0 0.0 ellipse
+1467 india 0.0 0.0 ellipse
+1468 "mental-state verbs" 0.0 0.0 ellipse
+1469 consumers 0.0 0.0 ellipse
+1470 "behavior diagnosticity" 0.0 0.0 ellipse
+1471 election 0.0 0.0 ellipse
+1472 interactivity 0.0 0.0 ellipse
+1473 "customer demarketing" 0.0 0.0 ellipse
+1474 turnout 0.0 0.0 ellipse
+1475 "olympic games" 0.0 0.0 ellipse
+1476 "stigma and health" 0.0 0.0 ellipse
+1477 "racial phenotypicality bias" 0.0 0.0 ellipse
+1478 "lay theories" 0.0 0.0 ellipse
+1479 "glasgow accent" 0.0 0.0 ellipse
+1480 "intergroup negotiations" 0.0 0.0 ellipse
+1481 "generalized prejudice" 0.0 0.0 ellipse
+1482 similarity 0.0 0.0 ellipse
+1483 "socioemotional development" 0.0 0.0 ellipse
+1484 negotiation 0.0 0.0 ellipse
+1485 "context dependence" 0.0 0.0 ellipse
+1486 personas 0.0 0.0 ellipse
+1487 toddlers 0.0 0.0 ellipse
+1488 "family system" 0.0 0.0 ellipse
+1489 "intergroup comparison" 0.0 0.0 ellipse
+1490 "patient satisfaction" 0.0 0.0 ellipse
+1491 "emotional competence" 0.0 0.0 ellipse
+1492 "sense of competence" 0.0 0.0 ellipse
+1493 "social mindfulness" 0.0 0.0 ellipse
+1494 "cause-related marketing" 0.0 0.0 ellipse
+1495 "gender prescriptions" 0.0 0.0 ellipse
+1496 "peer delinquency" 0.0 0.0 ellipse
+1497 "language ideologies" 0.0 0.0 ellipse
+1498 "weight-based status" 0.0 0.0 ellipse
+1499 "goal directed behavior model" 0.0 0.0 ellipse
+1500 skill 0.0 0.0 ellipse
+1501 "implicit gender stereotypes" 0.0 0.0 ellipse
+1502 "aggressive behavior" 0.0 0.0 ellipse
+1503 robotics 0.0 0.0 ellipse
+1504 "nation brand personality" 0.0 0.0 ellipse
+1505 "actual and perceived sexual orientation" 0.0 0.0 ellipse
+1506 "mental illness" 0.0 0.0 ellipse
+1507 "child and adolescent mental health" 0.0 0.0 ellipse
+1508 morality/communion 0.0 0.0 ellipse
+1509 cancer 0.0 0.0 ellipse
+1510 competence-warmth 0.0 0.0 ellipse
+1511 similarity-attracts 0.0 0.0 ellipse
+1512 partnerships 0.0 0.0 ellipse
+1513 "personality disorders" 0.0 0.0 ellipse
+1514 "status characteristics theory" 0.0 0.0 ellipse
+1515 "research method" 0.0 0.0 ellipse
+1516 discipline 0.0 0.0 ellipse
+1517 criteria 0.0 0.0 ellipse
+1518 "affective learning" 0.0 0.0 ellipse
+1519 "school completion" 0.0 0.0 ellipse
+1520 "category fit" 0.0 0.0 ellipse
+1521 "enclothed cognition" 0.0 0.0 ellipse
+1522 "procedural fairness" 0.0 0.0 ellipse
+1523 "emotion-related socialization behaviors" 0.0 0.0 ellipse
+1524 "communication strategy" 0.0 0.0 ellipse
+1525 "expressive suppression" 0.0 0.0 ellipse
+1526 "internalizing problems" 0.0 0.0 ellipse
+1527 "communication ability" 0.0 0.0 ellipse
+1528 resilience 0.0 0.0 ellipse
+1529 morality 0.0 0.0 ellipse
+1530 spokesperson 0.0 0.0 ellipse
+1531 "spontaneous and deliberate choice" 0.0 0.0 ellipse
+1532 hispanic 0.0 0.0 ellipse
+1533 agentic 0.0 0.0 ellipse
+1534 "maternal acceptance-rejection" 0.0 0.0 ellipse
+1535 "folk linguistics" 0.0 0.0 ellipse
+1536 "media portrayals" 0.0 0.0 ellipse
+1537 "consumer satisfaction" 0.0 0.0 ellipse
+1538 communal 0.0 0.0 ellipse
+1539 "warmth perceptions" 0.0 0.0 ellipse
+1540 "emergence and perpetuation of status hierarchies" 0.0 0.0 ellipse
+1541 "intergroup context" 0.0 0.0 ellipse
+1542 meta-perception 0.0 0.0 ellipse
+1543 sweden 0.0 0.0 ellipse
+1544 "racial and ethnic attitudes" 0.0 0.0 ellipse
+1545 "child rearing" 0.0 0.0 ellipse
+1546 "environmental attitudes" 0.0 0.0 ellipse
+1547 country-of-origin 0.0 0.0 ellipse
+1548 "perceived warmth and competence" 0.0 0.0 ellipse
+1549 "agile software development" 0.0 0.0 ellipse
+1550 "psychology of cs(i)r" 0.0 0.0 ellipse
+1551 "stereotype-congruent information" 0.0 0.0 ellipse
+1552 "dietary behaviour" 0.0 0.0 ellipse
+1553 prejudice 0.0 0.0 ellipse
+1554 values 0.0 0.0 ellipse
+1555 "age discrimination" 0.0 0.0 ellipse
+1556 "social roles" 0.0 0.0 ellipse
+1557 "marketing strategy" 0.0 0.0 ellipse
+1558 robots 0.0 0.0 ellipse
+1559 empathy 0.0 0.0 ellipse
+1560 "social hierarchy" 0.0 0.0 ellipse
+1561 "brand authenticity" 0.0 0.0 ellipse
+1562 "self-report measure" 0.0 0.0 ellipse
+1563 "child discipline" 0.0 0.0 ellipse
+1564 "creating shared value" 0.0 0.0 ellipse
+1565 "speech styles" 0.0 0.0 ellipse
+1566 "host-tourist interactions" 0.0 0.0 ellipse
+1567 "service quality" 0.0 0.0 ellipse
+1568 "alcohol problems" 0.0 0.0 ellipse
+1569 skepticism 0.0 0.0 ellipse
+1570 "emotional sensitivity" 0.0 0.0 ellipse
+1571 "gender-role self-concept" 0.0 0.0 ellipse
+1572 "randomized controlled trial" 0.0 0.0 ellipse
+1573 achievement 0.0 0.0 ellipse
+1574 "trait selection" 0.0 0.0 ellipse
+1575 "turkish-origin migrants" 0.0 0.0 ellipse
+1576 males 0.0 0.0 ellipse
+1577 emotional 0.0 0.0 ellipse
+1578 "language development" 0.0 0.0 ellipse
+1579 "other customers" 0.0 0.0 ellipse
+1580 "master thesis" 0.0 0.0 ellipse
+1581 communal-cultural-assimilation 0.0 0.0 ellipse
+1582 "collective self-esteem" 0.0 0.0 ellipse
+1583 "social exclusion" 0.0 0.0 ellipse
+1584 "social robotics" 0.0 0.0 ellipse
+1585 "risk perception" 0.0 0.0 ellipse
+1586 "interpersonal skills" 0.0 0.0 ellipse
+1587 congeniality 0.0 0.0 ellipse
+1588 optimism 0.0 0.0 ellipse
+1589 "third-party perceptions" 0.0 0.0 ellipse
+1590 "dimensions of place image" 0.0 0.0 ellipse
+1591 "social compensation" 0.0 0.0 ellipse
+1592 dependability 0.0 0.0 ellipse
+1593 "social networks" 0.0 0.0 ellipse
+1594 religiosity 0.0 0.0 ellipse
+1595 "social utility" 0.0 0.0 ellipse
+1596 architecture 0.0 0.0 ellipse
+1597 "human warmth" 0.0 0.0 ellipse
+1598 mechanisms 0.0 0.0 ellipse
+1599 attractiveness 0.0 0.0 ellipse
+1600 news 0.0 0.0 ellipse
+1601 "early adolescence" 0.0 0.0 ellipse
+1602 "and competence" 0.0 0.0 ellipse
+1603 "emotion expression" 0.0 0.0 ellipse
+1604 hierarchy 0.0 0.0 ellipse
+1605 "family environment" 0.0 0.0 ellipse
+1606 "moral values" 0.0 0.0 ellipse
+1607 "social groups" 0.0 0.0 ellipse
+1608 "measuring stereotypes and prejudice" 0.0 0.0 ellipse
+1609 "social connection" 0.0 0.0 ellipse
+1610 cold 0.0 0.0 ellipse
+1611 "cluster analysis" 0.0 0.0 ellipse
+1612 harassment 0.0 0.0 ellipse
+1613 "product origin" 0.0 0.0 ellipse
+1614 "caregiver-child conflict" 0.0 0.0 ellipse
+1615 comorbidity 0.0 0.0 ellipse
+1616 "family health" 0.0 0.0 ellipse
+1617 latinos 0.0 0.0 ellipse
+1618 intervention 0.0 0.0 ellipse
+1619 hindu 0.0 0.0 ellipse
+1620 transition 0.0 0.0 ellipse
+1621 "teacher-child relationship quality" 0.0 0.0 ellipse
+1622 disability 0.0 0.0 ellipse
+1623 "find-remind-and-bind theory" 0.0 0.0 ellipse
+1624 "survey-based quasi-experimental research" 0.0 0.0 ellipse
+1625 "cultural maintenance" 0.0 0.0 ellipse
+1626 "poverty area" 0.0 0.0 ellipse
+1627 "disharmony hypothesis" 0.0 0.0 ellipse
+1628 "quality beliefs" 0.0 0.0 ellipse
+1629 globalization 0.0 0.0 ellipse
+1630 "native americans" 0.0 0.0 ellipse
+1631 "critical thinking disposition" 0.0 0.0 ellipse
+1632 "coping skills" 0.0 0.0 ellipse
+1633 centrality 0.0 0.0 ellipse
+1634 justice 0.0 0.0 ellipse
+1635 "in-group favoritism" 0.0 0.0 ellipse
+1636 management 0.0 0.0 ellipse
+1637 "emotion perception" 0.0 0.0 ellipse
+1638 neuroticism 0.0 0.0 ellipse
+1639 "experimental study" 0.0 0.0 ellipse
+1640 "negative affect" 0.0 0.0 ellipse
+1641 "product-harm crisis" 0.0 0.0 ellipse
+1642 "intergroup contact" 0.0 0.0 ellipse
+1643 "social projection" 0.0 0.0 ellipse
+1644 "above-average effect" 0.0 0.0 ellipse
+1645 "maternal gatekeeping" 0.0 0.0 ellipse
+1646 methodology 0.0 0.0 ellipse
+1647 "leadership effectiveness" 0.0 0.0 ellipse
+1648 self-evaluation 0.0 0.0 ellipse
+1649 "occupational cognition" 0.0 0.0 ellipse
+1650 "implicit association test" 0.0 0.0 ellipse
+1651 gender 0.0 0.0 ellipse
+1652 "parenting attitudes" 0.0 0.0 ellipse
+1653 csr 0.0 0.0 ellipse
+1654 exclusion 0.0 0.0 ellipse
+1655 "attachment avoidance" 0.0 0.0 ellipse
+1656 "empathic information" 0.0 0.0 ellipse
+1657 religion 0.0 0.0 ellipse
+1658 "exerciser stereotype" 0.0 0.0 ellipse
+1659 "brand personality" 0.0 0.0 ellipse
+1660 asch 0.0 0.0 ellipse
+1661 parent-perceived 0.0 0.0 ellipse
+1662 expectancy-violation 0.0 0.0 ellipse
+1663 self-construal 0.0 0.0 ellipse
+1664 "multiple cues" 0.0 0.0 ellipse
+1665 exercise 0.0 0.0 ellipse
+1666 "leader perceived warmth" 0.0 0.0 ellipse
+1667 "gender inversion" 0.0 0.0 ellipse
+1668 "cognitive and affective attitudes" 0.0 0.0 ellipse
+1669 myopia 0.0 0.0 ellipse
+1670 polyculturalism 0.0 0.0 ellipse
+1671 "belief superiority" 0.0 0.0 ellipse
+1672 childfree 0.0 0.0 ellipse
+1673 "country-of-origin effects" 0.0 0.0 ellipse
+1674 entitlement 0.0 0.0 ellipse
+1675 "intergroup threat" 0.0 0.0 ellipse
+1676 "group perception" 0.0 0.0 ellipse
+1677 threat 0.0 0.0 ellipse
+1678 "brand trust" 0.0 0.0 ellipse
+1679 categorisation 0.0 0.0 ellipse
+1680 "language attitudes" 0.0 0.0 ellipse
+1681 "dyadic joint attention" 0.0 0.0 ellipse
+1682 inclusion 0.0 0.0 ellipse
+1683 essentilization 0.0 0.0 ellipse
+1684 agentic-communal 0.0 0.0 ellipse
+1685 "election results" 0.0 0.0 ellipse
+1686 "ecological perspective" 0.0 0.0 ellipse
+1687 "employee tattoo" 0.0 0.0 ellipse
+1688 "callous-unemotional (cu) traits" 0.0 0.0 ellipse
+1689 stigmatisation 0.0 0.0 ellipse
+1690 "psychological profile" 0.0 0.0 ellipse
+1691 "relationship quality" 0.0 0.0 ellipse
+1692 self-perception 0.0 0.0 ellipse
+1693 "stereotype content model" 0.0 0.0 ellipse
+1694 "social identity" 0.0 0.0 ellipse
+1695 "disparaging humor" 0.0 0.0 ellipse
+1696 "political trust" 0.0 0.0 ellipse
+1697 "disabled children" 0.0 0.0 ellipse
+1698 "female subtypes" 0.0 0.0 ellipse
+1699 "emotional advertising" 0.0 0.0 ellipse
+1700 "human resources" 0.0 0.0 ellipse
+1701 "child guidance" 0.0 0.0 ellipse
+1702 "attribution of blame" 0.0 0.0 ellipse
+1703 legitimacy 0.0 0.0 ellipse
+1704 "children's perceptions" 0.0 0.0 ellipse
+1705 "face perception" 0.0 0.0 ellipse
+1706 attribution 0.0 0.0 ellipse
+1707 "organizational behaviour" 0.0 0.0 ellipse
+1708 "master's thesis" 0.0 0.0 ellipse
+1709 "individuating information" 0.0 0.0 ellipse
+1710 "social intelligence" 0.0 0.0 ellipse
+1711 stakeholders 0.0 0.0 ellipse
+1712 "advertising appeals" 0.0 0.0 ellipse
+1713 anxiety 0.0 0.0 ellipse
+1714 "ideal nationalism" 0.0 0.0 ellipse
+1715 "parental rejection" 0.0 0.0 ellipse
+1716 "achievement goals" 0.0 0.0 ellipse
+1717 schizophrenia 0.0 0.0 ellipse
+1718 "ethnic stereotypes" 0.0 0.0 ellipse
+1719 hispanics 0.0 0.0 ellipse
+1720 "latino child development" 0.0 0.0 ellipse
+1721 ability 0.0 0.0 ellipse
+1722 bedrooms 0.0 0.0 ellipse
+1723 agentic-cultural-contrast 0.0 0.0 ellipse
+1724 "computer-mediated communication" 0.0 0.0 ellipse
+1725 sex 0.0 0.0 ellipse
+1726 "person perception" 0.0 0.0 ellipse
+1727 gap 0.0 0.0 ellipse
+1728 "parental rearing styles" 0.0 0.0 ellipse
+1729 homelessness 0.0 0.0 ellipse
+1730 assimilation 0.0 0.0 ellipse
+1731 meta-stereotypes 0.0 0.0 ellipse
+1732 "intergroup friendship" 0.0 0.0 ellipse
+1733 "social risk" 0.0 0.0 ellipse
+1734 likeability 0.0 0.0 ellipse
+1735 collectivism 0.0 0.0 ellipse
+1736 "functional magnetic resonance imaging" 0.0 0.0 ellipse
+1737 "school readiness" 0.0 0.0 ellipse
+1738 "autobiographical memory" 0.0 0.0 ellipse
+1739 "foreign accent" 0.0 0.0 ellipse
+1740 ghana 0.0 0.0 ellipse
+1741 "group reputation" 0.0 0.0 ellipse
+1742 "tort law" 0.0 0.0 ellipse
+1743 "benevolent prejudice" 0.0 0.0 ellipse
+1744 norms 0.0 0.0 ellipse
+1745 "regional languages" 0.0 0.0 ellipse
+1746 power 0.0 0.0 ellipse
+1747 "academic motivation" 0.0 0.0 ellipse
+1748 "inclusive education" 0.0 0.0 ellipse
+1749 "social desirability" 0.0 0.0 ellipse
+1750 mexican-origin 0.0 0.0 ellipse
+1751 perpetration 0.0 0.0 ellipse
+1752 scale 0.0 0.0 ellipse
+1753 "environmental effects" 0.0 0.0 ellipse
+1754 "emotional reactivity" 0.0 0.0 ellipse
+1755 "complementary stereotypes" 0.0 0.0 ellipse
+1756 "teaching style" 0.0 0.0 ellipse
+1757 mixed-methods 0.0 0.0 ellipse
+1758 "voice perception" 0.0 0.0 ellipse
+1759 "fundamental dimensions of agency and communion" 0.0 0.0 ellipse
+1760 "attitudes towards immigrants" 0.0 0.0 ellipse
+1761 "uncanny valley" 0.0 0.0 ellipse
+1762 "climate change" 0.0 0.0 ellipse
+1763 attraction 0.0 0.0 ellipse
+1764 hiring 0.0 0.0 ellipse
+1765 "meta-semantic effects" 0.0 0.0 ellipse
+1766 "shape and image" 0.0 0.0 ellipse
+1767 "computer vision" 0.0 0.0 ellipse
+1768 "adolescent substance use" 0.0 0.0 ellipse
+1769 warmth/competence 0.0 0.0 ellipse
+1770 "social content model" 0.0 0.0 ellipse
+1771 self-stereotyping 0.0 0.0 ellipse
+1772 "backlash effects" 0.0 0.0 ellipse
+1773 accountability 0.0 0.0 ellipse
+1774 "woman subtypes" 0.0 0.0 ellipse
+1775 unemployed 0.0 0.0 ellipse
+1776 "mathematics achievement" 0.0 0.0 ellipse
+1777 "parenthood status" 0.0 0.0 ellipse
+1778 "nonverbal communication" 0.0 0.0 ellipse
+1779 "hospital prestige" 0.0 0.0 ellipse
+1780 "teacher education" 0.0 0.0 ellipse
+1781 "implicit stereotypes" 0.0 0.0 ellipse
+1782 "stigma of giftedness" 0.0 0.0 ellipse
+1783 "cognitive reappraisal" 0.0 0.0 ellipse
+1784 "own experience" 0.0 0.0 ellipse
+1785 "reactivity and control process interactions" 0.0 0.0 ellipse
+1786 japan 0.0 0.0 ellipse
+1787 "blatant dehumanization" 0.0 0.0 ellipse
+1788 "academic achievement" 0.0 0.0 ellipse
+1789 "numerical concepts" 0.0 0.0 ellipse
+1790 "affect control theory" 0.0 0.0 ellipse
+1791 communities 0.0 0.0 ellipse
+1792 groups 0.0 0.0 ellipse
+1793 prosthetics 0.0 0.0 ellipse
+1794 leadership 0.0 0.0 ellipse
+1795 "stereotype content" 0.0 0.0 ellipse
+1796 "social change" 0.0 0.0 ellipse
+1797 giftedness 0.0 0.0 ellipse
+1798 biracials 0.0 0.0 ellipse
+1799 "digital media" 0.0 0.0 ellipse
+1800 "internalizing behavior" 0.0 0.0 ellipse
+1801 cooperativeness 0.0 0.0 ellipse
+1802 "assessment scale" 0.0 0.0 ellipse
+1803 "perception of parenting" 0.0 0.0 ellipse
+1804 "occupational emotions" 0.0 0.0 ellipse
+1805 tears 0.0 0.0 ellipse
+1806 competent 0.0 0.0 ellipse
+1807 "mate preferences" 0.0 0.0 ellipse
+1808 money 0.0 0.0 ellipse
+1809 "sexual agency" 0.0 0.0 ellipse
+1810 "psychological abuse" 0.0 0.0 ellipse
+1811 self-representations 0.0 0.0 ellipse
+1812 "homeless signs" 0.0 0.0 ellipse
+1813 "personal therapy" 0.0 0.0 ellipse
+1814 "parent-adolescent relationships" 0.0 0.0 ellipse
+1815 "infant development" 0.0 0.0 ellipse
+1816 benevolence 0.0 0.0 ellipse
+1817 left-handedness 0.0 0.0 ellipse
+1818 "empathy development" 0.0 0.0 ellipse
+1819 "affect and cognition" 0.0 0.0 ellipse
+1820 "noblesse oblige" 0.0 0.0 ellipse
+1821 "bisexual men" 0.0 0.0 ellipse
+1822 judgments 0.0 0.0 ellipse
+1823 "social valuation" 0.0 0.0 ellipse
+1824 modeling 0.0 0.0 ellipse
+1825 discrimination 0.0 0.0 ellipse
+1826 "student perceptions" 0.0 0.0 ellipse
+1827 "recency effect" 0.0 0.0 ellipse
+1828 "simultaneous interpreting" 0.0 0.0 ellipse
+1829 "semantic congruence" 0.0 0.0 ellipse
+1830 "mental health promotion" 0.0 0.0 ellipse
+1831 "consumer psychology" 0.0 0.0 ellipse
+1832 "nonnative accents" 0.0 0.0 ellipse
+1833 anger 0.0 0.0 ellipse
+1834 "intellectual arrogance" 0.0 0.0 ellipse
+1835 "ethical care" 0.0 0.0 ellipse
+1836 "corporal punishment" 0.0 0.0 ellipse
+1837 demandingness 0.0 0.0 ellipse
+1838 "justification-suppression model" 0.0 0.0 ellipse
+1839 "outgroup perceptions" 0.0 0.0 ellipse
+1840 scaffolding 0.0 0.0 ellipse
+1841 "task performance" 0.0 0.0 ellipse
+1842 "interpersonal choice" 0.0 0.0 ellipse
+1843 "national origin effect" 0.0 0.0 ellipse
+1844 "tuition-free teacher candidates" 0.0 0.0 ellipse
+1845 "prejudice and discrimination" 0.0 0.0 ellipse
+1846 "attitude change" 0.0 0.0 ellipse
+1847 residents 0.0 0.0 ellipse
+1848 parenting 0.0 0.0 ellipse
+1849 "self-superiority beliefs" 0.0 0.0 ellipse
+1850 affect 0.0 0.0 ellipse
+1851 "leadership selection" 0.0 0.0 ellipse
+1852 "cognitive science" 0.0 0.0 ellipse
+1853 "crisis communication" 0.0 0.0 ellipse
+1854 "computer animation" 0.0 0.0 ellipse
+1855 reporter 0.0 0.0 ellipse
+1856 "trait warmth and competence" 0.0 0.0 ellipse
+1857 pregnancy 0.0 0.0 ellipse
+1858 "powerless speech" 0.0 0.0 ellipse
+1859 "group identity" 0.0 0.0 ellipse
+1860 "intergroup relations" 0.0 0.0 ellipse
+1861 "warmth stereotype" 0.0 0.0 ellipse
+1862 "charitable credit" 0.0 0.0 ellipse
+1863 "spontaneous trait activation" 0.0 0.0 ellipse
+1864 "parental warmth or monitoring" 0.0 0.0 ellipse
+1865 "positive illusory bias" 0.0 0.0 ellipse
+1866 "moral theory" 0.0 0.0 ellipse
+1867 "corporate social responsibility" 0.0 0.0 ellipse
+1868 asian 0.0 0.0 ellipse
+1869 "immigrant families" 0.0 0.0 ellipse
+1870 "adult resilience" 0.0 0.0 ellipse
+1871 "perceived warmth" 0.0 0.0 ellipse
+1872 "moral dilemma" 0.0 0.0 ellipse
+1873 "age prejudice" 0.0 0.0 ellipse
+1874 "temporal distance perceptions" 0.0 0.0 ellipse
+1875 "maintenance of stereotypes" 0.0 0.0 ellipse
+1876 "social bias" 0.0 0.0 ellipse
+*edges
+1 1568 1
+1 912 1
+1 1364 1
+1 1336 1
+1 29 1
+2 130 1
+2 1561 1
+2 1186 1
+2 738 1
+3 498 1
+3 9 1
+3 717 1
+4 509 1
+4 621 1
+4 391 1
+4 501 1
+4 265 1
+4 704 1
+4 181 1
+4 1563 1
+4 955 1
+4 1848 1
+5 338 1
+5 1376 2
+5 128 1
+5 1214 2
+5 1548 1
+5 836 2
+6 126 1
+6 788 1
+6 745 1
+6 680 1
+7 337 3
+7 128 1
+7 302 7
+7 293 1
+7 849 1
+7 18 2
+7 1820 1
+7 1634 1
+7 1726 1
+7 383 1
+7 9 3
+7 1464 1
+7 11 7
+7 1239 1
+7 1446 1
+7 1451 1
+7 747 1
+7 1860 4
+8 1134 1
+8 355 1
+8 1866 1
+8 991 1
+8 1835 1
+9 1227 1
+9 1644 1
+9 481 1
+9 1213 1
+9 302 4
+9 717 1
+9 498 1
+9 11 4
+9 1269 1
+9 1860 3
+9 222 1
+10 1026 1
+10 589 1
+10 468 1
+11 364 1
+11 481 6
+11 1724 1
+11 949 1
+11 243 1
+11 1178 1
+11 952 1
+11 953 1
+11 1839 1
+11 408 1
+11 529 1
+11 1410 1
+11 1650 2
+11 1651 5
+11 1591 1
+11 12 1
+11 1185 1
+11 1653 1
+11 14 1
+11 247 1
+11 1336 1
+11 255 1
+11 728 2
+11 18 5
+11 1662 1
+11 497 1
+11 124 1
+11 1664 1
+11 1607 1
+11 1665 1
+11 69 1
+11 969 1
+11 951 1
+11 972 1
+11 733 1
+11 974 1
+11 1434 1
+11 1072 1
+11 739 1
+11 273 1
+11 1441 1
+11 911 1
+11 1253 1
+11 219 1
+11 30 1
+11 517 1
+11 34 1
+11 1643 1
+11 1456 1
+11 747 1
+11 1188 1
+11 1684 1
+11 570 1
+11 1209 1
+11 1453 3
+11 993 1
+11 1675 1
+11 1677 1
+11 291 1
+11 1206 1
+11 36 1
+11 293 1
+11 1691 1
+11 1500 1
+11 1220 1
+11 756 1
+11 1693 6
+11 1461 1
+11 485 1
+11 1464 1
+11 1734 1
+11 1696 1
+11 763 1
+11 766 1
+11 521 1
+11 538 1
+11 956 1
+11 48 1
+11 306 1
+11 199 1
+11 1703 1
+11 575 2
+11 544 1
+11 851 1
+11 776 1
+11 54 1
+11 55 1
+11 1792 1
+11 1015 1
+11 1484 1
+11 1016 1
+11 1239 4
+11 59 1
+11 783 1
+11 320 1
+11 60 1
+11 1714 1
+11 785 1
+11 557 1
+11 1431 1
+11 65 1
+11 1408 1
+11 561 1
+11 562 1
+11 328 1
+11 329 1
+11 1501 1
+11 1428 1
+11 1117 1
+11 1541 1
+11 799 1
+11 1451 1
+11 1254 1
+11 1465 2
+11 1832 1
+11 337 20
+11 1010 1
+11 79 1
+11 1509 1
+11 67 3
+11 731 1
+11 1121 1
+11 452 1
+11 1593 1
+11 1746 4
+11 1514 1
+11 1265 1
+11 1680 1
+11 607 1
+11 1272 2
+11 1273 2
+11 351 1
+11 819 1
+11 93 1
+11 1147 1
+11 1166 1
+11 1755 2
+11 1279 2
+11 1052 1
+11 102 1
+11 586 1
+11 357 1
+11 1599 1
+11 1529 13
+11 1005 1
+11 359 1
+11 103 2
+11 682 1
+11 303 1
+11 106 1
+11 1286 1
+11 217 1
+11 597 1
+11 1290 1
+11 1763 1
+11 1764 1
+11 1066 1
+11 617 1
+11 1176 1
+11 160 1
+11 838 1
+11 114 1
+11 1292 1
+11 369 1
+11 1678 1
+11 992 1
+11 606 1
+11 356 2
+11 118 1
+11 1296 1
+11 843 1
+11 1547 1
+11 122 2
+11 1726 3
+11 773 1
+11 1080 1
+11 390 1
+11 846 1
+11 847 2
+11 849 1
+11 850 1
+11 1085 1
+11 131 1
+11 1553 2
+11 990 1
+11 697 7
+11 383 5
+11 1311 1
+11 856 1
+11 858 2
+11 1090 1
+11 1707 1
+11 139 1
+11 1312 2
+11 302 92
+11 1506 1
+11 1315 4
+11 893 1
+11 594 2
+11 1401 1
+11 1794 2
+11 22 1
+11 1795 5
+11 632 1
+11 62 1
+11 1560 1
+11 635 1
+11 1361 1
+11 53 1
+11 488 2
+11 469 1
+11 156 1
+11 1669 1
+11 57 1
+11 767 1
+11 159 1
+11 664 6
+11 1526 1
+11 1845 1
+11 1808 1
+11 45 1
+11 779 1
+11 415 1
+11 419 1
+11 1641 1
+11 653 1
+11 1126 1
+11 1815 1
+11 1816 1
+11 1347 1
+11 887 1
+11 1710 1
+11 888 2
+11 1589 1
+11 1559 1
+11 1199 1
+11 179 1
+11 431 1
+11 1634 1
+11 432 1
+11 665 1
+11 978 1
+11 1356 1
+11 1825 1
+11 1588 1
+11 1240 1
+11 1357 1
+11 1635 1
+11 1358 2
+11 1138 1
+11 188 1
+11 591 1
+11 673 1
+11 495 1
+11 193 1
+11 1143 2
+11 454 1
+11 198 1
+11 1831 1
+11 1676 2
+11 681 1
+11 1611 1
+11 1374 1
+11 1598 1
+11 1849 1
+11 1842 1
+11 1642 3
+11 1155 1
+11 1716 1
+11 1827 1
+11 690 1
+11 923 2
+11 462 1
+11 926 1
+11 830 1
+11 1384 1
+11 929 1
+11 1654 1
+11 1622 4
+11 1624 1
+11 1859 1
+11 1860 3
+11 222 1
+11 1648 1
+11 1387 1
+11 224 1
+11 935 1
+11 226 5
+11 1863 1
+11 1810 1
+11 230 1
+11 1394 5
+11 1829 1
+11 326 1
+11 941 1
+11 1406 1
+11 234 1
+11 1874 1
+11 709 1
+11 236 1
+11 1850 1
+11 1173 1
+11 947 1
+11 1403 2
+12 337 1
+12 561 1
+12 302 1
+12 1173 1
+13 907 1
+13 896 1
+14 1529 1
+14 1654 1
+14 1677 1
+14 1428 1
+15 1747 1
+15 1573 1
+15 1190 1
+16 1239 1
+16 1651 1
+16 828 1
+16 410 1
+16 1709 1
+17 854 1
+17 163 1
+18 364 1
+18 191 1
+18 1133 1
+18 1093 1
+18 664 1
+18 610 1
+18 1347 1
+18 1356 1
+18 1825 2
+18 1239 1
+18 1651 1
+18 649 1
+18 1775 1
+18 128 1
+18 1724 1
+18 1662 1
+18 1726 1
+18 383 1
+18 678 1
+18 1784 1
+18 951 1
+18 1147 1
+18 1669 1
+18 1252 1
+18 337 1
+18 339 1
+18 1553 1
+18 302 4
+18 27 1
+18 71 1
+18 1618 1
+18 632 1
+18 516 1
+18 349 1
+18 224 1
+18 469 1
+18 226 1
+18 1660 1
+18 1114 1
+18 1693 1
+18 1529 1
+18 1121 1
+18 1763 1
+18 303 1
+19 554 1
+19 195 1
+19 830 1
+19 104 1
+19 342 1
+19 1547 1
+19 539 1
+19 80 1
+20 1291 1
+20 1794 1
+20 1705 1
+20 550 1
+21 1000 1
+21 107 1
+21 372 1
+21 1443 1
+22 1849 1
+22 1213 1
+22 1008 1
+22 888 1
+22 783 1
+22 391 1
+22 434 1
+22 1588 1
+22 302 1
+22 800 1
+22 1272 1
+22 356 1
+22 878 1
+23 750 1
+23 337 1
+23 1677 1
+23 1316 1
+23 79 1
+23 851 1
+23 487 1
+23 1823 1
+23 909 1
+23 1697 1
+23 122 1
+23 1313 1
+23 1553 2
+23 1196 1
+24 1616 1
+24 339 1
+24 1791 1
+24 302 1
+24 241 1
+24 400 1
+24 862 2
+24 1263 1
+24 1795 1
+24 955 1
+24 812 1
+24 547 1
+24 1094 1
+24 695 1
+24 1519 1
+24 1713 1
+24 1491 1
+24 1492 1
+24 821 1
+24 1362 1
+24 645 1
+24 996 1
+24 1279 1
+24 1368 1
+24 572 1
+24 1196 1
+24 1400 1
+24 972 1
+24 1453 1
+24 1375 1
+24 1848 4
+25 1737 1
+25 302 1
+25 749 1
+25 1840 1
+26 1030 1
+26 1691 1
+26 225 1
+26 1861 1
+27 1529 1
+27 664 1
+27 649 1
+28 1722 1
+28 1100 1
+28 1726 1
+29 1568 1
+29 912 1
+29 1364 1
+29 1336 1
+30 1010 1
+30 635 1
+30 302 1
+30 1484 1
+30 1279 1
+31 1385 1
+31 549 1
+31 1182 1
+32 1367 1
+32 1786 1
+32 1041 1
+33 1098 1
+33 488 1
+33 1452 1
+33 851 1
+34 485 1
+34 103 1
+34 302 1
+35 1239 1
+35 964 1
+35 42 1
+36 179 1
+36 597 1
+36 302 1
+37 821 1
+37 1044 1
+37 427 1
+38 426 1
+38 1693 1
+38 1867 1
+38 824 1
+38 1564 1
+39 1555 1
+39 793 1
+40 748 1
+40 1730 1
+40 122 1
+40 1481 1
+40 518 2
+40 867 1
+40 1693 1
+40 1670 1
+41 1078 1
+41 827 1
+41 456 1
+41 1848 1
+42 1239 1
+42 964 1
+43 1259 1
+43 418 1
+43 1588 1
+43 249 1
+44 830 1
+44 1601 1
+44 377 1
+45 1359 1
+45 701 1
+45 557 1
+45 302 1
+45 1848 1
+45 586 1
+45 1754 1
+45 1462 1
+45 1599 1
+45 1301 1
+45 665 1
+45 1266 1
+45 1532 1
+45 628 1
+45 1528 1
+45 1764 1
+46 365 1
+46 1095 1
+46 1278 1
+46 281 1
+46 1332 1
+47 1458 1
+47 1421 1
+47 450 1
+47 1274 1
+48 289 1
+48 302 1
+48 226 1
+48 1589 1
+48 1691 1
+48 1117 1
+48 1334 1
+48 1593 1
+48 375 1
+48 957 1
+48 974 1
+48 1848 1
+49 337 1
+49 447 1
+49 943 1
+49 746 1
+49 1517 1
+49 90 1
+49 1828 1
+49 132 1
+49 851 1
+50 110 1
+50 1573 1
+50 301 1
+50 1754 1
+50 1023 1
+50 357 1
+50 170 1
+50 1344 1
+50 463 1
+50 1651 1
+50 1449 1
+50 269 1
+50 749 1
+51 933 1
+51 1785 1
+51 1198 1
+52 537 1
+52 1848 1
+52 1221 1
+53 615 2
+53 1388 1
+53 1702 1
+53 1146 1
+53 1693 1
+53 1641 1
+53 169 1
+53 694 1
+53 894 1
+53 1547 2
+53 857 1
+53 1718 1
+53 302 1
+53 1624 1
+54 1622 1
+54 302 1
+54 697 1
+54 1155 1
+55 978 1
+55 302 1
+55 328 1
+55 415 1
+56 337 1
+56 1675 1
+56 886 1
+56 1328 1
+56 1350 1
+56 1795 1
+56 1746 1
+56 693 1
+56 1090 1
+56 1553 1
+56 411 1
+56 1453 1
+57 462 1
+57 731 1
+57 302 1
+57 1863 1
+57 431 1
+58 599 1
+58 980 1
+58 517 1
+58 1526 1
+58 188 1
+59 630 1
+59 1862 1
+59 302 2
+59 111 1
+59 1392 1
+59 1085 1
+59 1479 1
+59 858 1
+59 1678 1
+59 1867 1
+59 1384 1
+59 1694 1
+59 823 1
+59 1296 1
+59 97 1
+60 302 1
+60 452 1
+60 1653 1
+61 337 1
+61 716 1
+61 350 1
+61 829 1
+61 305 1
+62 337 1
+62 1357 1
+62 302 1
+62 1810 1
+63 246 1
+63 171 1
+63 1205 1
+63 1491 1
+64 214 1
+64 1225 1
+64 1232 1
+64 423 1
+64 551 1
+65 1529 1
+65 118 1
+65 302 1
+65 226 1
+65 1356 1
+65 497 1
+66 302 1
+66 1677 1
+66 703 1
+66 1482 1
+67 337 2
+67 113 1
+67 481 2
+67 302 3
+67 540 1
+67 1622 1
+67 1410 1
+67 434 2
+67 488 1
+67 247 1
+67 697 1
+67 395 1
+67 1272 1
+67 1336 1
+67 1842 1
+67 674 1
+67 1394 1
+67 1181 1
+67 1693 1
+67 1707 1
+67 1143 1
+67 834 1
+67 568 1
+67 362 1
+67 1762 1
+68 1217 1
+68 1383 1
+68 168 1
+68 503 1
+68 1549 1
+68 1693 1
+68 392 1
+68 1256 1
+69 1239 1
+69 1850 1
+69 1832 1
+69 1680 1
+69 302 1
+69 198 1
+69 1598 1
+69 1845 1
+70 1299 1
+70 356 1
+70 473 1
+70 1424 1
+71 1133 1
+71 1252 1
+71 1775 1
+71 1660 1
+72 522 1
+72 302 1
+72 1170 1
+72 1872 1
+73 919 1
+73 340 1
+73 1474 1
+73 1693 1
+74 337 1
+74 528 1
+74 577 1
+74 1793 1
+75 263 1
+75 128 1
+75 1659 1
+75 868 1
+75 1365 1
+75 585 1
+75 684 1
+75 260 1
+75 1408 1
+76 837 1
+76 1668 1
+76 1108 1
+76 1201 1
+76 421 1
+77 1559 1
+77 1833 1
+77 100 1
+78 1708 1
+78 977 1
+78 1436 1
+78 1327 1
+79 383 1
+79 302 1
+79 193 1
+79 1697 1
+79 1239 1
+79 122 1
+79 1553 1
+79 487 1
+80 539 1
+80 104 1
+80 1547 1
+81 664 1
+81 1122 1
+81 900 1
+81 780 1
+82 1119 1
+82 1377 1
+82 896 1
+82 1054 1
+82 380 1
+82 1351 1
+82 304 1
+83 759 1
+83 1083 1
+83 1553 1
+83 1860 1
+83 252 1
+84 1528 1
+84 259 1
+84 1578 1
+84 1284 1
+85 298 1
+85 1149 1
+85 502 1
+85 767 1
+86 835 1
+86 1179 1
+86 376 1
+86 572 1
+86 1551 1
+87 1171 1
+87 1427 1
+87 378 1
+88 228 1
+88 1742 1
+88 238 1
+88 1693 1
+89 373 1
+89 108 1
+89 1824 1
+89 714 1
+89 1430 1
+89 681 1
+89 862 1
+89 429 2
+89 1033 1
+89 209 2
+89 1373 1
+90 1517 1
+90 447 1
+90 1828 1
+90 132 1
+91 1856 1
+91 853 1
+91 467 1
+91 403 1
+92 196 1
+92 226 1
+92 1279 1
+93 1716 1
+93 226 1
+94 774 1
+94 409 1
+94 1726 1
+94 419 1
+95 337 1
+95 441 1
+95 1305 1
+95 1226 1
+95 451 1
+95 101 1
+96 569 1
+96 270 1
+96 663 1
+96 1385 1
+97 1479 1
+97 1694 1
+97 111 1
+97 1392 1
+98 903 1
+98 207 1
+98 1081 1
+98 1693 1
+99 498 1
+99 851 1
+99 131 1
+99 128 1
+99 958 1
+100 1833 1
+100 1559 1
+101 337 1
+101 441 1
+101 1305 1
+101 1226 1
+101 451 1
+102 517 1
+102 557 1
+102 139 1
+102 357 1
+102 1185 1
+102 1815 1
+103 337 2
+103 1315 1
+103 302 2
+103 617 1
+103 485 1
+103 1340 1
+103 1651 1
+103 581 1
+103 1683 1
+103 222 1
+103 382 1
+104 539 1
+104 1547 1
+105 665 1
+105 1296 1
+105 1307 1
+105 1185 1
+105 194 1
+106 607 1
+106 1296 1
+106 929 1
+107 1000 1
+107 372 1
+107 1443 1
+108 1507 1
+108 794 1
+108 1317 1
+108 889 1
+108 1681 1
+108 1158 1
+108 211 1
+108 1578 1
+108 1528 1
+108 830 1
+108 832 1
+108 1429 1
+108 1430 1
+108 373 1
+108 1373 1
+108 1033 1
+108 1046 1
+108 1848 1
+109 599 1
+109 505 1
+109 1380 1
+109 1031 1
+110 1651 1
+110 1449 1
+110 269 1
+110 1023 1
+111 1694 1
+111 1479 1
+111 1392 1
+112 417 1
+112 1287 1
+112 881 1
+112 1260 1
+112 1705 1
+112 1767 1
+112 187 1
+113 568 1
+113 1693 1
+113 1762 1
+114 302 1
+114 673 1
+114 1726 1
+115 133 1
+115 1139 1
+115 1019 1
+115 394 1
+116 1020 1
+116 1322 1
+116 1687 1
+116 1447 1
+117 412 1
+117 681 1
+117 653 1
+118 1529 1
+118 1356 1
+118 226 1
+118 302 1
+118 497 1
+119 1021 1
+119 955 1
+119 443 1
+119 407 1
+119 1803 1
+119 885 1
+120 1482 1
+120 387 1
+120 1732 1
+120 481 1
+121 1623 1
+121 1258 1
+121 1603 1
+121 888 1
+122 337 1
+122 748 1
+122 1697 1
+122 1693 1
+122 1387 1
+122 1311 1
+122 518 1
+122 302 2
+122 487 1
+122 1642 2
+122 1553 1
+122 234 1
+123 1234 1
+123 1257 1
+123 1416 1
+123 675 1
+123 1614 1
+123 1288 1
+123 647 1
+123 202 1
+123 476 1
+124 1794 1
+124 1279 1
+124 1726 1
+125 389 1
+125 224 1
+125 734 1
+125 245 1
+126 788 1
+126 745 1
+126 680 1
+127 1083 1
+127 818 1
+127 1453 1
+128 1346 2
+128 240 1
+128 1466 1
+128 177 2
+128 1011 1
+128 1057 1
+128 1408 1
+128 664 2
+128 779 1
+128 1544 1
+128 1825 1
+128 958 1
+128 892 1
+128 1726 1
+128 1831 1
+128 338 1
+128 845 2
+128 358 1
+128 965 1
+128 934 1
+128 1524 1
+128 850 1
+128 851 1
+128 131 1
+128 1366 1
+128 260 1
+128 1782 1
+128 383 1
+128 543 1
+128 858 1
+128 716 1
+128 684 1
+128 337 2
+128 1376 2
+128 271 1
+128 145 1
+128 498 1
+128 981 1
+128 983 1
+128 213 1
+128 865 1
+128 1797 1
+128 464 1
+128 868 1
+128 932 1
+128 1326 1
+128 1272 1
+128 1109 1
+128 1627 1
+128 1214 1
+128 1659 1
+128 1160 1
+128 937 1
+128 1693 3
+128 167 1
+128 940 1
+128 565 1
+128 420 1
+128 1536 2
+128 702 1
+128 237 1
+128 836 1
+129 826 1
+129 448 1
+129 1763 1
+129 168 1
+129 576 1
+130 1561 1
+130 1186 1
+130 738 1
+131 337 3
+131 302 1
+131 1216 1
+131 1419 1
+131 1318 1
+131 311 1
+131 1239 1
+131 496 1
+131 851 1
+131 446 1
+131 1693 1
+131 498 1
+131 488 1
+131 592 1
+131 1731 1
+131 1651 2
+131 765 1
+131 958 1
+132 1517 1
+132 1828 1
+132 447 1
+133 1139 1
+133 1019 1
+133 394 1
+133 1795 1
+133 1337 1
+134 664 1
+134 383 1
+134 434 1
+134 328 1
+134 1583 1
+134 414 1
+134 899 1
+134 1693 1
+135 481 1
+135 1746 1
+135 434 1
+135 754 1
+136 532 1
+136 1854 1
+136 1099 1
+136 1393 1
+136 618 1
+136 277 1
+136 1761 1
+137 1477 1
+137 1651 1
+137 810 1
+137 1163 1
+138 1279 1
+138 527 1
+138 200 1
+139 517 1
+139 557 1
+139 346 1
+139 582 1
+139 1187 1
+139 1815 1
+139 357 1
+139 481 1
+139 1185 1
+140 383 1
+140 760 1
+140 653 1
+141 541 1
+141 334 1
+141 595 1
+141 1693 1
+142 332 1
+142 1499 1
+142 1096 1
+142 918 1
+143 1488 1
+143 1430 1
+144 1315 1
+144 1553 1
+144 1676 1
+145 1466 1
+145 1376 1
+145 702 1
+145 213 1
+146 1486 1
+146 874 1
+146 1354 1
+146 337 1
+146 1639 1
+147 288 1
+147 1356 1
+147 1834 1
+147 178 1
+147 544 1
+147 226 1
+148 1321 1
+148 324 1
+148 1343 1
+149 1376 1
+149 327 1
+149 325 1
+149 1647 1
+150 1061 1
+150 508 1
+151 220 1
+151 550 1
+151 1136 1
+151 1314 1
+152 1846 1
+152 1262 1
+152 572 1
+152 1875 1
+153 399 1
+153 1047 1
+153 302 1
+153 820 1
+153 1360 1
+154 1315 1
+154 1068 1
+154 1553 1
+154 745 1
+155 1671 1
+155 667 1
+155 1546 1
+155 1060 1
+156 664 1
+156 359 1
+156 302 1
+156 1465 1
+157 337 1
+157 1651 1
+157 1486 1
+157 1208 1
+158 383 1
+158 1736 1
+158 285 1
+159 1664 1
+159 302 1
+159 858 1
+159 990 1
+160 1315 1
+160 1361 1
+160 302 1
+160 653 1
+161 1203 1
+161 1167 1
+161 1014 1
+161 945 1
+162 465 1
+162 813 1
+162 950 1
+162 708 1
+163 854 1
+164 379 1
+164 1062 1
+165 1532 1
+165 183 1
+165 1013 1
+165 1097 1
+166 466 1
+166 660 1
+166 1398 1
+166 1221 1
+167 1553 1
+167 1821 1
+167 1267 1
+167 1250 1
+167 1825 2
+167 184 1
+167 1693 3
+167 923 1
+167 1109 1
+168 576 1
+168 1217 1
+168 826 1
+168 503 1
+168 1383 1
+168 1830 1
+168 488 1
+168 1693 1
+168 448 1
+168 392 1
+168 535 1
+168 250 1
+168 1549 1
+168 1763 1
+168 492 1
+168 1256 1
+169 1702 1
+169 1146 1
+169 894 1
+169 1547 1
+170 1573 1
+170 1754 1
+170 463 1
+170 301 1
+170 357 1
+170 749 1
+170 1344 1
+171 246 1
+171 1205 1
+171 1491 1
+172 350 1
+172 1640 1
+172 734 1
+172 1825 1
+172 1004 1
+173 337 1
+173 174 1
+173 1860 1
+174 664 1
+174 475 1
+174 1694 1
+174 337 1
+174 715 1
+174 348 1
+174 1320 1
+174 1860 1
+174 1243 1
+175 268 1
+175 621 1
+175 1460 1
+176 258 1
+176 1192 1
+176 486 1
+176 1851 1
+177 845 2
+177 1346 2
+177 932 1
+177 1536 2
+177 237 1
+178 1356 1
+178 1834 1
+178 288 1
+178 544 1
+178 226 1
+179 597 1
+179 302 1
+180 664 1
+180 1651 1
+180 974 1
+180 484 1
+181 704 1
+181 1848 1
+181 955 1
+182 337 1
+182 542 1
+182 1617 1
+182 490 1
+182 227 1
+182 190 1
+182 1337 1
+182 1725 1
+182 193 1
+182 383 1
+182 1622 1
+182 1792 1
+182 1825 1
+182 534 1
+182 1651 1
+182 488 1
+182 861 1
+182 1682 1
+182 1188 1
+182 1700 1
+182 1860 1
+183 1175 1
+183 1097 1
+183 259 1
+183 806 1
+183 1013 1
+183 1120 1
+183 1323 1
+183 611 1
+183 1651 1
+183 1837 1
+183 352 1
+183 1110 1
+183 1552 1
+183 1420 1
+183 1363 1
+183 1142 1
+183 274 1
+183 587 1
+183 1605 1
+183 1532 1
+183 1218 1
+183 254 1
+183 398 1
+183 1870 1
+184 1821 1
+184 1267 1
+184 1250 1
+184 1693 1
+185 337 1
+185 1649 1
+185 792 1
+185 1844 1
+185 1804 1
+186 852 1
+186 1813 1
+186 435 1
+187 417 1
+187 1287 1
+187 881 1
+187 1260 1
+187 1705 1
+187 1767 1
+188 599 1
+188 1526 2
+188 524 1
+188 704 1
+188 487 1
+188 980 1
+188 517 1
+188 1611 1
+188 1254 1
+188 885 1
+189 337 3
+189 1200 1
+189 662 1
+189 1738 1
+189 789 1
+189 457 1
+189 741 1
+189 346 1
+189 514 1
+189 1795 1
+189 1239 1
+189 1459 1
+189 1440 1
+189 1651 1
+189 1774 1
+189 697 1
+189 767 2
+189 481 1
+189 1391 1
+189 1495 1
+189 1255 1
+189 676 1
+189 1307 1
+189 1279 1
+189 1663 1
+189 1693 1
+189 1529 1
+189 678 1
+189 1144 1
+189 1556 1
+189 1694 1
+189 256 1
+189 300 1
+189 221 1
+189 1210 1
+189 734 1
+189 1553 1
+189 1065 1
+190 337 1
+190 1792 1
+190 1617 1
+191 1239 1
+191 349 1
+191 1553 1
+192 1555 1
+192 1202 1
+193 1651 1
+193 542 1
+193 1725 1
+193 383 2
+193 1239 1
+193 861 1
+193 1188 1
+193 302 1
+193 1860 1
+194 665 1
+194 1296 1
+194 1307 1
+194 1185 1
+195 554 1
+195 830 1
+195 342 1
+196 226 1
+196 1279 1
+197 1277 1
+197 1381 1
+197 1303 1
+198 1239 1
+198 1850 1
+198 1832 1
+198 1680 1
+198 302 1
+198 1845 1
+198 1598 1
+199 302 1
+199 1176 1
+199 219 1
+200 1200 1
+200 337 1
+200 737 1
+200 527 1
+200 842 1
+200 841 1
+200 1279 1
+200 1245 1
+200 1772 1
+200 767 1
+201 825 1
+201 679 1
+201 296 1
+201 1620 1
+202 1257 1
+202 1128 1
+202 1218 1
+202 660 1
+202 743 1
+202 1234 1
+202 456 1
+202 557 1
+202 488 1
+202 855 1
+202 675 1
+202 218 1
+202 1713 1
+202 440 1
+202 822 1
+202 1416 1
+202 1658 1
+202 791 1
+202 1865 1
+202 647 1
+202 759 1
+202 1693 2
+202 1665 1
+202 476 1
+202 1873 1
+202 912 1
+202 1288 1
+202 1614 1
+202 1848 2
+203 231 1
+203 1238 1
+203 279 1
+203 1280 1
+203 649 1
+203 1618 1
+203 939 1
+204 1693 1
+204 1445 1
+204 315 1
+204 875 1
+205 337 1
+205 1355 1
+205 1467 1
+205 1090 1
+205 242 1
+205 817 1
+205 1582 1
+205 1619 1
+205 959 1
+206 1349 1
+206 1229 1
+206 482 1
+206 550 1
+207 903 1
+207 1081 1
+207 1693 1
+208 664 1
+208 905 1
+208 1558 1
+208 526 1
+208 546 1
+208 871 1
+208 1584 1
+208 864 1
+208 1503 1
+209 1855 1
+209 714 1
+209 367 1
+209 1657 1
+209 429 2
+209 1848 1
+210 1679 1
+210 665 1
+210 561 1
+210 1049 1
+210 518 1
+210 1300 1
+210 1760 1
+210 771 1
+210 1340 1
+210 1534 1
+211 665 1
+211 1455 1
+211 870 1
+211 1688 1
+211 1681 1
+211 1158 1
+211 794 1
+212 449 1
+212 257 1
+212 1442 1
+212 896 1
+212 1467 1
+213 1466 1
+213 1376 1
+213 702 1
+214 517 1
+214 746 1
+214 1271 1
+214 551 1
+214 1225 1
+214 1232 1
+214 423 1
+215 504 1
+215 660 1
+215 944 1
+215 1850 1
+215 1701 1
+216 1651 1
+216 1453 1
+216 917 1
+216 1510 1
+217 302 1
+217 766 1
+217 733 1
+217 1206 1
+218 1665 1
+218 1658 1
+218 488 1
+218 822 1
+218 743 1
+218 1693 1
+219 302 1
+219 1176 1
+220 550 1
+220 1136 1
+220 1314 1
+221 1556 1
+221 1279 1
+221 767 1
+221 1459 1
+221 1210 1
+222 337 2
+222 481 1
+222 1340 1
+222 302 1
+222 1348 1
+222 581 1
+222 1553 1
+222 500 1
+223 330 1
+223 302 1
+223 226 2
+223 235 1
+223 1183 1
+223 960 1
+223 1356 2
+224 245 1
+224 1347 1
+224 1559 1
+224 795 1
+224 730 1
+224 831 1
+224 555 1
+224 469 1
+224 752 1
+224 1693 1
+224 383 1
+224 1395 1
+224 389 1
+224 360 1
+224 1121 1
+224 1123 1
+224 1669 1
+224 1685 1
+224 734 4
+224 1553 1
+224 303 1
+225 1691 1
+225 1030 1
+225 1861 1
+226 1069 1
+226 1130 1
+226 544 1
+226 1140 1
+226 664 1
+226 1594 1
+226 1356 11
+226 957 1
+226 610 1
+226 439 1
+226 288 1
+226 1716 1
+226 386 1
+226 849 1
+226 678 2
+226 1273 2
+226 1723 1
+226 497 1
+226 697 4
+226 1841 1
+226 1607 1
+226 286 1
+226 1145 1
+226 705 1
+226 1730 1
+226 1807 1
+226 302 2
+226 1565 1
+226 1511 1
+226 1795 1
+226 1746 1
+226 472 2
+226 1765 1
+226 636 1
+226 637 1
+226 1771 1
+226 613 1
+226 1188 1
+226 1858 1
+226 1834 1
+226 1279 2
+226 1114 1
+226 997 1
+226 588 1
+226 1529 1
+226 594 1
+226 1581 1
+226 235 1
+226 489 1
+227 1825 1
+227 1337 1
+228 1742 1
+228 1693 1
+228 238 1
+229 1025 1
+229 540 1
+229 1369 1
+229 1049 1
+229 1315 1
+230 1529 1
+230 1714 1
+230 302 1
+230 819 1
+231 1238 1
+231 279 1
+231 1280 1
+231 649 1
+231 1618 1
+231 939 1
+232 337 1
+232 643 1
+232 619 1
+232 986 1
+232 1693 1
+233 383 1
+233 785 1
+233 1188 1
+233 923 1
+233 670 1
+234 337 1
+234 1387 1
+234 1642 1
+234 1311 1
+234 302 1
+235 1356 1
+236 302 1
+236 255 1
+236 739 1
+236 1703 1
+237 1536 1
+237 1346 1
+237 845 1
+238 1742 1
+238 1693 1
+239 1404 1
+239 287 1
+239 531 1
+239 1050 1
+239 821 1
+240 1831 1
+240 1659 1
+240 1693 1
+241 695 1
+241 1368 1
+241 1713 1
+242 337 1
+242 1355 1
+242 1582 1
+242 1090 1
+242 1467 1
+242 817 1
+242 1619 1
+242 959 1
+243 1816 1
+243 1220 1
+243 1696 1
+244 672 1
+244 908 1
+244 1693 1
+245 389 1
+245 734 1
+246 1205 1
+246 1491 1
+247 1842 1
+247 302 1
+247 697 1
+247 1394 1
+248 353 1
+248 363 1
+249 1259 1
+249 418 1
+249 1588 1
+250 1042 1
+250 1182 1
+250 1800 1
+250 488 1
+250 535 1
+250 1830 1
+250 492 1
+251 1631 1
+251 1728 1
+252 759 1
+252 1083 1
+252 1553 1
+252 1860 1
+253 1783 1
+253 1525 1
+253 1296 1
+253 302 1
+254 1651 1
+254 1605 1
+255 540 1
+255 614 1
+255 1806 1
+255 739 1
+255 1703 1
+255 1352 1
+255 1529 1
+255 302 1
+255 1188 1
+255 1273 1
+256 1391 1
+256 1255 1
+256 1307 1
+256 767 1
+256 1795 1
+257 449 1
+257 1442 1
+257 896 1
+257 1467 1
+258 1192 1
+258 486 1
+258 1851 1
+259 1528 1
+259 1120 1
+259 274 1
+259 1218 1
+259 1578 1
+259 1284 1
+260 1408 1
+260 868 1
+260 684 1
+261 1402 1
+261 312 1
+261 1676 1
+262 383 1
+262 575 1
+262 593 1
+262 910 1
+263 1365 1
+263 585 1
+263 1659 1
+264 877 2
+264 1342 1
+264 1434 2
+264 1553 1
+264 1338 1
+264 1693 1
+265 509 1
+265 501 1
+265 621 1
+265 1563 1
+265 391 1
+266 1778 1
+266 556 1
+266 1567 1
+266 453 1
+266 1693 1
+267 337 1
+267 1642 1
+267 818 1
+267 1083 1
+268 621 1
+268 1460 1
+269 1651 1
+269 1449 1
+269 1023 1
+270 569 1
+270 1385 1
+270 663 1
+271 543 1
+271 337 1
+271 420 1
+272 665 1
+272 1100 1
+272 384 1
+272 1848 1
+273 408 1
+273 664 1
+273 302 1
+274 1120 1
+274 1218 1
+275 1537 1
+275 1548 1
+275 1101 1
+275 1653 1
+276 976 1
+276 1329 1
+276 1084 1
+276 1430 1
+276 1818 1
+276 1157 1
+276 1645 1
+277 532 1
+277 1854 1
+277 1099 1
+277 1393 1
+277 618 1
+277 1761 1
+278 1504 1
+278 671 1
+278 643 1
+278 1786 1
+278 1673 1
+279 1238 1
+279 1280 1
+279 649 1
+279 1618 1
+279 939 1
+280 1579 1
+280 1602 1
+280 302 1
+280 1494 1
+280 1746 1
+281 365 1
+281 1095 1
+281 1278 1
+281 1332 1
+282 1749 1
+282 1100 1
+282 1595 1
+282 764 1
+283 664 1
+283 1270 1
+283 691 1
+283 1248 1
+284 1164 1
+284 590 1
+285 383 1
+285 1736 1
+285 1296 1
+285 557 1
+285 807 1
+286 1356 1
+286 1069 1
+286 386 1
+287 1404 1
+287 531 1
+287 1050 1
+287 821 1
+288 1356 1
+288 1834 1
+288 544 1
+289 375 1
+289 1334 1
+289 1189 1
+289 1848 2
+290 337 1
+290 1566 1
+290 402 1
+290 1847 1
+291 893 1
+291 1403 1
+292 517 1
+292 660 1
+292 1125 1
+293 337 1
+293 302 1
+293 1634 1
+294 337 1
+294 445 1
+294 1693 1
+294 573 1
+295 758 1
+295 1608 1
+295 559 1
+295 1131 1
+296 825 1
+296 679 1
+296 1620 1
+297 984 1
+297 1045 1
+297 1417 1
+297 915 1
+298 1149 1
+298 502 1
+298 767 1
+299 1104 1
+299 1651 1
+299 1617 1
+299 1719 1
+299 1239 1
+300 1529 1
+300 734 1
+300 514 1
+301 1573 1
+301 1754 1
+301 463 1
+301 357 1
+301 749 1
+301 1344 1
+302 364 1
+302 481 6
+302 1724 1
+302 1418 1
+302 485 1
+302 951 1
+302 952 1
+302 953 1
+302 1456 1
+302 1408 1
+302 529 1
+302 1410 1
+302 489 1
+302 1650 1
+302 1651 5
+302 960 1
+302 1591 1
+302 1653 1
+302 1655 1
+302 1336 1
+302 1501 1
+302 728 1
+302 1662 1
+302 497 1
+302 1664 1
+302 731 1
+302 1665 1
+302 1494 1
+302 969 1
+302 1209 1
+302 733 1
+302 974 1
+302 1434 1
+302 522 1
+302 1541 1
+302 739 1
+302 1403 1
+302 1441 1
+302 1845 1
+302 1253 1
+302 1204 1
+302 632 1
+302 518 1
+302 1183 1
+302 747 1
+302 1188 1
+302 1684 1
+302 990 1
+302 749 1
+302 1453 3
+302 993 1
+302 947 1
+302 1677 1
+302 1206 1
+302 1691 1
+302 306 1
+302 756 1
+302 1693 6
+302 408 1
+302 1463 1
+302 1464 1
+302 1832 1
+302 763 1
+302 766 1
+302 521 1
+302 538 1
+302 956 1
+302 1703 1
+302 575 2
+302 1783 1
+302 785 1
+302 544 1
+302 851 1
+302 776 1
+302 1482 1
+302 1792 1
+302 1484 1
+302 1016 1
+302 1239 4
+302 783 1
+302 1406 1
+302 320 1
+302 1714 1
+302 1461 1
+302 323 1
+302 1337 1
+302 561 1
+302 562 1
+302 328 1
+302 1500 1
+302 330 1
+302 564 1
+302 566 1
+302 1117 1
+302 1730 1
+302 799 1
+302 1451 1
+302 571 1
+302 1465 2
+302 337 18
+302 1010 1
+302 1509 1
+302 1740 1
+302 630 1
+302 1867 1
+302 452 1
+302 1264 1
+302 1593 1
+302 1746 5
+302 1514 1
+302 1680 1
+302 1272 2
+302 819 1
+302 1047 1
+302 1147 1
+302 1166 1
+302 1755 2
+302 1279 1
+302 1052 1
+302 356 2
+302 1525 1
+302 586 1
+302 588 2
+302 767 1
+302 591 1
+302 359 1
+302 682 1
+302 1005 1
+302 1286 1
+302 597 1
+302 1290 1
+302 1763 1
+302 1764 1
+302 1066 1
+302 1176 1
+302 838 1
+302 1292 1
+302 369 1
+302 1559 1
+302 1678 1
+302 992 1
+302 606 1
+302 1296 2
+302 843 1
+302 1547 1
+302 1726 3
+302 773 1
+302 1080 1
+302 383 5
+302 846 1
+302 847 1
+302 820 1
+302 849 1
+302 850 1
+302 1085 1
+302 617 1
+302 697 4
+302 390 1
+302 1311 1
+302 856 1
+302 1312 2
+302 1275 1
+302 1090 1
+302 1707 1
+302 1560 1
+302 858 2
+302 1094 1
+302 1506 1
+302 1315 4
+302 1401 1
+302 495 1
+302 1840 1
+302 1795 6
+302 862 1
+302 635 1
+302 1361 1
+302 488 2
+302 935 1
+302 664 5
+302 1110 1
+302 1808 1
+302 456 1
+302 415 1
+302 823 1
+302 1579 1
+302 419 1
+302 1516 1
+302 653 1
+302 399 1
+302 887 1
+302 888 1
+302 1589 1
+302 1170 1
+302 1602 1
+302 1794 1
+302 1634 1
+302 432 1
+302 978 1
+302 1356 2
+302 1825 1
+302 1588 1
+302 1240 1
+302 1357 1
+302 1599 1
+302 1358 2
+302 1138 1
+302 1172 2
+302 1529 7
+302 669 1
+302 673 1
+302 1607 1
+302 1676 1
+302 681 1
+302 594 1
+302 1374 1
+302 1598 1
+302 1848 2
+302 1849 1
+302 1842 1
+302 1642 3
+302 1155 1
+302 431 1
+302 1829 1
+302 796 1
+302 690 1
+302 1157 1
+302 1737 1
+302 923 2
+302 1324 1
+302 462 1
+302 926 1
+302 830 1
+302 1384 1
+302 1360 1
+302 1622 4
+302 1624 1
+302 1859 1
+302 1860 3
+302 1648 1
+302 1387 1
+302 703 1
+302 1863 1
+302 1810 1
+302 1862 1
+302 1394 3
+302 1173 1
+302 1143 1
+302 1872 1
+302 1635 1
+302 1874 1
+302 709 1
+302 1641 1
+302 1850 1
+302 1553 2
+302 1643 1
+303 1347 1
+303 469 1
+303 1121 1
+303 1669 1
+304 1119 1
+304 1377 1
+304 896 1
+304 1054 1
+304 380 1
+304 1351 1
+305 337 1
+305 716 1
+305 350 1
+305 829 1
+306 1529 1
+306 594 1
+306 773 1
+307 1089 1
+307 436 1
+307 826 1
+307 428 1
+308 567 1
+308 856 1
+308 931 1
+309 1790 1
+309 1795 1
+309 1860 1
+309 923 1
+310 1022 1
+310 1726 1
+311 337 1
+311 592 1
+311 1049 1
+311 1216 1
+311 1636 1
+311 1651 1
+312 1402 1
+312 1676 1
+313 458 1
+313 664 1
+313 1508 1
+314 337 1
+314 1721 1
+314 1352 1
+314 1003 1
+314 1469 1
+315 1693 1
+315 1445 1
+315 875 1
+316 1833 1
+316 1306 1
+316 1795 1
+316 1216 1
+317 1298 1
+317 564 1
+317 1118 1
+317 1848 1
+318 982 1
+318 1194 1
+318 928 1
+318 1606 1
+319 1330 1
+319 927 1
+319 1331 1
+320 776 1
+320 1755 1
+321 1200 1
+321 583 1
+321 1448 1
+322 1757 1
+322 1848 1
+322 558 1
+322 1097 1
+323 518 1
+323 1275 1
+323 1730 1
+324 1321 1
+324 1343 1
+325 1376 1
+325 327 1
+325 1647 1
+326 1827 1
+326 1312 1
+326 888 1
+327 1376 1
+327 1647 1
+328 978 1
+328 1583 1
+328 415 1
+328 1693 1
+329 337 1
+329 1178 1
+329 1072 1
+330 1183 1
+330 960 1
+331 1239 1
+331 1520 1
+332 1499 1
+332 1096 1
+332 918 1
+333 361 1
+333 1596 1
+334 541 1
+334 595 1
+334 1693 1
+335 536 1
+335 796 1
+335 1632 1
+335 1073 1
+336 769 1
+336 350 1
+336 1743 1
+336 864 1
+337 481 4
+337 1838 1
+337 644 1
+337 1178 1
+337 1409 1
+337 529 1
+337 1651 8
+337 1682 1
+337 1639 1
+337 1415 1
+337 520 1
+337 1419 1
+337 678 2
+337 496 1
+337 512 2
+337 1665 1
+337 500 1
+337 1667 1
+337 507 1
+337 975 1
+337 959 1
+337 1200 2
+337 736 1
+337 1439 1
+337 741 1
+337 986 1
+337 746 1
+337 1449 1
+337 989 1
+337 1453 3
+337 1677 1
+337 1216 1
+337 1649 1
+337 528 1
+337 530 1
+337 1693 10
+337 758 1
+337 1694 3
+337 1465 1
+337 1261 1
+337 874 1
+337 1467 1
+337 1226 1
+337 1003 1
+337 767 1
+337 1469 1
+337 841 1
+337 818 1
+337 1795 1
+337 543 1
+337 1705 1
+337 876 1
+337 1143 1
+337 1792 1
+337 550 1
+337 1486 3
+337 1717 1
+337 1431 1
+337 577 1
+337 1495 1
+337 1721 1
+337 792 1
+337 561 2
+337 1725 1
+337 716 1
+337 566 2
+337 1731 1
+337 799 1
+337 1451 1
+337 572 1
+337 573 1
+337 540 1
+337 542 1
+337 1509 1
+337 1038 1
+337 1655 1
+337 579 1
+337 1746 1
+337 1265 1
+337 349 1
+337 1267 1
+337 1748 1
+337 350 1
+337 817 2
+337 581 1
+337 1272 1
+337 1273 1
+337 1752 1
+337 1049 1
+337 510 1
+337 850 1
+337 829 1
+337 1161 1
+337 1619 1
+337 1599 2
+337 591 1
+337 592 1
+337 1058 1
+337 1059 1
+337 834 1
+337 1305 1
+337 1065 1
+337 1066 1
+337 1228 1
+337 388 1
+337 1072 2
+337 979 1
+337 1074 1
+337 1689 1
+337 1544 1
+337 843 1
+337 441 1
+337 619 1
+337 1726 1
+337 382 1
+337 1083 1
+337 1281 1
+337 851 4
+337 1553 8
+337 1307 1
+337 1309 1
+337 1859 1
+337 383 3
+337 1311 1
+337 1556 1
+337 1090 1
+337 786 1
+337 857 1
+337 1313 1
+337 1695 1
+337 1506 2
+337 1352 1
+337 1355 1
+337 402 1
+337 1793 1
+337 1318 1
+337 1480 1
+337 1324 1
+337 938 1
+337 1798 1
+337 488 3
+337 643 1
+337 1208 1
+337 1575 1
+337 1576 1
+337 1630 1
+337 1337 1
+337 1340 1
+337 420 1
+337 1804 1
+337 422 1
+337 1348 1
+337 454 1
+337 1634 1
+337 664 2
+337 1822 2
+337 1354 1
+337 1316 1
+337 1582 1
+337 1825 3
+337 1224 1
+337 1240 1
+337 1357 1
+337 669 1
+337 1358 2
+337 1529 4
+337 1683 1
+337 445 1
+337 676 1
+337 446 1
+337 906 1
+337 1607 1
+337 1370 1
+337 1844 1
+337 909 1
+337 681 1
+337 683 1
+337 451 1
+337 1151 1
+337 1847 1
+337 477 1
+337 1617 1
+337 1642 2
+337 1566 1
+337 1378 1
+337 1618 1
+337 924 1
+337 1159 2
+337 732 1
+337 464 1
+337 1810 1
+337 1622 2
+337 697 3
+337 1860 2
+337 1165 1
+337 1387 1
+337 936 1
+337 1394 1
+337 1635 1
+337 707 1
+337 943 1
+337 434 2
+337 1173 1
+338 1376 1
+338 1214 1
+338 836 1
+339 516 1
+339 1825 1
+339 1279 1
+339 1795 1
+339 572 1
+339 1693 1
+340 919 1
+340 1474 1
+340 1693 1
+341 1848 1
+341 1001 1
+341 1218 1
+342 554 1
+342 830 1
+342 396 1
+342 796 1
+342 1848 1
+343 664 1
+343 653 1
+343 1733 1
+343 1094 1
+343 961 1
+344 972 1
+344 718 1
+344 1294 1
+344 371 1
+345 350 2
+345 724 2
+345 914 1
+345 1389 1
+345 1399 1
+346 1315 1
+346 481 1
+346 1738 1
+346 457 1
+346 1432 1
+346 623 1
+346 1187 1
+346 1663 1
+346 582 1
+347 1680 1
+347 1295 1
+347 1497 1
+347 1745 1
+347 1535 1
+348 664 1
+348 1694 1
+349 678 1
+349 664 1
+349 1059 1
+349 1239 1
+349 683 1
+349 1553 1
+350 724 2
+350 1389 1
+350 1743 1
+350 914 1
+350 829 1
+350 864 1
+350 1825 1
+350 1399 1
+350 716 1
+350 1640 1
+350 769 1
+350 734 1
+350 1004 1
+351 1143 1
+351 1015 1
+351 1839 1
+352 1552 1
+353 363 1
+354 1749 1
+354 753 1
+354 1595 1
+354 381 1
+355 1866 1
+355 1134 1
+355 991 1
+355 1835 1
+356 1849 1
+356 1272 1
+356 888 1
+356 1424 1
+356 473 1
+356 783 1
+356 1588 1
+356 1299 1
+357 1573 1
+357 557 1
+357 1754 1
+357 463 1
+357 517 1
+357 1344 1
+357 1185 1
+357 749 1
+357 1815 1
+358 664 1
+358 1797 1
+358 983 1
+358 850 1
+358 1627 1
+358 1782 1
+359 664 1
+359 1465 1
+360 481 1
+360 754 1
+360 752 1
+360 911 1
+360 1746 1
+360 383 1
+360 434 1
+360 1559 1
+360 1123 1
+360 795 1
+360 734 1
+360 1553 1
+361 1596 1
+362 488 1
+362 1622 1
+362 1410 1
+364 1662 1
+365 1278 1
+365 1095 1
+365 1332 1
+366 1113 1
+366 1457 1
+366 1337 1
+366 757 1
+366 1320 1
+367 1855 1
+367 1657 1
+367 1848 1
+368 517 1
+368 1180 1
+369 664 1
+369 1090 1
+370 1677 1
+370 1086 1
+370 923 1
+370 1553 1
+371 972 1
+371 718 1
+371 1294 1
+372 1000 1
+372 1443 1
+373 1373 1
+373 1430 1
+373 1033 1
+374 1444 1
+374 626 1
+374 814 1
+374 1795 1
+375 1848 1
+375 1334 1
+376 835 1
+376 1179 1
+376 572 1
+376 1551 1
+377 830 1
+377 1601 1
+378 1171 1
+378 1427 1
+379 1062 1
+380 1119 1
+380 1377 1
+380 896 1
+380 1054 1
+380 1351 1
+381 1749 1
+381 753 1
+381 1595 1
+382 1651 1
+382 1683 1
+383 481 1
+383 1529 1
+383 602 1
+383 1559 1
+383 1705 2
+383 1293 1
+383 1029 1
+383 1792 1
+383 1433 1
+383 1239 2
+383 1018 1
+383 1726 4
+383 670 1
+383 785 1
+383 1415 1
+383 901 1
+383 1607 1
+383 899 1
+383 1539 1
+383 1725 1
+383 795 1
+383 447 1
+383 1196 1
+383 910 1
+383 911 1
+383 861 1
+383 760 1
+383 734 3
+383 1411 1
+383 542 1
+383 1736 1
+383 1439 1
+383 575 1
+383 1787 1
+383 459 1
+383 923 2
+383 634 1
+383 593 1
+383 1188 2
+383 1860 2
+383 653 1
+383 664 1
+383 1651 1
+383 752 1
+383 850 1
+383 414 1
+383 1394 2
+383 1693 1
+383 591 1
+383 433 1
+383 478 1
+383 1123 1
+383 434 1
+383 1468 1
+383 710 1
+383 1553 4
+383 1172 1
+384 665 1
+384 1100 1
+384 1848 1
+385 1289 1
+385 930 1
+385 698 1
+385 1056 1
+386 1356 1
+386 1069 1
+387 1482 1
+387 481 1
+387 1732 1
+388 664 1
+388 1798 1
+388 1694 1
+388 1378 1
+388 520 1
+388 975 1
+389 734 1
+390 1461 1
+390 1143 1
+391 1563 1
+391 501 1
+391 800 1
+391 621 1
+391 509 1
+391 878 1
+392 1217 1
+392 503 1
+392 1549 1
+392 1693 1
+392 1383 1
+392 1256 1
+393 612 1
+393 1674 1
+393 1414 1
+394 1139 1
+394 1019 1
+395 1181 1
+395 674 1
+396 1554 1
+396 1297 1
+396 796 1
+396 890 1
+396 397 1
+396 1185 1
+396 1577 1
+396 1848 1
+397 890 1
+397 1577 1
+397 1185 1
+398 1142 1
+398 1323 1
+398 1175 1
+399 1047 1
+399 820 1
+399 1360 1
+400 1492 1
+400 460 1
+400 1205 1
+400 996 1
+400 1848 2
+400 1319 1
+401 1390 1
+401 1848 1
+401 1382 1
+401 1136 1
+401 1282 1
+402 1566 1
+402 1847 1
+403 664 1
+403 700 1
+403 853 1
+403 988 1
+403 1856 1
+403 467 1
+403 1470 1
+404 805 1
+404 1156 1
+404 1756 1
+405 1749 1
+405 778 1
+405 550 1
+405 1009 1
+405 1770 1
+406 1848 1
+406 1788 1
+406 633 1
+407 1021 1
+407 885 1
+407 955 1
+408 664 1
+409 774 1
+409 1726 1
+409 419 1
+410 1239 1
+410 1651 1
+410 828 1
+410 1709 1
+411 1675 1
+411 886 1
+411 1553 1
+411 1090 1
+412 681 1
+412 653 1
+413 1518 1
+413 1105 1
+413 710 1
+413 786 1
+413 1293 1
+414 664 1
+414 434 1
+414 899 1
+415 978 1
+416 1871 1
+416 1322 1
+416 1779 1
+416 530 1
+416 1075 1
+417 1287 1
+417 881 1
+417 1260 1
+417 1705 1
+417 1767 1
+418 1259 1
+418 1588 1
+419 774 1
+419 856 1
+419 1726 1
+420 543 1
+421 442 1
+421 1850 1
+421 837 1
+421 1150 1
+421 1201 1
+421 923 1
+421 664 1
+421 1558 1
+421 1668 1
+421 629 1
+421 1108 1
+421 727 1
+421 872 1
+422 1822 1
+422 1159 1
+422 1748 1
+422 512 1
+423 1225 1
+423 1232 1
+423 551 1
+424 859 1
+424 1027 1
+424 482 1
+425 1769 1
+425 1437 1
+425 925 1
+425 1353 1
+425 1152 1
+426 1693 1
+426 1867 1
+426 824 1
+426 1564 1
+427 821 1
+427 1044 1
+428 1089 1
+428 436 1
+428 826 1
+429 714 1
+430 968 1
+430 1412 1
+430 1825 1
+430 1693 1
+431 462 1
+431 731 1
+431 1863 1
+432 1795 1
+433 478 1
+433 901 1
+434 481 4
+434 1213 1
+434 1008 1
+434 1143 1
+434 754 2
+434 911 1
+434 1746 2
+434 664 1
+434 834 1
+434 1272 1
+434 899 1
+434 540 1
+435 852 1
+435 1813 1
+436 1089 1
+436 826 1
+437 912 1
+437 711 1
+437 1848 1
+438 665 1
+438 456 2
+438 1455 1
+438 483 1
+438 557 1
+438 663 1
+438 1836 1
+438 1458 1
+438 805 1
+438 545 2
+438 1848 2
+439 1607 1
+439 613 1
+439 1795 1
+440 759 1
+440 557 1
+440 456 1
+440 791 1
+440 1128 1
+440 1848 1
+441 1305 1
+441 1226 1
+441 451 1
+442 629 1
+442 1558 1
+442 1150 1
+442 727 1
+442 923 1
+443 1803 1
+444 1307 1
+444 1396 1
+444 1255 1
+444 1391 1
+444 1279 1
+445 1693 1
+445 573 1
+446 1731 1
+446 1318 1
+446 496 1
+446 1693 1
+447 851 1
+447 1705 1
+447 1746 1
+447 797 1
+447 1517 1
+447 1253 1
+447 1828 1
+447 1726 1
+448 1727 1
+448 576 1
+448 622 1
+448 826 1
+448 1441 1
+448 1763 1
+448 1215 1
+449 1467 1
+449 1442 1
+449 896 1
+450 1458 1
+450 1421 1
+450 1274 1
+451 1305 1
+451 1226 1
+452 1653 1
+453 1778 1
+453 556 1
+453 1567 1
+453 1693 1
+454 1431 1
+455 488 1
+455 1719 1
+455 1739 1
+455 1825 1
+456 1128 1
+456 1768 1
+456 1264 1
+456 545 2
+456 665 1
+456 718 1
+456 1078 1
+456 1487 1
+456 1364 1
+456 557 1
+456 1523 1
+456 1864 1
+456 1496 1
+456 827 1
+456 588 1
+456 759 1
+456 803 1
+456 791 1
+456 1848 5
+457 1738 1
+457 1663 1
+458 664 1
+458 1508 1
+459 1018 1
+459 481 1
+459 1860 1
+460 1319 1
+460 1205 1
+460 1848 1
+461 1766 1
+461 1315 1
+461 1521 1
+462 731 1
+462 1863 1
+463 1573 1
+463 1754 1
+463 749 1
+463 1344 1
+464 1544 1
+464 1272 1
+465 813 1
+465 950 1
+465 708 1
+466 1398 1
+466 660 1
+466 1221 1
+467 853 1
+467 1856 1
+468 1026 1
+468 589 1
+469 1669 1
+469 1121 1
+469 1347 1
+470 488 1
+470 1812 1
+470 770 1
+471 1651 1
+471 747 1
+471 1279 1
+471 767 1
+471 866 1
+472 1565 1
+472 1130 1
+472 849 1
+472 1279 1
+472 1140 1
+472 1841 1
+472 1356 1
+472 705 1
+472 637 1
+472 1771 1
+472 1145 1
+472 1858 1
+473 1299 1
+473 1424 1
+474 1622 1
+474 488 1
+474 689 1
+474 1693 1
+475 715 1
+475 1320 1
+475 1243 1
+476 1234 1
+476 1257 1
+476 1416 1
+476 675 1
+476 1288 1
+476 647 1
+476 1614 1
+477 530 1
+478 901 1
+479 833 1
+479 1169 1
+479 588 1
+479 1808 1
+480 863 1
+480 1699 1
+480 657 1
+480 1753 1
+481 1200 1
+481 540 1
+481 664 1
+481 1482 1
+481 1650 1
+481 1018 1
+481 722 1
+481 1358 2
+481 1187 1
+481 847 1
+481 1495 1
+481 1604 1
+481 676 1
+481 678 1
+481 1312 1
+481 911 1
+481 1560 1
+481 1143 1
+481 761 1
+481 1676 2
+481 1795 3
+481 582 1
+481 1746 4
+481 1514 1
+481 1043 1
+481 971 1
+481 488 1
+481 1188 1
+481 697 1
+481 1860 1
+481 1453 1
+481 1732 1
+481 754 2
+481 1694 1
+481 834 1
+481 728 1
+481 1825 1
+482 1310 1
+482 859 1
+482 1258 1
+482 1296 1
+482 550 1
+482 499 1
+482 1349 1
+482 1027 1
+482 1229 1
+483 1458 1
+483 1455 1
+483 557 1
+483 805 1
+483 1836 1
+483 663 1
+484 664 1
+484 1651 1
+484 974 1
+486 1192 1
+486 1851 1
+487 524 1
+487 704 1
+487 1697 1
+487 1553 1
+487 885 1
+488 1066 1
+488 1506 2
+488 490 1
+488 770 1
+488 664 1
+488 689 1
+488 1410 1
+488 1825 1
+488 1651 2
+488 722 1
+488 1830 1
+488 492 1
+488 1719 1
+488 1604 1
+488 851 1
+488 1553 1
+488 1249 1
+488 678 1
+488 1665 1
+488 566 1
+488 799 1
+488 761 1
+488 1739 1
+488 1098 1
+488 743 1
+488 1746 1
+488 1043 1
+488 745 1
+488 1812 1
+488 1622 2
+488 1452 1
+488 1658 1
+488 822 1
+488 1693 2
+488 1465 1
+488 534 1
+488 535 1
+488 1700 1
+489 1356 1
+489 588 1
+490 1700 1
+490 534 1
+491 712 1
+491 904 1
+492 1830 1
+492 535 1
+493 1773 1
+493 1853 1
+493 1656 1
+493 1048 1
+494 1305 1
+494 1082 1
+494 1351 1
+494 1137 1
+495 785 1
+495 838 1
+495 1651 1
+495 1453 1
+495 1746 1
+496 1731 1
+496 1318 1
+496 1693 1
+497 1529 1
+497 1356 1
+498 958 1
+498 851 1
+498 717 1
+499 1310 1
+499 1258 1
+499 1296 1
+500 1553 1
+500 1348 1
+501 509 1
+501 665 1
+501 517 1
+501 1296 1
+501 1657 1
+501 621 1
+501 1563 1
+502 1149 1
+502 767 1
+503 1383 1
+503 1217 1
+503 1549 1
+503 1693 1
+503 1256 1
+504 1626 1
+504 1212 1
+504 1850 1
+504 884 1
+504 944 1
+504 660 1
+504 1382 1
+504 1701 1
+505 599 1
+505 1380 1
+505 1031 1
+506 787 2
+506 696 1
+506 1628 1
+506 966 2
+506 954 2
+507 1315 1
+507 1454 1
+507 579 1
+507 1543 1
+507 924 1
+507 1693 1
+508 1061 1
+509 621 1
+509 1563 1
+510 1337 1
+510 1693 1
+511 1777 1
+511 1037 1
+511 1063 1
+511 1672 1
+511 1244 1
+512 1822 1
+512 851 1
+512 1682 1
+512 1748 1
+512 1159 2
+513 540 1
+513 1188 1
+513 1825 1
+513 1764 1
+514 1529 1
+514 734 1
+515 664 1
+515 1063 1
+515 1553 1
+516 1825 1
+516 1693 1
+517 599 1
+517 1197 1
+517 1483 1
+517 980 1
+517 660 1
+517 1180 1
+517 1657 1
+517 1271 1
+517 1185 1
+517 1715 1
+517 1526 1
+517 557 1
+517 746 1
+517 665 1
+517 1836 1
+517 1296 1
+517 1815 1
+517 1125 1
+518 748 1
+518 1049 1
+518 1481 1
+518 1679 1
+518 1730 2
+518 1693 1
+518 1670 1
+518 867 1
+518 1275 1
+519 1006 1
+519 553 1
+519 1588 1
+519 1528 1
+520 1798 1
+520 975 1
+521 664 1
+521 1286 1
+521 682 1
+521 756 1
+521 1693 1
+522 1170 1
+522 1872 1
+523 664 1
+523 963 1
+524 704 1
+524 885 1
+525 1724 1
+525 639 1
+525 1076 1
+525 1231 1
+526 664 1
+526 905 1
+526 1040 1
+526 1558 1
+526 970 1
+526 546 1
+526 871 1
+526 1584 1
+526 864 1
+526 1503 1
+527 1279 1
+528 577 1
+528 1793 1
+529 851 1
+529 1622 1
+530 1075 1
+530 1322 1
+530 1871 1
+530 1124 1
+530 1779 1
+530 1498 1
+530 1693 1
+531 1404 1
+531 1050 1
+531 821 1
+532 1854 1
+532 1099 1
+532 1393 1
+532 618 1
+532 1761 1
+533 1485 1
+533 1112 1
+533 1764 1
+534 1700 1
+535 1830 1
+536 796 1
+536 1632 1
+536 1073 1
+537 1848 1
+537 1221 1
+538 1010 1
+538 566 1
+538 1168 1
+538 1755 1
+538 1106 1
+538 1693 1
+539 1547 1
+540 1315 1
+540 861 1
+540 1296 1
+540 1825 1
+540 1188 2
+540 1273 1
+540 1726 1
+540 1493 1
+540 1049 1
+540 1143 1
+540 1025 1
+540 1529 1
+540 1369 1
+540 834 1
+540 1061 1
+540 1764 1
+541 595 1
+541 1693 1
+542 1228 1
+542 786 1
+542 861 1
+542 1705 1
+542 1725 1
+542 1599 1
+542 732 1
+542 1161 1
+542 1651 1
+542 1188 1
+542 1860 1
+544 947 1
+544 1356 1
+544 1834 1
+544 1403 1
+545 665 1
+545 1848 2
+546 664 1
+546 905 1
+546 1558 1
+546 1584 1
+546 871 1
+546 864 1
+546 1503 1
+547 1791 1
+547 955 1
+548 857 1
+548 620 1
+548 1751 1
+548 550 1
+549 1385 1
+549 1182 1
+550 1291 1
+550 1229 1
+550 1009 1
+550 1794 1
+550 1705 1
+550 1072 1
+550 1136 2
+550 1770 1
+550 1593 1
+550 778 1
+550 1749 1
+550 1413 1
+550 1751 1
+550 848 1
+550 646 1
+550 1307 1
+550 1349 1
+550 620 1
+550 1559 1
+550 857 2
+550 1633 1
+550 1314 1
+550 1638 1
+551 1225 1
+551 1232 1
+552 744 1
+552 1039 1
+552 1201 1
+552 1557 1
+553 1006 1
+553 1588 1
+553 1528 1
+554 830 1
+555 734 1
+555 1685 1
+556 1778 1
+556 1651 1
+556 1567 1
+556 729 1
+556 1693 2
+557 1128 1
+557 805 1
+557 807 1
+557 663 1
+557 665 1
+557 1296 1
+557 759 1
+557 1185 1
+557 701 1
+557 1455 1
+557 1754 1
+557 1836 1
+557 1301 1
+557 1458 1
+557 1462 1
+557 628 1
+557 791 1
+557 1848 1
+557 1815 1
+558 1757 1
+558 1848 1
+558 1097 1
+559 758 1
+559 1608 1
+559 1131 1
+560 763 1
+560 1053 1
+560 1746 1
+560 961 1
+560 1279 1
+561 1070 1
+561 1300 1
+561 1695 1
+561 1340 1
+561 1694 1
+561 1760 1
+561 644 1
+561 1693 1
+561 1173 1
+561 1726 1
+562 830 1
+562 969 1
+562 923 1
+563 706 1
+563 856 1
+563 811 1
+564 1118 1
+564 1740 1
+564 1298 1
+564 1157 1
+564 1848 2
+565 981 1
+565 716 1
+565 1366 1
+565 1693 1
+566 1506 1
+566 1655 1
+566 1010 1
+566 1168 1
+566 1324 1
+566 1106 1
+566 1651 1
+566 669 1
+566 1693 1
+567 856 1
+567 931 1
+568 1693 1
+568 1762 1
+569 1385 2
+569 1438 1
+569 1185 1
+569 663 1
+569 1848 1
+570 1529 1
+570 1726 1
+570 1394 1
+571 1463 1
+571 923 1
+571 1795 1
+571 1337 1
+572 1846 1
+572 1262 1
+572 835 1
+572 1179 1
+572 1795 1
+572 1279 1
+572 1556 1
+572 1224 1
+572 1875 1
+572 1551 1
+573 1693 1
+574 913 1
+574 1471 1
+574 1016 1
+575 1622 1
+575 614 1
+575 1808 1
+575 948 1
+575 1441 1
+575 593 1
+575 910 1
+575 1610 1
+575 1315 1
+576 826 1
+576 1763 1
+577 1793 1
+578 726 1
+578 1242 1
+578 1860 1
+578 1476 1
+579 924 1
+580 1686 1
+580 1335 1
+580 642 1
+581 1340 1
+582 1187 1
+583 1200 1
+583 1448 1
+584 1805 1
+584 999 1
+584 1693 1
+585 1365 1
+585 1659 1
+586 1599 1
+586 1764 1
+587 1363 1
+587 611 1
+587 1420 1
+588 1356 1
+588 1808 1
+588 1169 1
+588 833 1
+588 1264 1
+589 1026 1
+590 1164 1
+591 1607 1
+591 1553 1
+592 1216 1
+593 910 1
+594 1529 1
+594 697 1
+594 773 1
+595 1693 1
+596 734 1
+596 1135 1
+596 1795 1
+596 831 1
+598 1796 1
+598 1816 1
+598 1657 1
+598 1795 1
+598 790 1
+599 1031 1
+599 980 1
+599 1380 1
+599 1526 1
+600 687 1
+600 1571 1
+600 1279 1
+600 1435 1
+600 767 1
+600 1505 1
+600 998 1
+601 731 1
+601 1726 1
+602 1539 1
+602 1411 1
+602 1029 1
+603 912 1
+603 1344 1
+603 1233 1
+603 1102 1
+604 1103 1
+604 1236 1
+604 815 1
+605 857 1
+605 666 1
+605 641 1
+605 1091 1
+606 846 1
+606 1166 1
+606 1016 1
+606 1406 1
+607 1296 1
+607 929 1
+608 755 1
+608 809 1
+608 663 1
+608 1848 1
+609 916 1
+609 723 1
+609 1223 1
+610 1114 1
+610 678 1
+610 1356 1
+611 1363 1
+611 1420 1
+612 1674 1
+612 1414 1
+613 1607 1
+613 1554 1
+613 1795 1
+613 1693 1
+614 1806 1
+614 948 1
+614 1610 1
+614 1352 1
+615 1388 1
+615 1718 1
+615 857 1
+615 694 1
+615 1693 1
+616 777 1
+616 946 1
+616 1237 1
+617 1315 1
+618 1308 1
+618 768 1
+618 1659 1
+618 781 1
+618 1393 1
+618 1761 1
+618 1099 1
+618 1854 1
+619 643 1
+619 986 1
+619 1693 1
+620 857 1
+620 1751 1
+621 1563 1
+621 1460 1
+622 1727 1
+622 1441 1
+622 1215 1
+623 1315 1
+623 1432 1
+624 1651 1
+624 627 1
+624 1279 1
+625 976 1
+625 825 1
+625 1848 1
+626 1444 1
+626 814 1
+626 1795 1
+627 1279 1
+627 1651 1
+628 1301 1
+628 665 1
+628 1462 1
+628 1754 1
+628 701 1
+629 1558 1
+629 1150 1
+629 727 1
+629 923 1
+630 1296 1
+630 823 1
+630 1867 1
+630 1862 1
+631 799 1
+631 1016 1
+631 913 1
+632 1147 1
+632 1724 1
+633 1788 1
+633 1848 1
+634 1468 1
+634 734 1
+635 1010 1
+635 1484 1
+635 1279 1
+636 678 1
+636 697 1
+636 1765 1
+637 1841 1
+637 849 1
+637 1130 1
+637 1565 1
+637 1858 1
+638 860 1
+638 1007 1
+638 1825 1
+638 1239 1
+638 1302 1
+638 1726 1
+638 1744 1
+639 1231 1
+639 1076 1
+639 1724 1
+640 1585 1
+640 1141 1
+640 789 1
+640 1279 1
+641 857 1
+641 666 1
+641 1091 1
+642 1686 1
+642 1335 1
+643 671 1
+643 986 1
+643 1786 1
+643 1504 1
+643 1693 1
+643 1673 1
+644 1694 1
+644 1695 1
+645 1519 1
+645 1263 1
+645 1362 1
+646 1413 1
+646 1638 1
+646 1136 1
+647 1234 1
+647 1257 1
+647 1416 1
+647 1288 1
+647 675 1
+647 1614 1
+648 796 1
+648 856 1
+648 1235 1
+648 801 1
+649 664 1
+649 1618 1
+649 1595 1
+649 939 1
+649 1529 1
+649 1749 1
+649 1280 1
+649 1238 1
+649 1726 1
+650 891 1
+650 668 1
+650 1304 1
+650 740 1
+651 1088 1
+651 1162 1
+651 1609 1
+652 1421 1
+652 1211 1
+652 1788 1
+652 1174 1
+653 1315 1
+653 961 1
+653 664 1
+653 1361 1
+653 760 1
+653 681 1
+653 1733 1
+653 1094 1
+654 1472 1
+654 1693 1
+654 1799 1
+654 1600 1
+655 664 1
+655 923 1
+655 721 1
+656 1796 1
+656 1529 1
+656 1441 1
+656 1762 1
+656 840 1
+657 863 1
+657 1699 1
+657 1753 1
+658 742 1
+658 994 1
+658 762 1
+659 1843 1
+659 1177 1
+659 1625 1
+659 1337 1
+660 1850 1
+660 1221 1
+660 1398 1
+660 1701 1
+660 944 1
+660 1713 1
+660 1125 1
+661 912 1
+661 1824 1
+661 1811 1
+662 1440 1
+662 1693 1
+663 1455 1
+663 1458 1
+663 1836 1
+663 809 1
+663 755 1
+663 805 1
+663 1385 1
+663 1848 1
+664 1405 1
+664 1542 1
+664 963 1
+664 1692 1
+664 905 1
+664 1782 1
+664 1650 1
+664 1651 1
+664 722 1
+664 1503 1
+664 1778 1
+664 725 1
+664 850 1
+664 1064 1
+664 1309 1
+664 1558 1
+664 1090 1
+664 1478 1
+664 974 1
+664 1094 1
+664 1795 1
+664 864 1
+664 1797 1
+664 1446 1
+664 988 1
+664 871 1
+664 872 1
+664 750 2
+664 983 1
+664 756 1
+664 1694 2
+664 761 1
+664 1011 1
+664 1486 1
+664 721 1
+664 1356 1
+664 780 1
+664 1710 1
+664 782 1
+664 1850 1
+664 1693 2
+664 899 1
+664 900 1
+664 1079 1
+664 1604 1
+664 1248 1
+664 961 1
+664 678 2
+664 683 1
+664 1733 1
+664 1465 1
+664 1230 1
+664 1508 1
+664 1034 1
+664 1378 1
+664 691 1
+664 923 1
+664 1746 2
+664 1043 1
+664 1268 1
+664 1270 1
+664 1122 1
+664 697 2
+664 700 1
+664 1627 1
+664 1279 1
+664 1584 1
+664 1819 1
+664 1758 1
+664 1529 3
+664 707 1
+664 682 1
+664 1059 1
+664 1286 1
+664 1470 1
+664 1063 1
+664 1553 1
+665 870 1
+665 1296 3
+665 1527 1
+665 1185 2
+665 1587 1
+665 1657 2
+665 728 1
+665 1307 1
+665 1848 4
+665 1301 1
+665 1788 1
+665 1734 1
+665 1814 1
+665 808 1
+665 701 1
+665 1746 1
+665 830 1
+665 912 1
+665 1750 1
+665 821 1
+665 1100 1
+665 1455 2
+665 1754 1
+665 1688 1
+665 1051 1
+665 771 1
+665 1283 1
+665 1462 1
+665 941 1
+665 1148 1
+665 816 1
+665 883 1
+665 1534 1
+665 895 1
+666 857 1
+666 1091 1
+667 1671 1
+667 1546 1
+667 1060 1
+668 891 1
+668 1304 1
+668 740 1
+669 1655 1
+669 1324 1
+670 785 1
+670 1188 1
+670 923 1
+671 1504 1
+671 1786 1
+671 1673 1
+672 908 1
+672 1693 1
+673 1726 1
+674 1181 1
+675 1234 1
+675 1257 1
+675 1416 1
+675 1288 1
+675 1614 1
+676 1200 1
+676 1495 1
+677 1458 1
+677 1071 1
+678 741 1
+678 1746 1
+678 1043 1
+678 722 1
+678 697 2
+678 1765 1
+678 1604 1
+678 1114 1
+678 1059 1
+678 1356 1
+678 683 1
+678 761 1
+679 825 1
+679 1620 1
+680 788 1
+680 745 1
+681 1529 1
+681 799 1
+681 862 1
+681 1635 1
+681 1824 1
+681 1651 1
+682 1286 1
+682 756 1
+682 1693 1
+683 1059 1
+684 868 1
+684 1408 1
+685 697 1
+685 1193 1
+686 839 1
+686 1100 1
+687 1571 1
+687 1279 1
+687 1435 1
+687 767 1
+687 1505 1
+687 998 1
+688 1251 1
+688 713 1
+688 1592 1
+689 1622 1
+689 1693 1
+690 1746 1
+690 1643 1
+691 1270 1
+691 1248 1
+692 858 1
+692 869 1
+693 1328 1
+693 1350 1
+693 1795 1
+694 1291 1
+694 1067 1
+694 1718 1
+694 857 1
+695 1368 1
+695 1713 1
+696 787 1
+696 966 1
+696 954 1
+697 1542 1
+697 782 1
+697 1692 1
+697 1296 1
+697 1706 1
+697 1239 1
+697 1241 1
+697 1726 1
+697 963 1
+697 1842 1
+697 720 1
+697 1193 1
+697 1312 1
+697 1155 1
+697 904 1
+697 741 1
+697 1794 1
+697 1746 1
+697 850 1
+697 928 1
+697 1446 1
+697 1622 1
+697 1273 3
+697 1165 1
+697 750 1
+697 1675 1
+697 1765 1
+697 1409 1
+697 1394 2
+697 1529 2
+697 763 1
+698 1289 1
+698 930 1
+698 1056 1
+699 751 1
+699 1809 1
+699 1154 1
+700 988 1
+700 1470 1
+701 1301 1
+701 1462 1
+701 1754 1
+702 1466 1
+702 1376 1
+703 1482 1
+703 1677 1
+704 1344 1
+704 885 1
+704 1570 1
+704 1848 1
+704 1652 1
+704 955 1
+705 1356 1
+705 1279 1
+705 1771 1
+705 1145 1
+705 1140 1
+706 856 1
+706 811 1
+707 1486 1
+707 1309 1
+708 813 1
+708 950 1
+709 1541 1
+710 1105 1
+710 1518 1
+710 1705 1
+710 786 1
+710 1293 1
+711 912 1
+711 1848 1
+712 904 1
+713 1251 1
+713 1592 1
+715 1320 1
+715 1243 1
+716 1366 1
+716 981 1
+716 1693 1
+716 829 1
+718 972 1
+718 1294 1
+718 1848 1
+719 1191 1
+719 1796 1
+719 1629 1
+719 1475 1
+719 1386 1
+720 963 1
+720 1529 1
+720 1794 1
+721 923 1
+722 1604 1
+722 1043 1
+722 761 1
+722 1746 1
+723 916 1
+723 1223 1
+724 1389 1
+724 914 1
+724 1399 1
+725 1650 1
+725 1064 1
+726 1242 1
+726 1860 1
+726 1476 1
+727 1558 1
+727 1150 1
+727 923 1
+728 1514 1
+728 941 1
+728 1734 1
+728 1560 1
+728 1188 1
+728 1746 1
+729 1651 1
+729 1693 1
+730 1395 1
+730 734 1
+730 831 1
+730 1693 1
+731 1863 1
+731 1726 1
+732 1228 1
+732 1161 1
+732 1705 1
+732 786 1
+732 1599 1
+733 766 1
+733 1206 1
+734 1315 1
+734 1559 1
+734 1339 1
+734 1038 1
+734 1795 1
+734 1135 1
+734 1468 1
+734 1825 1
+734 1004 1
+734 1123 1
+734 1693 1
+734 1196 1
+734 831 2
+734 752 1
+734 795 1
+734 1529 1
+734 1395 1
+734 1787 1
+734 1640 1
+734 1685 1
+734 1553 3
+735 1794 1
+735 1453 1
+735 772 1
+735 776 1
+735 1693 1
+736 1694 1
+736 1860 1
+736 1378 1
+736 1281 1
+737 1245 1
+737 1772 1
+737 842 1
+737 767 1
+738 1561 1
+738 1186 1
+739 1703 1
+740 891 1
+740 1304 1
+742 994 1
+742 762 1
+743 1665 1
+743 1658 1
+743 822 1
+743 1693 1
+744 1557 1
+744 1039 1
+744 1201 1
+745 1315 1
+745 788 1
+745 1068 1
+745 1249 1
+745 1553 2
+745 799 1
+746 943 1
+746 1271 1
+746 851 1
+747 866 1
+747 849 1
+747 1464 1
+747 1279 1
+747 1651 1
+747 767 1
+749 1573 1
+749 1754 1
+749 1737 1
+749 1344 1
+749 1840 1
+750 1823 1
+750 1405 1
+750 1478 1
+750 1692 1
+750 1819 1
+750 1196 1
+750 1542 1
+751 1809 1
+751 1154 1
+752 1123 1
+752 1559 1
+752 1553 1
+752 795 1
+753 1749 1
+753 1595 1
+754 911 1
+754 1746 2
+755 809 1
+755 1848 1
+756 1286 1
+756 1693 1
+757 1457 1
+757 1113 1
+757 1337 1
+757 1320 1
+758 1608 1
+758 1131 1
+758 1693 1
+759 1128 1
+759 1083 1
+759 791 1
+759 1848 1
+759 1553 1
+759 1860 1
+761 1604 1
+761 1043 1
+761 1746 1
+762 994 1
+763 1279 1
+763 1053 1
+763 961 1
+763 1746 1
+764 1749 1
+764 1100 1
+764 1595 1
+765 1239 1
+765 1651 1
+765 1419 1
+766 1206 1
+767 1307 1
+767 1667 1
+767 1795 1
+767 842 1
+767 1772 1
+767 998 1
+767 1210 2
+767 920 1
+767 989 1
+767 1651 1
+767 1571 1
+767 1391 1
+767 1279 4
+767 1245 1
+767 1576 1
+767 1459 1
+767 1505 1
+767 1501 1
+767 1556 1
+767 1435 1
+767 1149 1
+767 1255 1
+767 866 1
+768 781 1
+768 1308 1
+768 1659 1
+769 1743 1
+769 864 1
+770 1812 1
+771 1534 1
+772 1453 1
+772 1794 1
+772 776 1
+772 1693 1
+773 1529 1
+774 1726 1
+775 1333 1
+775 1794 1
+775 1792 1
+775 1423 1
+776 1316 1
+776 1755 2
+776 1794 1
+776 1693 1
+776 1796 1
+776 1180 1
+776 1239 1
+776 1453 1
+777 946 1
+777 1237 1
+778 1749 1
+778 1009 1
+778 1770 1
+779 865 1
+779 949 1
+779 1326 1
+779 1126 1
+780 1122 1
+780 900 1
+781 1308 1
+781 1659 1
+782 1446 1
+783 1849 1
+783 1588 1
+783 888 1
+784 1397 1
+784 1522 1
+785 838 1
+785 923 1
+785 1746 1
+785 1651 1
+785 1188 1
+785 1453 1
+786 1228 1
+786 1705 1
+786 1105 1
+786 1293 1
+786 1161 1
+786 1518 1
+786 1599 1
+787 954 2
+787 1628 1
+787 966 2
+789 1585 1
+789 1141 1
+789 1239 1
+789 1279 1
+790 1796 1
+790 1816 1
+790 1657 1
+790 1795 1
+791 1848 1
+791 1128 1
+792 1649 1
+792 1844 1
+792 1804 1
+793 1555 1
+794 1681 1
+794 1158 1
+795 1123 1
+795 1559 1
+795 1553 1
+796 1110 1
+796 1418 1
+796 1632 1
+796 1073 1
+796 801 1
+796 1235 1
+796 856 1
+796 1516 1
+796 1848 1
+797 851 1
+797 1253 1
+797 1746 1
+798 1661 1
+798 1776 1
+798 1233 1
+798 1325 1
+799 1635 1
+799 1529 1
+799 913 1
+799 1016 1
+799 1651 1
+799 1249 1
+799 1553 1
+800 878 1
+801 856 1
+801 1235 1
+802 1214 1
+802 1247 1
+802 1190 1
+803 1487 1
+803 1523 1
+804 1315 1
+804 1371 1
+805 1455 1
+805 1704 1
+805 1458 1
+805 1156 1
+805 1756 1
+805 1836 1
+805 1297 1
+805 1450 1
+805 1185 1
+806 1837 1
+806 1110 1
+806 1870 1
+807 1296 1
+808 912 1
+808 1148 1
+808 1587 1
+808 1657 1
+809 1848 1
+810 1477 1
+810 1651 1
+810 1163 1
+811 856 1
+812 1616 1
+812 1400 1
+812 1848 1
+813 950 1
+814 1444 1
+814 1795 1
+815 1103 1
+815 1236 1
+816 830 1
+816 883 1
+816 1750 1
+817 1355 1
+817 1575 1
+817 936 1
+817 1619 1
+817 1582 1
+817 1090 1
+817 1467 1
+817 1151 1
+817 959 1
+818 1083 2
+818 1642 1
+818 1453 1
+819 1529 1
+819 1714 1
+820 1047 1
+820 1360 1
+821 1404 1
+821 1848 1
+821 1050 1
+821 1051 1
+821 1491 1
+821 1814 1
+821 1044 1
+821 1196 1
+821 1453 1
+822 1665 1
+822 1658 1
+822 1693 1
+823 1296 1
+823 1867 1
+823 1862 1
+824 1693 1
+824 1867 1
+824 1564 1
+825 976 1
+825 1620 1
+825 1848 1
+826 1089 1
+826 1763 1
+827 1078 1
+827 1848 1
+828 1239 1
+828 1651 1
+828 1709 1
+830 1601 1
+830 1317 1
+830 923 1
+830 1578 1
+830 1750 1
+830 969 1
+830 1429 1
+830 883 1
+831 1395 1
+831 1693 1
+831 1135 1
+831 1795 1
+832 1848 1
+833 1169 1
+833 1808 1
+834 1143 1
+835 1179 1
+835 1551 1
+836 1376 2
+836 1214 2
+836 1548 1
+837 1590 1
+837 1668 1
+837 882 1
+837 1108 1
+837 1613 1
+837 1712 1
+837 1201 1
+837 1693 1
+838 1651 1
+838 1453 1
+838 1746 1
+839 1100 1
+840 1796 1
+840 1529 1
+840 1441 1
+840 1762 1
+841 1200 1
+842 1245 1
+842 1772 1
+843 1240 1
+843 1693 1
+844 1737 1
+844 1848 1
+845 1346 2
+845 932 1
+845 1536 2
+846 1166 1
+846 1016 1
+846 1406 1
+847 1080 1
+847 1315 1
+847 1676 1
+847 1650 1
+848 1593 1
+848 1559 1
+848 1633 1
+849 1130 1
+849 1565 1
+849 1841 1
+849 1464 1
+849 1858 1
+850 983 1
+850 1627 1
+850 1782 1
+850 1693 1
+850 1797 1
+850 1273 1
+850 1553 1
+851 1316 1
+851 1098 1
+851 1746 1
+851 1622 1
+851 958 1
+851 1682 1
+851 1159 1
+851 1452 1
+851 1677 1
+851 943 1
+851 909 1
+851 1253 1
+851 1313 1
+851 1553 1
+852 1813 1
+853 1856 1
+855 912 1
+855 1873 1
+855 1693 1
+856 1027 1
+856 1746 1
+856 1235 1
+856 931 1
+856 897 1
+856 1489 1
+857 1718 1
+857 1072 1
+857 1307 1
+857 1091 1
+857 1751 1
+858 1524 1
+858 1085 1
+858 869 1
+858 1678 1
+858 1664 1
+858 1160 1
+858 1384 1
+858 965 1
+858 990 1
+859 1027 1
+860 1726 1
+860 1744 1
+861 1860 1
+861 1651 1
+861 1188 1
+861 1725 1
+861 1726 1
+862 1824 1
+862 1285 1
+862 1094 1
+862 972 1
+862 1848 3
+862 1375 1
+863 1699 1
+863 1753 1
+864 905 1
+864 1558 1
+864 1584 1
+864 871 1
+864 1743 1
+864 1503 1
+865 1143 1
+865 1239 1
+865 1326 1
+865 1358 1
+866 1651 1
+866 1279 1
+867 1730 1
+867 1693 1
+867 1670 1
+867 1481 1
+868 1408 1
+870 1455 1
+870 1688 1
+871 905 1
+871 1558 1
+871 1584 1
+871 1503 1
+872 1850 1
+873 1110 1
+873 1111 1
+873 1848 1
+874 1486 1
+874 1354 1
+874 1639 1
+875 1445 1
+875 1693 1
+876 1529 1
+876 1795 1
+876 1752 1
+877 1342 1
+877 1434 2
+877 1553 1
+877 1338 1
+877 1693 1
+879 1345 1
+879 1012 1
+879 1693 1
+880 1127 1
+880 1711 1
+880 1550 1
+880 1693 1
+881 1287 1
+881 1260 1
+881 1705 1
+881 1767 1
+882 1590 1
+882 1693 1
+882 1712 1
+882 1613 1
+883 1750 1
+884 1626 1
+884 1212 1
+884 1382 1
+885 1021 1
+885 955 1
+886 1675 1
+886 1090 1
+886 1553 1
+887 993 1
+887 1648 1
+887 1500 1
+888 1849 1
+888 1258 1
+888 1588 1
+888 1603 1
+888 1827 1
+888 1312 1
+888 1623 1
+889 1507 1
+889 1528 1
+889 1046 1
+890 1577 1
+890 1185 1
+891 1304 1
+892 940 1
+892 937 1
+892 934 1
+892 1057 1
+893 1403 1
+894 1146 1
+894 1702 1
+894 1547 1
+895 1455 1
+895 1283 1
+895 1527 1
+896 1119 1
+896 1377 1
+896 1351 1
+896 1442 1
+896 1054 1
+896 907 1
+896 1467 1
+897 1027 1
+897 1489 1
+897 1746 1
+898 1132 1
+898 1219 1
+900 1122 1
+902 1689 1
+902 1717 1
+902 1553 1
+902 1618 1
+902 1825 1
+903 1081 1
+903 1693 1
+904 1239 1
+905 1558 1
+905 1584 1
+905 1503 1
+906 938 1
+906 1693 1
+908 1693 1
+909 1677 1
+909 1316 1
+909 1313 1
+909 1553 1
+911 1529 1
+911 1394 1
+911 923 1
+911 1746 1
+912 1320 1
+912 1233 1
+912 1102 1
+912 1824 1
+912 1698 1
+912 1344 1
+912 1568 1
+912 1587 1
+912 1657 1
+912 1336 1
+912 1364 1
+912 1693 1
+912 1811 1
+912 1873 1
+912 1148 1
+912 1848 1
+913 1531 1
+913 1471 1
+913 1016 2
+913 1693 1
+913 1781 1
+913 1201 1
+914 1399 1
+915 984 1
+915 1045 1
+915 1417 1
+916 1223 1
+917 1651 1
+917 1453 1
+917 1510 1
+918 1499 1
+918 1096 1
+919 1474 1
+919 1693 1
+920 1210 1
+920 1279 1
+921 1222 1
+921 1490 1
+921 1341 1
+922 944 1
+922 1049 1
+922 1848 1
+923 1529 1
+923 1086 1
+923 1795 2
+923 1394 1
+923 1825 1
+923 1188 1
+923 1677 1
+923 1558 1
+923 1337 1
+923 1693 1
+923 1463 1
+923 1860 1
+923 969 1
+923 1150 1
+923 1553 2
+923 1790 1
+925 1437 1
+925 1769 1
+925 1353 1
+925 1152 1
+926 1591 1
+927 1330 1
+927 1331 1
+928 1194 1
+928 1473 1
+928 1296 1
+928 967 1
+928 1706 1
+928 982 1
+928 1241 1
+928 1606 1
+928 1035 1
+929 1296 1
+930 1289 1
+930 1056 1
+932 1536 1
+932 1346 1
+933 1785 1
+933 1198 1
+934 940 1
+934 937 1
+934 1057 1
+935 956 1
+935 953 1
+936 1151 1
+936 1575 1
+937 940 1
+937 1057 1
+938 1693 1
+939 1238 1
+939 1280 1
+939 1618 1
+940 1057 1
+941 1746 1
+941 1734 1
+942 1055 1
+942 1574 1
+942 1759 1
+944 1850 1
+944 1049 1
+944 1701 1
+944 1848 1
+945 1203 1
+945 1167 1
+945 1014 1
+946 1237 1
+947 1403 1
+948 1610 1
+949 1126 1
+951 1651 1
+951 1763 1
+952 1622 1
+952 1410 1
+952 1693 1
+953 956 1
+954 1628 1
+954 966 2
+955 1848 1
+955 1791 1
+955 1021 1
+959 1355 1
+959 1582 1
+959 1090 1
+959 1467 1
+959 1619 1
+960 1183 1
+961 1279 1
+961 1053 1
+961 1733 1
+961 1094 1
+961 1746 1
+962 1825 1
+962 1553 1
+963 1529 1
+963 1794 1
+964 1239 1
+965 1160 1
+965 1524 1
+966 1628 1
+967 1473 1
+967 1035 1
+968 1412 1
+968 1825 1
+968 1693 1
+970 1040 1
+971 1694 1
+971 1825 1
+971 1795 1
+972 1294 1
+972 1199 1
+972 1375 1
+972 1848 1
+972 1831 1
+973 1315 1
+973 1207 1
+973 1449 1
+973 1178 1
+974 1593 1
+974 1691 1
+974 1589 1
+974 1651 1
+974 1117 1
+975 1798 1
+976 1157 1
+976 1645 1
+976 1848 1
+977 1708 1
+977 1436 1
+977 1327 1
+979 1725 1
+979 1599 1
+980 1526 1
+981 1366 1
+981 1693 1
+982 1194 1
+982 1606 1
+983 1797 1
+983 1627 1
+983 1782 1
+984 1045 1
+984 1417 1
+985 1379 1
+985 1597 1
+985 1002 1
+985 1107 1
+985 1646 1
+985 1562 1
+986 1693 1
+987 1344 1
+987 1376 1
+987 1666 1
+987 1693 1
+988 1470 1
+989 1576 1
+989 1667 1
+990 1664 1
+991 1866 1
+991 1134 1
+991 1835 1
+992 1374 1
+992 1290 1
+992 1408 1
+993 1648 1
+993 1500 1
+995 1426 1
+996 1492 1
+996 1848 1
+997 1188 1
+997 1594 1
+997 1356 1
+997 1730 1
+998 1571 1
+998 1279 1
+998 1435 1
+998 1505 1
+999 1805 1
+999 1693 1
+1000 1443 1
+1001 1848 1
+1001 1218 1
+1002 1379 1
+1002 1597 1
+1002 1646 1
+1002 1107 1
+1002 1562 1
+1003 1721 1
+1003 1352 1
+1003 1469 1
+1004 1640 1
+1004 1825 1
+1005 1312 1
+1005 1559 1
+1005 1401 1
+1005 1209 1
+1006 1588 1
+1006 1528 1
+1007 1239 1
+1007 1302 1
+1007 1825 1
+1008 1213 1
+1008 1272 1
+1009 1749 1
+1009 1770 1
+1010 1484 1
+1010 1168 1
+1010 1279 1
+1010 1106 1
+1010 1693 1
+1012 1345 1
+1012 1693 1
+1013 1532 1
+1013 1097 1
+1014 1203 1
+1014 1167 1
+1015 1143 1
+1015 1839 1
+1016 1471 1
+1016 1166 1
+1016 1406 1
+1017 1869 1
+1017 1720 1
+1018 1860 1
+1019 1139 1
+1020 1322 1
+1020 1687 1
+1020 1447 1
+1022 1726 1
+1023 1651 1
+1023 1449 1
+1024 1826 1
+1024 1436 1
+1024 1580 1
+1024 1351 1
+1025 1315 1
+1025 1369 1
+1025 1049 1
+1027 1489 1
+1027 1746 1
+1028 1384 1
+1029 1539 1
+1029 1411 1
+1030 1691 1
+1030 1861 1
+1031 1380 1
+1032 1358 1
+1032 1795 1
+1032 1337 1
+1033 1373 1
+1033 1430 1
+1034 1268 1
+1034 1693 1
+1034 1279 1
+1035 1473 1
+1036 1115 1
+1036 1157 1
+1036 1848 1
+1037 1777 1
+1037 1063 1
+1037 1672 1
+1037 1244 1
+1038 1315 1
+1038 1049 1
+1038 1825 1
+1038 1651 1
+1038 1449 1
+1038 1553 2
+1038 1339 1
+1039 1557 1
+1039 1201 1
+1041 1786 1
+1041 1367 1
+1042 1182 1
+1042 1800 1
+1043 1604 1
+1043 1746 1
+1044 1690 1
+1044 1246 1
+1044 1802 1
+1044 1513 1
+1044 1136 1
+1044 1615 1
+1045 1417 1
+1046 1507 1
+1046 1528 1
+1047 1360 1
+1048 1773 1
+1048 1853 1
+1048 1656 1
+1049 1315 2
+1049 1612 1
+1049 1636 1
+1049 1553 1
+1049 1679 1
+1049 1369 1
+1049 1825 2
+1049 1651 2
+1049 1449 1
+1049 1868 1
+1049 1848 1
+1050 1404 1
+1051 1814 1
+1051 1848 1
+1052 1138 1
+1053 1746 1
+1053 1279 1
+1054 1119 1
+1054 1377 1
+1054 1351 1
+1055 1759 1
+1055 1574 1
+1056 1289 1
+1058 1370 1
+1058 1694 1
+1058 1074 1
+1060 1671 1
+1060 1546 1
+1061 1493 1
+1061 1296 1
+1063 1529 1
+1063 1316 1
+1063 1777 1
+1063 1244 1
+1063 1553 1
+1063 1672 1
+1063 1693 1
+1064 1650 1
+1065 1250 1
+1065 1651 1
+1065 1553 1
+1065 1693 1
+1066 1506 1
+1066 1465 1
+1067 1291 1
+1068 1315 1
+1068 1553 1
+1069 1356 1
+1070 1726 1
+1070 1693 1
+1071 1458 1
+1072 1178 1
+1072 1307 1
+1073 1632 1
+1074 1694 1
+1074 1370 1
+1075 1871 1
+1075 1322 1
+1075 1779 1
+1076 1724 1
+1076 1231 1
+1077 1741 1
+1077 1540 1
+1077 1446 1
+1078 1848 1
+1079 1230 1
+1079 1758 1
+1079 1778 1
+1080 1315 1
+1081 1693 1
+1082 1305 1
+1082 1351 1
+1082 1137 1
+1083 1642 1
+1083 1553 1
+1083 1860 1
+1083 1453 1
+1084 1329 1
+1084 1430 1
+1084 1818 1
+1085 1384 1
+1085 1678 1
+1086 1677 1
+1086 1553 1
+1087 1153 1
+1087 1801 1
+1088 1162 1
+1088 1609 1
+1090 1675 1
+1090 1467 1
+1090 1619 1
+1090 1582 1
+1090 1355 1
+1090 1553 1
+1092 1780 1
+1092 1606 1
+1093 1784 1
+1093 1825 1
+1093 1618 1
+1094 1733 1
+1094 1848 1
+1095 1278 1
+1095 1332 1
+1096 1499 1
+1097 1532 1
+1097 1757 1
+1097 1848 1
+1098 1452 1
+1099 1854 1
+1099 1393 1
+1099 1761 1
+1100 1722 1
+1100 1595 1
+1100 1749 1
+1100 1726 1
+1100 1848 1
+1101 1548 1
+1101 1537 1
+1101 1653 1
+1102 1233 1
+1102 1344 1
+1103 1236 1
+1104 1239 1
+1104 1651 1
+1104 1617 1
+1104 1719 1
+1105 1518 1
+1105 1293 1
+1106 1168 1
+1106 1693 1
+1107 1379 1
+1107 1597 1
+1107 1646 1
+1107 1562 1
+1108 1668 1
+1108 1201 1
+1109 1825 1
+1109 1693 1
+1110 1837 1
+1110 1870 1
+1110 1111 1
+1110 1418 1
+1110 1516 1
+1110 1848 1
+1111 1848 1
+1112 1485 1
+1112 1764 1
+1113 1457 1
+1113 1337 1
+1113 1320 1
+1114 1356 1
+1115 1157 1
+1115 1848 1
+1116 1184 1
+1116 1572 1
+1116 1586 1
+1116 1136 1
+1117 1593 1
+1117 1691 1
+1117 1589 1
+1118 1298 1
+1118 1848 1
+1119 1377 1
+1119 1351 1
+1120 1218 1
+1121 1347 1
+1121 1669 1
+1123 1559 1
+1123 1553 1
+1124 1498 1
+1124 1693 1
+1127 1711 1
+1127 1550 1
+1127 1693 1
+1128 1848 1
+1129 1296 1
+1129 1502 1
+1129 1545 1
+1129 1848 1
+1130 1841 1
+1130 1565 1
+1130 1858 1
+1131 1608 1
+1132 1219 1
+1133 1252 1
+1133 1775 1
+1133 1660 1
+1134 1866 1
+1134 1835 1
+1135 1795 1
+1136 1184 1
+1136 1586 1
+1136 1382 1
+1136 1690 1
+1136 1802 1
+1136 1413 1
+1136 1390 1
+1136 1246 1
+1136 1282 1
+1136 1513 1
+1136 1848 1
+1136 1572 1
+1136 1314 1
+1136 1638 1
+1136 1615 1
+1137 1305 1
+1137 1351 1
+1140 1356 1
+1140 1279 1
+1140 1771 1
+1140 1145 1
+1141 1585 1
+1141 1279 1
+1142 1175 1
+1142 1323 1
+1143 1461 1
+1143 1839 1
+1143 1239 1
+1143 1358 1
+1144 1774 1
+1144 1694 1
+1145 1356 1
+1145 1279 1
+1145 1771 1
+1146 1702 1
+1146 1547 1
+1147 1724 1
+1148 1657 1
+1148 1587 1
+1150 1558 1
+1151 1575 1
+1152 1769 1
+1152 1437 1
+1152 1353 1
+1153 1637 1
+1153 1209 1
+1153 1801 1
+1154 1809 1
+1155 1622 1
+1156 1756 1
+1157 1740 1
+1157 1645 1
+1157 1848 2
+1158 1681 1
+1159 1822 1
+1159 1682 1
+1159 1748 1
+1160 1524 1
+1161 1228 1
+1161 1705 1
+1161 1599 1
+1162 1609 1
+1163 1477 1
+1163 1651 1
+1165 1409 1
+1166 1406 1
+1167 1203 1
+1168 1693 1
+1169 1808 1
+1170 1872 1
+1171 1427 1
+1172 1204 1
+1172 1394 2
+1172 1726 2
+1174 1421 1
+1174 1788 1
+1174 1211 1
+1175 1323 1
+1177 1843 1
+1177 1625 1
+1177 1337 1
+1178 1315 1
+1178 1207 1
+1178 1449 1
+1179 1551 1
+1180 1755 1
+1182 1385 1
+1182 1800 1
+1184 1572 1
+1184 1586 1
+1185 1438 1
+1185 1704 1
+1185 1307 1
+1185 1296 2
+1185 1235 1
+1185 1297 1
+1185 1450 1
+1185 1276 1
+1185 1715 1
+1185 1577 1
+1185 1385 1
+1185 1848 2
+1185 1788 1
+1185 1815 1
+1186 1561 1
+1188 1735 1
+1188 1529 1
+1188 1795 1
+1188 1514 1
+1188 1594 1
+1188 1356 1
+1188 1484 1
+1188 1651 2
+1188 1273 1
+1188 1279 1
+1188 1425 1
+1188 1725 1
+1188 1860 1
+1188 1730 1
+1188 1560 1
+1188 1764 1
+1188 1825 1
+1189 1848 1
+1190 1747 1
+1190 1573 1
+1190 1214 1
+1190 1247 1
+1191 1796 1
+1191 1629 1
+1191 1475 1
+1191 1386 1
+1192 1851 1
+1194 1606 1
+1195 1512 1
+1195 1867 1
+1196 1823 1
+1196 1787 1
+1196 1453 1
+1196 1553 1
+1196 1491 1
+1197 1836 1
+1197 1715 1
+1197 1483 1
+1198 1785 1
+1199 1831 1
+1200 1448 1
+1200 1495 1
+1201 1781 1
+1201 1693 1
+1201 1531 1
+1201 1668 1
+1201 1557 1
+1202 1555 1
+1204 1726 1
+1204 1394 1
+1205 1848 1
+1205 1319 1
+1205 1491 1
+1207 1315 1
+1207 1449 1
+1208 1651 1
+1208 1486 1
+1209 1637 1
+1209 1312 1
+1209 1559 1
+1209 1401 1
+1210 1556 1
+1210 1279 2
+1210 1459 1
+1211 1421 1
+1211 1788 1
+1212 1626 1
+1212 1382 1
+1213 1227 1
+1213 1644 1
+1213 1269 1
+1213 1272 1
+1214 1376 2
+1214 1548 1
+1214 1247 1
+1215 1727 1
+1215 1441 1
+1216 1833 1
+1216 1306 1
+1216 1795 1
+1217 1383 1
+1217 1549 1
+1217 1693 1
+1217 1256 1
+1218 1865 1
+1218 1848 2
+1220 1816 1
+1220 1696 1
+1221 1398 1
+1221 1848 1
+1222 1490 1
+1222 1341 1
+1224 1556 1
+1225 1232 1
+1226 1305 1
+1227 1269 1
+1227 1644 1
+1228 1705 1
+1228 1599 1
+1229 1349 1
+1230 1778 1
+1230 1758 1
+1231 1724 1
+1233 1344 1
+1233 1325 1
+1233 1661 1
+1233 1776 1
+1234 1257 1
+1234 1416 1
+1234 1288 1
+1234 1614 1
+1235 1715 1
+1235 1276 1
+1238 1280 1
+1238 1618 1
+1239 1820 1
+1239 1792 1
+1239 1709 1
+1239 1825 2
+1239 1650 1
+1239 1651 3
+1239 1302 1
+1239 1419 1
+1239 1358 1
+1239 1845 1
+1239 1598 1
+1239 1617 1
+1239 1316 1
+1239 1680 1
+1239 1446 1
+1239 1456 1
+1239 1860 1
+1239 1719 1
+1239 1520 1
+1239 1796 1
+1239 1850 1
+1239 1832 1
+1239 1553 2
+1240 1693 1
+1241 1296 1
+1241 1706 1
+1242 1860 1
+1242 1476 1
+1243 1320 1
+1244 1777 1
+1244 1672 1
+1245 1772 1
+1246 1690 1
+1246 1802 1
+1246 1513 1
+1246 1615 1
+1248 1270 1
+1249 1553 1
+1250 1821 1
+1250 1267 1
+1250 1693 2
+1251 1592 1
+1252 1775 1
+1252 1660 1
+1253 1684 1
+1253 1746 2
+1254 1611 1
+1254 1526 1
+1255 1391 2
+1255 1279 1
+1255 1795 1
+1255 1307 2
+1255 1396 1
+1256 1383 1
+1256 1549 1
+1256 1693 1
+1257 1416 1
+1257 1288 1
+1257 1614 1
+1258 1310 1
+1258 1603 1
+1258 1623 1
+1258 1296 1
+1259 1588 1
+1260 1287 1
+1260 1705 1
+1260 1767 1
+1261 1267 1
+1261 1693 1
+1262 1846 1
+1262 1875 1
+1263 1519 1
+1263 1362 1
+1265 1529 1
+1265 1394 1
+1266 1359 1
+1266 1532 1
+1266 1848 1
+1266 1528 1
+1267 1821 1
+1267 1693 2
+1268 1693 1
+1268 1279 1
+1269 1644 1
+1272 1544 1
+1273 1529 1
+1273 1358 1
+1273 1480 1
+1274 1458 1
+1274 1421 1
+1275 1730 1
+1276 1715 1
+1277 1303 1
+1277 1381 1
+1278 1332 1
+1279 1585 1
+1279 1735 1
+1279 1307 1
+1279 1356 1
+1279 1484 1
+1279 1726 1
+1279 1425 1
+1279 1556 1
+1279 1435 1
+1279 1794 1
+1279 1795 2
+1279 1746 1
+1279 1771 1
+1279 1396 1
+1279 1651 2
+1279 1571 1
+1279 1391 1
+1279 1459 1
+1279 1693 1
+1279 1505 1
+1280 1618 1
+1281 1694 1
+1281 1860 1
+1281 1378 1
+1282 1390 1
+1282 1382 1
+1282 1848 1
+1283 1455 1
+1283 1527 1
+1284 1578 1
+1284 1528 1
+1285 1848 1
+1286 1693 1
+1287 1705 1
+1287 1767 1
+1288 1416 1
+1288 1614 1
+1290 1374 1
+1290 1408 1
+1291 1794 1
+1291 1705 1
+1292 1794 1
+1292 1651 1
+1293 1518 1
+1293 1433 1
+1293 1726 1
+1295 1680 1
+1295 1497 1
+1295 1745 1
+1295 1535 1
+1296 1783 1
+1296 1867 1
+1296 1545 1
+1296 1706 1
+1296 1862 1
+1296 1493 1
+1296 1657 1
+1296 1525 1
+1296 1307 1
+1296 1310 1
+1296 1502 1
+1296 1788 1
+1296 1848 2
+1297 1704 1
+1297 1450 1
+1297 1554 1
+1298 1848 1
+1299 1424 1
+1300 1760 1
+1300 1340 1
+1301 1462 1
+1301 1754 1
+1302 1825 1
+1303 1381 1
+1305 1351 1
+1306 1833 1
+1306 1795 1
+1307 1391 2
+1307 1795 1
+1307 1396 1
+1308 1659 1
+1309 1486 1
+1311 1387 1
+1311 1642 1
+1312 1559 1
+1312 1746 1
+1312 1827 1
+1312 1401 1
+1313 1677 1
+1313 1316 1
+1313 1553 1
+1315 1766 1
+1315 1868 1
+1315 1515 1
+1315 1543 1
+1315 1825 1
+1315 1339 1
+1315 1449 1
+1315 1369 1
+1315 1371 1
+1315 1676 1
+1315 1432 1
+1315 1852 1
+1315 1361 1
+1315 1622 1
+1315 1612 1
+1315 1521 1
+1315 1454 1
+1315 1693 2
+1315 1553 3
+1316 1796 1
+1316 1677 1
+1316 1693 1
+1316 1529 1
+1316 1553 1
+1317 1578 1
+1317 1429 1
+1318 1731 1
+1318 1693 1
+1319 1848 1
+1320 1698 1
+1320 1457 1
+1320 1337 1
+1321 1343 1
+1322 1687 1
+1322 1871 1
+1322 1447 1
+1322 1779 1
+1324 1655 1
+1325 1661 1
+1325 1776 1
+1327 1708 1
+1327 1436 1
+1328 1795 1
+1328 1350 1
+1329 1430 1
+1329 1818 1
+1330 1331 1
+1333 1794 1
+1333 1792 1
+1333 1423 1
+1334 1848 1
+1335 1686 1
+1336 1707 1
+1336 1364 1
+1336 1568 1
+1337 1795 3
+1337 1825 1
+1337 1358 1
+1337 1457 1
+1337 1463 1
+1337 1625 1
+1337 1693 1
+1337 1843 1
+1338 1553 1
+1338 1434 1
+1339 1553 1
+1340 1760 1
+1341 1490 1
+1342 1693 1
+1342 1434 1
+1344 1376 1
+1344 1573 1
+1344 1754 1
+1344 1693 1
+1344 1666 1
+1344 1652 1
+1344 1570 1
+1345 1693 1
+1346 1536 2
+1347 1669 1
+1348 1553 1
+1350 1795 1
+1351 1377 1
+1351 1436 1
+1351 1580 1
+1351 1826 1
+1352 1806 1
+1352 1721 1
+1352 1469 1
+1353 1437 1
+1353 1769 1
+1354 1486 1
+1354 1639 1
+1355 1467 1
+1355 1582 1
+1355 1619 1
+1356 1511 1
+1356 1746 1
+1356 1771 1
+1356 1594 1
+1356 1834 1
+1356 1723 1
+1356 1529 1
+1356 1581 1
+1356 1730 1
+1356 1807 1
+1357 1810 1
+1358 1480 1
+1358 1795 2
+1358 1453 1
+1359 1532 1
+1359 1848 1
+1359 1528 1
+1362 1519 1
+1363 1420 1
+1364 1864 1
+1364 1496 1
+1364 1768 1
+1364 1568 1
+1365 1659 1
+1366 1693 1
+1367 1786 1
+1368 1713 1
+1370 1694 1
+1372 1788 1
+1372 1621 1
+1373 1430 1
+1374 1408 1
+1375 1848 1
+1376 1666 1
+1376 1647 1
+1376 1466 1
+1376 1548 1
+1376 1693 1
+1378 1694 2
+1378 1860 1
+1379 1597 1
+1379 1646 1
+1379 1562 1
+1382 1626 1
+1382 1390 1
+1382 1422 1
+1382 1848 2
+1383 1549 1
+1383 1693 1
+1384 1678 1
+1385 1438 1
+1385 1848 1
+1386 1796 1
+1386 1629 1
+1386 1475 1
+1387 1642 1
+1388 1693 1
+1390 1848 1
+1391 1795 1
+1391 1396 1
+1392 1694 1
+1392 1479 1
+1393 1854 1
+1393 1761 1
+1394 1675 1
+1394 1529 4
+1394 1726 3
+1394 1842 1
+1395 1693 1
+1397 1522 1
+1400 1616 1
+1400 1848 1
+1401 1559 1
+1402 1676 1
+1403 1651 1
+1403 1789 1
+1405 1819 1
+1405 1478 1
+1407 1729 1
+1407 1850 1
+1407 1848 1
+1410 1622 2
+1410 1693 1
+1411 1539 1
+1412 1825 1
+1412 1693 1
+1413 1638 1
+1414 1674 1
+1415 1439 1
+1416 1614 1
+1418 1516 1
+1419 1630 1
+1419 1651 1
+1419 1693 1
+1421 1458 1
+1421 1788 1
+1422 1848 1
+1423 1794 1
+1423 1792 1
+1425 1735 1
+1425 1795 1
+1428 1529 1
+1428 1677 1
+1428 1654 1
+1429 1578 1
+1430 1818 1
+1430 1488 1
+1433 1726 1
+1434 1553 1
+1434 1693 2
+1435 1571 1
+1435 1505 1
+1436 1580 1
+1436 1708 1
+1436 1826 1
+1437 1769 1
+1438 1848 1
+1440 1693 1
+1441 1796 1
+1441 1808 1
+1441 1529 1
+1441 1727 1
+1441 1762 1
+1442 1467 1
+1444 1795 1
+1445 1693 1
+1446 1540 1
+1446 1820 1
+1446 1741 1
+1446 1860 1
+1447 1687 1
+1449 1825 1
+1449 1651 2
+1449 1553 1
+1450 1704 1
+1453 1794 1
+1453 1651 2
+1453 1746 2
+1453 1825 1
+1453 1491 1
+1453 1510 1
+1453 1693 1
+1454 1543 1
+1454 1693 1
+1455 1688 1
+1455 1458 1
+1455 1527 1
+1455 1836 1
+1456 1650 1
+1458 1836 1
+1459 1556 1
+1462 1754 1
+1463 1795 1
+1465 1506 1
+1467 1619 1
+1467 1582 1
+1469 1721 1
+1472 1693 1
+1472 1799 1
+1472 1600 1
+1474 1693 1
+1475 1796 1
+1475 1629 1
+1476 1860 1
+1477 1651 1
+1478 1819 1
+1479 1694 1
+1481 1730 1
+1481 1670 1
+1481 1693 1
+1482 1732 1
+1482 1677 1
+1483 1836 1
+1483 1715 1
+1484 1651 1
+1485 1764 1
+1486 1639 1
+1486 1651 1
+1487 1523 1
+1489 1746 1
+1492 1848 1
+1494 1579 1
+1494 1602 1
+1494 1746 1
+1496 1768 1
+1496 1864 1
+1497 1680 1
+1497 1745 1
+1497 1535 1
+1498 1693 1
+1500 1648 1
+1502 1545 1
+1502 1848 1
+1503 1558 1
+1503 1584 1
+1504 1786 1
+1504 1673 1
+1505 1571 1
+1506 1651 1
+1507 1528 1
+1509 1665 1
+1510 1651 1
+1511 1723 1
+1511 1807 1
+1511 1581 1
+1512 1867 1
+1513 1690 1
+1513 1802 1
+1513 1615 1
+1514 1560 1
+1515 1852 1
+1515 1693 1
+1517 1828 1
+1521 1766 1
+1525 1783 1
+1526 1611 1
+1528 1578 1
+1528 1532 1
+1528 1588 1
+1528 1848 1
+1529 1794 1
+1529 1710 1
+1529 1642 1
+1529 1693 1
+1529 1726 1
+1529 1714 1
+1529 1859 1
+1529 1654 1
+1529 1795 3
+1529 1796 1
+1529 1675 1
+1529 1677 1
+1529 1651 1
+1529 1635 1
+1529 1762 1
+1529 1752 1
+1530 1651 1
+1530 1569 1
+1530 1533 1
+1530 1867 1
+1530 1538 1
+1531 1781 1
+1531 1693 1
+1532 1848 1
+1533 1651 1
+1533 1569 1
+1533 1867 1
+1533 1538 1
+1535 1680 1
+1535 1745 1
+1537 1548 1
+1537 1653 1
+1538 1651 1
+1538 1569 1
+1538 1867 1
+1540 1741 1
+1542 1692 1
+1543 1693 1
+1545 1848 1
+1546 1671 1
+1547 1702 1
+1547 1641 1
+1547 1624 1
+1548 1653 1
+1549 1693 1
+1550 1711 1
+1550 1693 1
+1553 1559 1
+1553 1838 1
+1553 1825 7
+1553 1651 2
+1553 1693 3
+1553 1717 2
+1553 1607 1
+1553 1860 1
+1553 1676 1
+1553 1618 2
+1553 1857 1
+1553 1675 1
+1553 1677 2
+1553 1689 2
+1553 1787 1
+1553 1697 1
+1554 1693 1
+1558 1584 1
+1559 1833 1
+1559 1633 1
+1559 1593 1
+1562 1597 1
+1562 1646 1
+1564 1867 1
+1564 1693 1
+1565 1841 1
+1565 1858 1
+1566 1847 1
+1567 1778 1
+1567 1693 1
+1569 1651 1
+1569 1867 1
+1570 1652 1
+1572 1586 1
+1573 1747 1
+1573 1754 1
+1574 1759 1
+1576 1667 1
+1579 1602 1
+1579 1746 1
+1580 1826 1
+1581 1723 1
+1581 1807 1
+1582 1619 1
+1583 1693 1
+1587 1657 1
+1588 1849 1
+1589 1593 1
+1589 1691 1
+1590 1693 1
+1590 1712 1
+1590 1613 1
+1593 1691 1
+1593 1633 1
+1594 1730 1
+1595 1749 3
+1595 1726 1
+1597 1646 1
+1598 1832 1
+1598 1680 1
+1598 1850 1
+1598 1845 1
+1599 1705 1
+1599 1725 1
+1599 1764 1
+1600 1799 1
+1600 1693 1
+1602 1746 1
+1603 1623 1
+1604 1746 1
+1605 1651 1
+1606 1780 1
+1607 1795 1
+1612 1825 1
+1612 1868 1
+1613 1693 1
+1613 1712 1
+1615 1690 1
+1615 1802 1
+1616 1848 1
+1617 1792 1
+1617 1719 1
+1617 1651 1
+1618 1717 2
+1618 1784 1
+1618 1689 2
+1618 1825 3
+1621 1788 1
+1622 1822 1
+1622 1651 1
+1622 1682 1
+1622 1693 2
+1624 1641 1
+1625 1843 1
+1627 1797 1
+1627 1782 1
+1629 1796 1
+1630 1693 1
+1631 1728 1
+1635 1651 1
+1636 1651 1
+1640 1825 1
+1642 1795 1
+1642 1693 1
+1643 1746 1
+1649 1844 1
+1649 1804 1
+1650 1781 1
+1650 1693 1
+1650 1676 1
+1651 1725 1
+1651 1683 1
+1651 1794 1
+1651 1693 1
+1651 1789 1
+1651 1822 1
+1651 1709 1
+1651 1825 1
+1651 1719 1
+1651 1746 1
+1651 1860 1
+1651 1867 1
+1651 1763 1
+1654 1677 1
+1656 1853 1
+1656 1773 1
+1657 1816 1
+1657 1795 1
+1657 1796 1
+1657 1855 1
+1657 1848 1
+1658 1665 1
+1658 1693 1
+1659 1831 1
+1659 1693 1
+1660 1775 1
+1661 1776 1
+1663 1738 1
+1665 1693 1
+1666 1693 1
+1670 1730 1
+1670 1693 1
+1672 1777 1
+1673 1786 1
+1676 1795 1
+1680 1850 1
+1680 1845 1
+1680 1745 1
+1680 1832 1
+1684 1746 1
+1689 1717 2
+1689 1825 2
+1690 1802 1
+1691 1861 1
+1693 1726 1
+1693 1731 1
+1693 1805 1
+1693 1712 1
+1693 1730 1
+1693 1742 1
+1693 1817 1
+1693 1711 1
+1693 1778 1
+1693 1781 2
+1693 1821 1
+1693 1794 1
+1693 1825 5
+1693 1831 1
+1693 1876 1
+1693 1852 1
+1693 1857 1
+1693 1762 1
+1693 1867 1
+1693 1873 1
+1693 1799 1
+1694 1795 1
+1694 1825 1
+1694 1774 1
+1694 1860 1
+1694 1695 1
+1696 1816 1
+1699 1753 1
+1701 1850 1
+1705 1794 1
+1705 1726 1
+1705 1767 1
+1715 1836 1
+1717 1825 2
+1719 1825 1
+1719 1739 1
+1720 1869 1
+1722 1726 1
+1723 1807 1
+1725 1860 1
+1726 1794 1
+1726 1744 1
+1726 1749 1
+1729 1850 1
+1729 1848 1
+1734 1746 1
+1735 1795 1
+1737 1840 1
+1737 1848 1
+1739 1825 1
+1740 1848 1
+1748 1822 1
+1749 1770 1
+1752 1795 1
+1757 1848 1
+1758 1778 1
+1761 1854 1
+1762 1796 1
+1764 1825 1
+1768 1864 1
+1773 1853 1
+1779 1871 1
+1782 1797 1
+1784 1825 1
+1788 1848 2
+1790 1795 1
+1790 1860 1
+1792 1794 1
+1795 1816 1
+1795 1825 1
+1795 1833 1
+1795 1796 1
+1795 1860 1
+1796 1816 1
+1804 1844 1
+1811 1824 1
+1814 1848 1
+1817 1876 1
+1820 1860 1
+1825 1857 1
+1825 1868 1
+1829 1874 1
+1832 1845 1
+1832 1850 1
+1835 1866 1
+1837 1870 1
+1841 1858 1
+1845 1850 1
+1846 1875 1
+1848 1850 1
+1848 1855 1
+1848 1865 1
+1862 1867 1
